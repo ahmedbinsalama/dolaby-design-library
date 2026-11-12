@@ -1,0 +1,620 @@
+[
+  {
+    "id": "P01",
+    "kind": "cover",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "دولابي · بداية الحكاية",
+      "title": "احتمالات جديدة.\nمن ملابسك.",
+      "lead": "إطلالة ليومك تبدأ بقطعة تعرفها.",
+      "cta": "ابدأ بالموجود"
+    },
+    "en": {
+      "eyebrow": "MEET DOLABY",
+      "title": "New possibilities.\nAlready yours.",
+      "lead": "An outfit for your day, beginning with a piece you know.",
+      "cta": "Begin with what you own"
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن احتمالات جديدة. من ملابسك.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about New possibilities. Already yours.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "P02",
+    "kind": "three-outfits",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "من ملابسك · 02",
+      "title": "قميص واحد.\nأكثر من احتمال.",
+      "lead": "ابدأ بقطعة تحبّها، وغيّر ما حولها.",
+      "cta": "احتفظ بالفكرة ليومك القادم",
+      "labels": [
+        "للعمل",
+        "ليوم خفيف",
+        "لمقابلة الأصحاب"
+      ],
+      "sub": [
+        "بنطلون مستقيم",
+        "جينز مريح",
+        "طبقة خفيفة"
+      ]
+    },
+    "en": {
+      "eyebrow": "FROM YOUR WARDROBE · 02",
+      "title": "One shirt.\nMore possibilities.",
+      "lead": "Start with a piece you love. Change what goes with it.",
+      "cta": "Save the idea for another day",
+      "labels": [
+        "Workday",
+        "An easy day",
+        "Meeting friends"
+      ],
+      "sub": [
+        "Straight trousers",
+        "Comfortable denim",
+        "A light layer"
+      ]
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن قميص واحد. أكثر من احتمال.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about One shirt. More possibilities.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "P03",
+    "kind": "outfit",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "اختيار لموقف",
+      "title": "ليوم عمل\nبإيقاعك.",
+      "lead": "قطعة مريحة، ألوان هادئة، ومساحة لذوقك.",
+      "cta": "أي قطعة تبدأ بها؟",
+      "note": "ابدأ بالقميص الذي تملكه، ثم جرّب بنطلونًا مناسبًا وحذاءً مريحًا."
+    },
+    "en": {
+      "eyebrow": "DRESS FOR YOUR DAY",
+      "title": "A workday,\nat your pace.",
+      "lead": "A comfortable piece, calm colors and room for your taste.",
+      "cta": "Which piece would you start with?",
+      "note": "Begin with your own shirt. Try suitable trousers and comfortable shoes."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن ليوم عمل بإيقاعك.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about A workday, at your pace.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "P04",
+    "kind": "steps",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "وراء التنسيق",
+      "title": "ليه القطع دي\nمناسبة لبعض؟",
+      "lead": "سبب بسيط يساعدك تختار أو تغيّر.",
+      "cta": "احفظ الفكرة وجرّبها",
+      "steps": [
+        "قصة مريحة تناسب يومك",
+        "لونان أساسيان وتفصيلة صغيرة",
+        "حذاء مناسب للموقف"
+      ],
+      "note": "الاقتراح قابل للتعديل؛ راحتك هي المرجع."
+    },
+    "en": {
+      "eyebrow": "BEHIND THE OUTFIT",
+      "title": "Why do these\npieces work together?",
+      "lead": "A simple reason helps you choose—or change.",
+      "cta": "Save it and make it yours",
+      "steps": [
+        "A comfortable fit for your day",
+        "Two base colors, one small detail",
+        "Shoes that suit the occasion"
+      ],
+      "note": "A suggestion you can change. Your comfort comes first."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن ليه القطع دي مناسبة لبعض؟؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Why do these pieces work together?. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "P05",
+    "kind": "quote",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "المملوك قبل الشراء",
+      "title": "بداية جديدة\nلقطعة قديمة.",
+      "lead": "مش لازم تشتري حاجة عشان تغيّر التنسيق.",
+      "cta": "جرّب من دولابك",
+      "quote": "جرّب القميص اللي ما لبستوش من فترة، مع قطعة تستخدمها كل يوم."
+    },
+    "en": {
+      "eyebrow": "OWNED BEFORE NEW",
+      "title": "A fresh start\nfor an old favorite.",
+      "lead": "A different outfit does not have to start with a purchase.",
+      "cta": "Try your own wardrobe",
+      "quote": "Bring back the shirt you have not worn in a while. Pair it with an everyday favorite."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن بداية جديدة لقطعة قديمة.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about A fresh start for an old favorite.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "P06",
+    "kind": "question",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "سؤال لليوم",
+      "title": "إيه القطعة\nاللي بترجع لها؟",
+      "lead": "اختيارك المعتاد نقطة بداية نفهم منها ذوقك.",
+      "cta": "شاركنا اختيارك",
+      "question": "تبدأ بالقميص ولا بالحذاء؟",
+      "labels": [
+        "القميص أولًا",
+        "الحذاء أولًا"
+      ]
+    },
+    "en": {
+      "eyebrow": "A WARDROBE QUESTION",
+      "title": "Your starting\npiece?",
+      "lead": "An everyday favorite can be a useful place to begin.",
+      "cta": "Tell us your choice",
+      "question": "Do you start with your shirt or your shoes?",
+      "labels": [
+        "The shirt",
+        "The shoes"
+      ]
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن إيه القطعة اللي بترجع لها؟؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Your starting piece?. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "P07",
+    "kind": "character",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "اتعرف على لابي",
+      "title": "مساعدك.\nوالاختيار لك.",
+      "lead": "اقتراح مفهوم، وسؤال عند الحاجة، ومساحة للتصحيح.",
+      "cta": "إيه المناسبة النهارده؟",
+      "note": "لابي شخصية المساعد داخل دولابي؛ لا يدّعي معرفة ما لم تشاركه."
+    },
+    "en": {
+      "eyebrow": "MEET LABY",
+      "title": "A little help.\nYour own choice.",
+      "lead": "Clear suggestions, useful questions and room to correct.",
+      "cta": "What is the occasion today?",
+      "note": "Laby is the assistant within DoLaby. It does not claim to know what you have not shared."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن مساعدك. والاختيار لك.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about A little help. Your own choice.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "P08",
+    "kind": "cta",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "دولابي · قيد التطوير",
+      "title": "نبدأ\nبقطعة تحبّها؟",
+      "lead": "نطوّر تجربة تبدأ بالمملوك وتترك القرار لك.",
+      "cta": "تابع رحلة دولابي",
+      "note": "هذه دعوة اهتمام بالمفهوم، وليست وعدًا بموعد إطلاق أو خدمة حية."
+    },
+    "en": {
+      "eyebrow": "DOLABY · IN DEVELOPMENT",
+      "title": "Start with\na piece you love.",
+      "lead": "We are shaping an experience that begins with what you own.",
+      "cta": "Follow the DoLaby story",
+      "note": "An invitation to follow the concept—not a launch-date or live-service promise."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن نبدأ بقطعة تحبّها؟؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Start with a piece you love.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "C01",
+    "kind": "cover",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "ملاحظات الدولاب · 01",
+      "title": "قطعة واحدة.\nيوم مختلف.",
+      "lead": "دليل صغير لتنسيق الموجود.",
+      "cta": "اسحب لتكمل"
+    },
+    "en": {
+      "eyebrow": "WARDROBE NOTES · 01",
+      "title": "One piece.\nA different day.",
+      "lead": "A small guide to styling what you already own.",
+      "cta": "Swipe to continue"
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن قطعة واحدة. يوم مختلف.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about One piece. A different day.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "C02",
+    "kind": "question",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "الموقف أولًا",
+      "title": "قبل ما تختار،\nاسأل عن اليوم.",
+      "lead": "الموقف يغيّر التفاصيل، مش لازم يغيّر دولابك كله.",
+      "cta": "ابدأ بسياق واضح",
+      "question": "يوم عمل هادي ولا يوم فيه حركة؟",
+      "labels": [
+        "عمل هادي",
+        "حركة أكتر"
+      ]
+    },
+    "en": {
+      "eyebrow": "CONTEXT COMES FIRST",
+      "title": "Before the outfit,\nthink about the day.",
+      "lead": "A different occasion can change the details, not your whole wardrobe.",
+      "cta": "Begin with the context",
+      "question": "A quiet workday or a day on the move?",
+      "labels": [
+        "A quiet day",
+        "More movement"
+      ]
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن قبل ما تختار، اسأل عن اليوم.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Before the outfit, think about the day.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "C03",
+    "kind": "steps",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "خطوة بخطوة",
+      "title": "اختار قطعة.\nوابنِ حولها.",
+      "lead": "خطوات بسيطة تسيب لك مساحة للتجربة.",
+      "cta": "كمّل للمقارنة",
+      "steps": [
+        "ابدأ بقطعة مملوكة مريحة",
+        "أضف ما يناسب الموقف",
+        "بدّل تفصيلة واحدة"
+      ],
+      "note": "وصف القطعة يكفي؛ الصورة ليست شرطًا."
+    },
+    "en": {
+      "eyebrow": "ONE STEP AT A TIME",
+      "title": "Choose one piece.\nBuild around it.",
+      "lead": "Simple steps leave room to explore.",
+      "cta": "Continue to compare",
+      "steps": [
+        "Start with an owned, comfortable piece",
+        "Add what suits the occasion",
+        "Change one detail"
+      ],
+      "note": "A description can be enough. A photo is optional."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن اختار قطعة. وابنِ حولها.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Choose one piece. Build around it.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "C04",
+    "kind": "compare",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "اختياران للمقارنة",
+      "title": "نفس البداية.\nإحساس مختلف.",
+      "lead": "غيّر القصة أو الدرجة، وشوف الأنسب ليومك.",
+      "cta": "اختار الأقرب لك",
+      "labels": [
+        "أكثر هدوءًا",
+        "أكثر مرونة"
+      ],
+      "sub": [
+        "درجات متقاربة وقصة مستقيمة",
+        "حركة مريحة وتفاصيل أقل"
+      ]
+    },
+    "en": {
+      "eyebrow": "TWO WAYS TO TRY",
+      "title": "Same beginning.\nA different feel.",
+      "lead": "Change a cut or a shade. See what suits your day.",
+      "cta": "Choose what feels right",
+      "labels": [
+        "A quieter look",
+        "A flexible day"
+      ],
+      "sub": [
+        "Related shades and a straight fit",
+        "Easy movement, fewer details"
+      ]
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن نفس البداية. إحساس مختلف.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Same beginning. A different feel.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "C05",
+    "kind": "palette",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "ملخّص التنسيق",
+      "title": "تفاصيل قليلة.\nاختيار أوضح.",
+      "lead": "ألوان القطع تحتفظ بشخصيتها.",
+      "cta": "احتفظ بالملخّص",
+      "note": "كتان دافئ + أخضر هادئ + حذاء بني. أمثلة رسوم، لا منتجات معروضة للبيع."
+    },
+    "en": {
+      "eyebrow": "THE OUTFIT SUMMARY",
+      "title": "Fewer details.\nA clearer direction.",
+      "lead": "Let the clothes keep their own colors.",
+      "cta": "Save the summary",
+      "note": "Warm linen + calm green + brown shoes. Illustrated examples, not products for sale."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن تفاصيل قليلة. اختيار أوضح.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Fewer details. A clearer direction.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "C06",
+    "kind": "cta",
+    "width": 1080,
+    "height": 1350,
+    "ar": {
+      "eyebrow": "جرّب بطريقتك",
+      "title": "والخطوة الجاية؟\nمن دولابك.",
+      "lead": "جرّب الفكرة، عدّلها، أو احتفظ باختيارك المعتاد.",
+      "cta": "احفظ وارجع للفكرة",
+      "note": "عدم الشراء نتيجة صحيحة. الأهم إطلالة مناسبة لك."
+    },
+    "en": {
+      "eyebrow": "MAKE IT YOURS",
+      "title": "The next step?\nYour own wardrobe.",
+      "lead": "Try the idea, change it, or keep your usual choice.",
+      "cta": "Save it for later",
+      "note": "Not buying is a valid outcome. What matters is an outfit that works for you."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن والخطوة الجاية؟ من دولابك.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about The next step? Your own wardrobe.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "T01",
+    "kind": "question",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "سؤال سريع",
+      "title": "إيه المناسبة\nالنهارده؟",
+      "lead": "ابدأ بالموقف، وبعدها اختار القطعة.",
+      "cta": "أضف ملصق السؤال في المنصة",
+      "question": "دوام، مشوار، ولا قعدة مع الأصحاب؟",
+      "labels": [
+        "دوام",
+        "مشوار"
+      ]
+    },
+    "en": {
+      "eyebrow": "A QUICK QUESTION",
+      "title": "What is\ntoday for?",
+      "lead": "Start with the occasion. Then choose the piece.",
+      "cta": "Add a native question sticker",
+      "question": "Work, an errand, or meeting friends?",
+      "labels": [
+        "Work",
+        "An errand"
+      ]
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن إيه المناسبة النهارده؟؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about What is today for?. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "T02",
+    "kind": "compare",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "اختار الأقرب",
+      "title": "تفصيلة واحدة.\nاختياران.",
+      "lead": "نفس القميص؛ أي تنسيق أقرب ليومك؟",
+      "cta": "أضف استطلاع المنصة",
+      "labels": [
+        "أخضر هادي",
+        "أزرق يومي"
+      ],
+      "sub": [
+        "للعمل أو لقاء بسيط",
+        "ليوم مريح وحركة أكتر"
+      ]
+    },
+    "en": {
+      "eyebrow": "CHOOSE YOUR DIRECTION",
+      "title": "One detail.\nTwo choices.",
+      "lead": "The same shirt. Which outfit fits your day?",
+      "cta": "Add a native poll",
+      "labels": [
+        "Calm green",
+        "Everyday blue"
+      ],
+      "sub": [
+        "For work or a simple meeting",
+        "For an easy, active day"
+      ]
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن تفصيلة واحدة. اختياران.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about One detail. Two choices.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "T03",
+    "kind": "steps",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "فكرة صغيرة",
+      "title": "بدّل تفصيلة.\nمش كل الإطلالة.",
+      "lead": "لو التنسيق مش مناسب، ابدأ بتغيير واحد.",
+      "cta": "احفظ الفكرة",
+      "steps": [
+        "حدّد إيه اللي مش مريح",
+        "جرّب حذاءً أو طبقة مختلفة",
+        "راجع الإحساس في الموقف"
+      ],
+      "note": "ذوقك وراحتك أهم من اتباع قاعدة جامدة."
+    },
+    "en": {
+      "eyebrow": "A SMALL IDEA",
+      "title": "Change a detail.\nKeep the outfit.",
+      "lead": "If the combination feels wrong, try one change first.",
+      "cta": "Save the idea",
+      "steps": [
+        "Notice what feels uncomfortable",
+        "Try different shoes or a light layer",
+        "Consider the occasion again"
+      ],
+      "note": "Your taste and comfort matter more than a rigid rule."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن بدّل تفصيلة. مش كل الإطلالة.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Change a detail. Keep the outfit.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "T04",
+    "kind": "outfit",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "إطلالة من الموجود",
+      "title": "جاهز ليومك.\nبطريقتك.",
+      "lead": "قميص مريح، بنطلون مناسب، وحذاء تعرفه.",
+      "cta": "أي تفصيلة هتغيّرها؟",
+      "note": "هذه رسوم تنسيق للمحتوى، وليست نتيجة خدمة إنتاجية."
+    },
+    "en": {
+      "eyebrow": "AN OWNED-WARDROBE IDEA",
+      "title": "Ready for the day.\nYour way.",
+      "lead": "A comfortable shirt, suitable trousers and familiar shoes.",
+      "cta": "Which detail would you change?",
+      "note": "An illustrated content example, not output from a live production service."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن جاهز ليومك. بطريقتك.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Ready for the day. Your way.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "T05",
+    "kind": "cta",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "شاركنا الفكرة",
+      "title": "إيه اللي يصعّب\nاختيارك؟",
+      "lead": "نسمع عن الموقف الحقيقي قبل إضافة خصائص جديدة.",
+      "cta": "أضف سؤالًا بأداة المنصة",
+      "note": "نطوّر مفهوم دولابي. المشاركة هنا لا تعني تسجيلًا أو جمع بيانات داخل التطبيق."
+    },
+    "en": {
+      "eyebrow": "TELL US ABOUT YOUR DAY",
+      "title": "What makes\nchoosing difficult?",
+      "lead": "Real situations help shape useful next steps.",
+      "cta": "Add a native question sticker",
+      "note": "DoLaby is in development. This graphic does not submit or collect app data."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن إيه اللي يصعّب اختيارك؟؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about What makes choosing difficult?. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "T06",
+    "kind": "cover",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "محتوى جديد",
+      "title": "من ملابسك.\nأكثر من احتمال.",
+      "lead": "ملاحظات بسيطة للتجربة، لا قواعد صارمة.",
+      "cta": "شوف المنشور الجديد"
+    },
+    "en": {
+      "eyebrow": "NEW WARDROBE NOTES",
+      "title": "Already yours.\nStill full of possibility.",
+      "lead": "Simple ideas to try, not rigid rules.",
+      "cta": "See the new post"
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن من ملابسك. أكثر من احتمال.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Already yours. Still full of possibility.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "V01",
+    "kind": "cover",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "غلاف محتوى",
+      "title": "استعد\nمع لابي.",
+      "lead": "فكرة إطلالة تبدأ بقطعة مملوكة.",
+      "cta": "Get ready with Laby"
+    },
+    "en": {
+      "eyebrow": "CONTENT COVER",
+      "title": "Get ready\nwith Laby.",
+      "lead": "An outfit idea beginning with an owned piece.",
+      "cta": "Keep the choice yours"
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن استعد مع لابي.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Get ready with Laby.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "V02",
+    "kind": "cover",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "بداية حركة",
+      "title": "كل احتمال\nله بداية.",
+      "lead": "نبدأ من الموجود.",
+      "cta": "just say dolaby and get ready with laby"
+    },
+    "en": {
+      "eyebrow": "MOTION OPENING",
+      "title": "Every possibility\nhas a beginning.",
+      "lead": "Begin with what you already own.",
+      "cta": "just say dolaby and get ready with laby"
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن كل احتمال له بداية.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Every possibility has a beginning.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "V03",
+    "kind": "quote",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "بطاقة داخل الفيديو",
+      "title": "خلّي السبب\nواضحًا.",
+      "lead": "التفسير يفتح مساحة للتعديل.",
+      "cta": "إطلالة مناسبة ليومك",
+      "quote": "الدرجات قريبة، والقصة مريحة. ولو مش مناسب، نبدّل قطعة."
+    },
+    "en": {
+      "eyebrow": "VIDEO TEXT CARD",
+      "title": "Make the reason\nclear.",
+      "lead": "An explanation creates room to change.",
+      "cta": "An outfit for your day",
+      "quote": "Related shades. A comfortable fit. And room to swap a piece if it does not work."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن خلّي السبب واضحًا.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about Make the reason clear.. A DoLaby content study, not live AI output."
+  },
+  {
+    "id": "V04",
+    "kind": "character",
+    "width": 1080,
+    "height": 1920,
+    "ar": {
+      "eyebrow": "خاتمة المحتوى",
+      "title": "اقتراح من لابي.\nوقرار منك.",
+      "lead": "احفظ الفكرة أو غيّرها لتناسبك.",
+      "cta": "just say dolaby and get ready with laby",
+      "note": "التوقيع للمحتوى، ولا يعني إتاحة الصوت أو تسجيل الفيديو في التطبيق."
+    },
+    "en": {
+      "eyebrow": "CONTENT ENDING",
+      "title": "A suggestion from Laby.\nA choice of your own.",
+      "lead": "Save the idea or change it to suit you.",
+      "cta": "just say dolaby and get ready with laby",
+      "note": "A content signature; voice and video recording are not launch features."
+    },
+    "alt_ar": "تصميم تحريري توضيحي عن اقتراح من لابي. وقرار منك.؛ محتوى تجريبي من دولابي، وليس نتيجة محرك حي.",
+    "alt_en": "Editorial illustration about A suggestion from Laby. A choice of your own.. A DoLaby content study, not live AI output."
+  }
+]

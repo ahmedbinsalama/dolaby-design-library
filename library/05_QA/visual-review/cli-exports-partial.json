@@ -1,0 +1,1297 @@
+[
+  {
+    "id": "S01-ar-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=ar&capture=1",
+    "width": 768,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S01-ar-768.png"
+  },
+  {
+    "id": "S01-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=ar&capture=1",
+    "width": 390,
+    "height": 1237,
+    "out": "03_UIUX_KIT/previews/S01-ar-390.png"
+  },
+  {
+    "id": "S01-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S01-ar-1440.png"
+  },
+  {
+    "id": "S01-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=en&capture=1",
+    "width": 390,
+    "height": 1319,
+    "out": "03_UIUX_KIT/previews/S01-en-390.png"
+  },
+  {
+    "id": "S01-en-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=en&capture=1",
+    "width": 768,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S01-en-768.png"
+  },
+  {
+    "id": "S02-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=ar&capture=1",
+    "width": 390,
+    "height": 1294,
+    "out": "03_UIUX_KIT/previews/S02-ar-390.png"
+  },
+  {
+    "id": "S02-ar-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=ar&capture=1",
+    "width": 768,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S02-ar-768.png"
+  },
+  {
+    "id": "S02-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=en&capture=1",
+    "width": 390,
+    "height": 1398,
+    "out": "03_UIUX_KIT/previews/S02-en-390.png"
+  },
+  {
+    "id": "S02-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1026,
+    "out": "03_UIUX_KIT/previews/S02-ar-1440.png"
+  },
+  {
+    "id": "S01-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=en&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S01-en-1440.png"
+  },
+  {
+    "id": "S02-en-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=en&capture=1",
+    "width": 768,
+    "height": 1027,
+    "out": "03_UIUX_KIT/previews/S02-en-768.png"
+  },
+  {
+    "id": "S03-ar-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=ar&capture=1",
+    "width": 768,
+    "height": 1082,
+    "out": "03_UIUX_KIT/previews/S03-ar-768.png"
+  },
+  {
+    "id": "S03-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=ar&capture=1",
+    "width": 390,
+    "height": 1529,
+    "out": "03_UIUX_KIT/previews/S03-ar-390.png"
+  },
+  {
+    "id": "S03-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1165,
+    "out": "03_UIUX_KIT/previews/S03-ar-1440.png"
+  },
+  {
+    "id": "S02-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=en&capture=1",
+    "width": 1440,
+    "height": 1021,
+    "out": "03_UIUX_KIT/previews/S02-en-1440.png"
+  },
+  {
+    "id": "S03-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=en&capture=1",
+    "width": 390,
+    "height": 1610,
+    "out": "03_UIUX_KIT/previews/S03-en-390.png"
+  },
+  {
+    "id": "S03-en-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=en&capture=1",
+    "width": 768,
+    "height": 1106,
+    "out": "03_UIUX_KIT/previews/S03-en-768.png"
+  },
+  {
+    "id": "S03-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=en&capture=1",
+    "width": 1440,
+    "height": 1159,
+    "out": "03_UIUX_KIT/previews/S03-en-1440.png"
+  },
+  {
+    "id": "S04-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S04&lang=ar&capture=1",
+    "width": 390,
+    "height": 1403,
+    "out": "03_UIUX_KIT/previews/S04-ar-390.png"
+  },
+  {
+    "id": "S04-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S04&lang=en&capture=1",
+    "width": 1440,
+    "height": 1233,
+    "out": "03_UIUX_KIT/previews/S04-en-1440.png"
+  },
+  {
+    "id": "S04-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S04&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1239,
+    "out": "03_UIUX_KIT/previews/S04-ar-1440.png"
+  },
+  {
+    "id": "S04-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S04&lang=en&capture=1",
+    "width": 390,
+    "height": 1457,
+    "out": "03_UIUX_KIT/previews/S04-en-390.png"
+  },
+  {
+    "id": "S05-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S05&lang=ar&capture=1",
+    "width": 390,
+    "height": 1151,
+    "out": "03_UIUX_KIT/previews/S05-ar-390.png"
+  },
+  {
+    "id": "S06-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S06&lang=ar&capture=1",
+    "width": 390,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S06-ar-390.png"
+  },
+  {
+    "id": "S05-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S05&lang=en&capture=1",
+    "width": 1440,
+    "height": 1054,
+    "out": "03_UIUX_KIT/previews/S05-en-1440.png"
+  },
+  {
+    "id": "S05-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S05&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S05-ar-1440.png"
+  },
+  {
+    "id": "S05-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S05&lang=en&capture=1",
+    "width": 390,
+    "height": 1259,
+    "out": "03_UIUX_KIT/previews/S05-en-390.png"
+  },
+  {
+    "id": "S06-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S06&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S06-ar-1440.png"
+  },
+  {
+    "id": "S06-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S06&lang=en&capture=1",
+    "width": 1440,
+    "height": 1071,
+    "out": "03_UIUX_KIT/previews/S06-en-1440.png"
+  },
+  {
+    "id": "S06-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S06&lang=en&capture=1",
+    "width": 390,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S06-en-390.png"
+  },
+  {
+    "id": "S07-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=ar&capture=1",
+    "width": 390,
+    "height": 1634,
+    "out": "03_UIUX_KIT/previews/S07-ar-390.png"
+  },
+  {
+    "id": "S07-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1301,
+    "out": "03_UIUX_KIT/previews/S07-ar-1440.png"
+  },
+  {
+    "id": "S07-ar-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=ar&capture=1",
+    "width": 768,
+    "height": 1357,
+    "out": "03_UIUX_KIT/previews/S07-ar-768.png"
+  },
+  {
+    "id": "S07-en-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=en&capture=1",
+    "width": 768,
+    "height": 1487,
+    "out": "03_UIUX_KIT/previews/S07-en-768.png"
+  },
+  {
+    "id": "S07-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=en&capture=1",
+    "width": 390,
+    "height": 1767,
+    "out": "03_UIUX_KIT/previews/S07-en-390.png"
+  },
+  {
+    "id": "S08-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S08&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1080,
+    "out": "03_UIUX_KIT/previews/S08-ar-1440.png"
+  },
+  {
+    "id": "S08-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S08&lang=ar&capture=1",
+    "width": 390,
+    "height": 1323,
+    "out": "03_UIUX_KIT/previews/S08-ar-390.png"
+  },
+  {
+    "id": "S07-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=en&capture=1",
+    "width": 1440,
+    "height": 1394,
+    "out": "03_UIUX_KIT/previews/S07-en-1440.png"
+  },
+  {
+    "id": "S08-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S08&lang=en&capture=1",
+    "width": 390,
+    "height": 1403,
+    "out": "03_UIUX_KIT/previews/S08-en-390.png"
+  },
+  {
+    "id": "S09-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S09&lang=ar&capture=1",
+    "width": 390,
+    "height": 1380,
+    "out": "03_UIUX_KIT/previews/S09-ar-390.png"
+  },
+  {
+    "id": "S08-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S08&lang=en&capture=1",
+    "width": 1440,
+    "height": 1075,
+    "out": "03_UIUX_KIT/previews/S08-en-1440.png"
+  },
+  {
+    "id": "S09-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S09&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1037,
+    "out": "03_UIUX_KIT/previews/S09-ar-1440.png"
+  },
+  {
+    "id": "S09-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S09&lang=en&capture=1",
+    "width": 390,
+    "height": 1434,
+    "out": "03_UIUX_KIT/previews/S09-en-390.png"
+  },
+  {
+    "id": "S09-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S09&lang=en&capture=1",
+    "width": 1440,
+    "height": 1032,
+    "out": "03_UIUX_KIT/previews/S09-en-1440.png"
+  },
+  {
+    "id": "S10-ar-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=ar&capture=1",
+    "width": 768,
+    "height": 1373,
+    "out": "03_UIUX_KIT/previews/S10-ar-768.png"
+  },
+  {
+    "id": "S10-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=ar&capture=1",
+    "width": 390,
+    "height": 1301,
+    "out": "03_UIUX_KIT/previews/S10-ar-390.png"
+  },
+  {
+    "id": "S10-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1042,
+    "out": "03_UIUX_KIT/previews/S10-ar-1440.png"
+  },
+  {
+    "id": "S10-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=en&capture=1",
+    "width": 390,
+    "height": 1356,
+    "out": "03_UIUX_KIT/previews/S10-en-390.png"
+  },
+  {
+    "id": "S10-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=en&capture=1",
+    "width": 1440,
+    "height": 1036,
+    "out": "03_UIUX_KIT/previews/S10-en-1440.png"
+  },
+  {
+    "id": "S11-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S11&lang=ar&capture=1",
+    "width": 390,
+    "height": 1368,
+    "out": "03_UIUX_KIT/previews/S11-ar-390.png"
+  },
+  {
+    "id": "S10-en-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=en&capture=1",
+    "width": 768,
+    "height": 1377,
+    "out": "03_UIUX_KIT/previews/S10-en-768.png"
+  },
+  {
+    "id": "S11-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S11&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1237,
+    "out": "03_UIUX_KIT/previews/S11-ar-1440.png"
+  },
+  {
+    "id": "S12-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S12&lang=ar&capture=1",
+    "width": 390,
+    "height": 1271,
+    "out": "03_UIUX_KIT/previews/S12-ar-390.png"
+  },
+  {
+    "id": "S11-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S11&lang=en&capture=1",
+    "width": 390,
+    "height": 1448,
+    "out": "03_UIUX_KIT/previews/S11-en-390.png"
+  },
+  {
+    "id": "S11-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S11&lang=en&capture=1",
+    "width": 1440,
+    "height": 1307,
+    "out": "03_UIUX_KIT/previews/S11-en-1440.png"
+  },
+  {
+    "id": "S13-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S13&lang=ar&capture=1",
+    "width": 390,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S13-ar-390.png"
+  },
+  {
+    "id": "S12-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S12&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1042,
+    "out": "03_UIUX_KIT/previews/S12-ar-1440.png"
+  },
+  {
+    "id": "S12-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S12&lang=en&capture=1",
+    "width": 1440,
+    "height": 1112,
+    "out": "03_UIUX_KIT/previews/S12-en-1440.png"
+  },
+  {
+    "id": "S12-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S12&lang=en&capture=1",
+    "width": 390,
+    "height": 1351,
+    "out": "03_UIUX_KIT/previews/S12-en-390.png"
+  },
+  {
+    "id": "S13-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S13&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S13-ar-1440.png"
+  },
+  {
+    "id": "S13-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S13&lang=en&capture=1",
+    "width": 390,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S13-en-390.png"
+  },
+  {
+    "id": "S13-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S13&lang=en&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S13-en-1440.png"
+  },
+  {
+    "id": "S14-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=ar&capture=1",
+    "width": 390,
+    "height": 1119,
+    "out": "03_UIUX_KIT/previews/S14-ar-390.png"
+  },
+  {
+    "id": "S14-ar-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=ar&capture=1",
+    "width": 768,
+    "height": 1065,
+    "out": "03_UIUX_KIT/previews/S14-ar-768.png"
+  },
+  {
+    "id": "S14-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1148,
+    "out": "03_UIUX_KIT/previews/S14-ar-1440.png"
+  },
+  {
+    "id": "S14-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=en&capture=1",
+    "width": 390,
+    "height": 1220,
+    "out": "03_UIUX_KIT/previews/S14-en-390.png"
+  },
+  {
+    "id": "S14-en-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=en&capture=1",
+    "width": 768,
+    "height": 1093,
+    "out": "03_UIUX_KIT/previews/S14-en-768.png"
+  },
+  {
+    "id": "S14-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=en&capture=1",
+    "width": 1440,
+    "height": 1166,
+    "out": "03_UIUX_KIT/previews/S14-en-1440.png"
+  },
+  {
+    "id": "S15-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S15&lang=ar&capture=1",
+    "width": 390,
+    "height": 1409,
+    "out": "03_UIUX_KIT/previews/S15-ar-390.png"
+  },
+  {
+    "id": "S15-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S15&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1150,
+    "out": "03_UIUX_KIT/previews/S15-ar-1440.png"
+  },
+  {
+    "id": "S15-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S15&lang=en&capture=1",
+    "width": 390,
+    "height": 1538,
+    "out": "03_UIUX_KIT/previews/S15-en-390.png"
+  },
+  {
+    "id": "S15-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S15&lang=en&capture=1",
+    "width": 1440,
+    "height": 1220,
+    "out": "03_UIUX_KIT/previews/S15-en-1440.png"
+  },
+  {
+    "id": "S16-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S16&lang=ar&capture=1",
+    "width": 390,
+    "height": 1302,
+    "out": "03_UIUX_KIT/previews/S16-ar-390.png"
+  },
+  {
+    "id": "S16-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S16&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1178,
+    "out": "03_UIUX_KIT/previews/S16-ar-1440.png"
+  },
+  {
+    "id": "S16-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S16&lang=en&capture=1",
+    "width": 390,
+    "height": 1380,
+    "out": "03_UIUX_KIT/previews/S16-en-390.png"
+  },
+  {
+    "id": "S16-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S16&lang=en&capture=1",
+    "width": 1440,
+    "height": 1172,
+    "out": "03_UIUX_KIT/previews/S16-en-1440.png"
+  },
+  {
+    "id": "S17-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S17&lang=ar&capture=1",
+    "width": 390,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S17-ar-390.png"
+  },
+  {
+    "id": "S17-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S17&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S17-ar-1440.png"
+  },
+  {
+    "id": "S17-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S17&lang=en&capture=1",
+    "width": 390,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S17-en-390.png"
+  },
+  {
+    "id": "S17-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S17&lang=en&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S17-en-1440.png"
+  },
+  {
+    "id": "S18-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=ar&capture=1",
+    "width": 390,
+    "height": 1333,
+    "out": "03_UIUX_KIT/previews/S18-ar-390.png"
+  },
+  {
+    "id": "S18-ar-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=ar&capture=1",
+    "width": 768,
+    "height": 1096,
+    "out": "03_UIUX_KIT/previews/S18-ar-768.png"
+  },
+  {
+    "id": "S18-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1179,
+    "out": "03_UIUX_KIT/previews/S18-ar-1440.png"
+  },
+  {
+    "id": "S18-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=en&capture=1",
+    "width": 390,
+    "height": 1500,
+    "out": "03_UIUX_KIT/previews/S18-en-390.png"
+  },
+  {
+    "id": "S18-en-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=en&capture=1",
+    "width": 768,
+    "height": 1100,
+    "out": "03_UIUX_KIT/previews/S18-en-768.png"
+  },
+  {
+    "id": "S18-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=en&capture=1",
+    "width": 1440,
+    "height": 1249,
+    "out": "03_UIUX_KIT/previews/S18-en-1440.png"
+  },
+  {
+    "id": "S19-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S19&lang=ar&capture=1",
+    "width": 390,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S19-ar-390.png"
+  },
+  {
+    "id": "S19-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S19&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S19-ar-1440.png"
+  },
+  {
+    "id": "S19-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S19&lang=en&capture=1",
+    "width": 390,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S19-en-390.png"
+  },
+  {
+    "id": "S19-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S19&lang=en&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S19-en-1440.png"
+  },
+  {
+    "id": "S20-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S20&lang=ar&capture=1",
+    "width": 390,
+    "height": 1257,
+    "out": "03_UIUX_KIT/previews/S20-ar-390.png"
+  },
+  {
+    "id": "S20-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S20&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S20-ar-1440.png"
+  },
+  {
+    "id": "S20-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S20&lang=en&capture=1",
+    "width": 390,
+    "height": 1364,
+    "out": "03_UIUX_KIT/previews/S20-en-390.png"
+  },
+  {
+    "id": "S20-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S20&lang=en&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S20-en-1440.png"
+  },
+  {
+    "id": "S21-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=ar&capture=1",
+    "width": 390,
+    "height": 1312,
+    "out": "03_UIUX_KIT/previews/S21-ar-390.png"
+  },
+  {
+    "id": "S21-ar-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=ar&capture=1",
+    "width": 768,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S21-ar-768.png"
+  },
+  {
+    "id": "S21-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1011,
+    "out": "03_UIUX_KIT/previews/S21-ar-1440.png"
+  },
+  {
+    "id": "S21-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=en&capture=1",
+    "width": 390,
+    "height": 1316,
+    "out": "03_UIUX_KIT/previews/S21-en-390.png"
+  },
+  {
+    "id": "S21-en-768",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=en&capture=1",
+    "width": 768,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S21-en-768.png"
+  },
+  {
+    "id": "S21-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=en&capture=1",
+    "width": 1440,
+    "height": 1008,
+    "out": "03_UIUX_KIT/previews/S21-en-1440.png"
+  },
+  {
+    "id": "S22-ar-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S22&lang=ar&capture=1",
+    "width": 390,
+    "height": 1469,
+    "out": "03_UIUX_KIT/previews/S22-ar-390.png"
+  },
+  {
+    "id": "S22-ar-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S22&lang=ar&capture=1",
+    "width": 1440,
+    "height": 1314,
+    "out": "03_UIUX_KIT/previews/S22-ar-1440.png"
+  },
+  {
+    "id": "S22-en-390",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S22&lang=en&capture=1",
+    "width": 390,
+    "height": 1576,
+    "out": "03_UIUX_KIT/previews/S22-en-390.png"
+  },
+  {
+    "id": "S22-en-1440",
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S22&lang=en&capture=1",
+    "width": 1440,
+    "height": 1335,
+    "out": "03_UIUX_KIT/previews/S22-en-1440.png"
+  },
+  {
+    "id": "P01-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P01-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P01-ar-empty.png"
+  },
+  {
+    "id": "P01-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P01-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P01-ar-filled.png"
+  },
+  {
+    "id": "P01-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P01-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P01-en-empty.png"
+  },
+  {
+    "id": "P01-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P01-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P01-en-filled.png"
+  },
+  {
+    "id": "P02-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P02-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P02-ar-empty.png"
+  },
+  {
+    "id": "P02-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P02-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P02-ar-filled.png"
+  },
+  {
+    "id": "P02-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P02-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P02-en-empty.png"
+  },
+  {
+    "id": "P02-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P02-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P02-en-filled.png"
+  },
+  {
+    "id": "P03-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P03-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P03-ar-empty.png"
+  },
+  {
+    "id": "P03-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P03-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P03-ar-filled.png"
+  },
+  {
+    "id": "P03-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P03-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P03-en-empty.png"
+  },
+  {
+    "id": "P03-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P03-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P03-en-filled.png"
+  },
+  {
+    "id": "P04-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P04-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P04-ar-empty.png"
+  },
+  {
+    "id": "P04-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P04-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P04-ar-filled.png"
+  },
+  {
+    "id": "P04-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P04-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P04-en-empty.png"
+  },
+  {
+    "id": "P04-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P04-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P04-en-filled.png"
+  },
+  {
+    "id": "P05-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P05-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P05-ar-empty.png"
+  },
+  {
+    "id": "P05-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P05-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P05-ar-filled.png"
+  },
+  {
+    "id": "P05-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P05-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P05-en-empty.png"
+  },
+  {
+    "id": "P05-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P05-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P05-en-filled.png"
+  },
+  {
+    "id": "P06-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P06-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P06-ar-empty.png"
+  },
+  {
+    "id": "P06-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P06-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P06-ar-filled.png"
+  },
+  {
+    "id": "P06-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P06-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P06-en-empty.png"
+  },
+  {
+    "id": "P06-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P06-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P06-en-filled.png"
+  },
+  {
+    "id": "P07-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P07-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P07-ar-empty.png"
+  },
+  {
+    "id": "P07-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P07-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P07-ar-filled.png"
+  },
+  {
+    "id": "P07-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P07-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P07-en-empty.png"
+  },
+  {
+    "id": "P07-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P07-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P07-en-filled.png"
+  },
+  {
+    "id": "P08-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P08-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P08-ar-empty.png"
+  },
+  {
+    "id": "P08-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P08-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P08-ar-filled.png"
+  },
+  {
+    "id": "P08-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/P08-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P08-en-empty.png"
+  },
+  {
+    "id": "P08-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/P08-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/P08-en-filled.png"
+  },
+  {
+    "id": "C01-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C01-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C01-ar-empty.png"
+  },
+  {
+    "id": "C01-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C01-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C01-ar-filled.png"
+  },
+  {
+    "id": "C01-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C01-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C01-en-empty.png"
+  },
+  {
+    "id": "C01-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C01-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C01-en-filled.png"
+  },
+  {
+    "id": "C02-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C02-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C02-ar-empty.png"
+  },
+  {
+    "id": "C02-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C02-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C02-ar-filled.png"
+  },
+  {
+    "id": "C02-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C02-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C02-en-empty.png"
+  },
+  {
+    "id": "C02-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C02-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C02-en-filled.png"
+  },
+  {
+    "id": "C03-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C03-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C03-ar-empty.png"
+  },
+  {
+    "id": "C03-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C03-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C03-ar-filled.png"
+  },
+  {
+    "id": "C03-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C03-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C03-en-empty.png"
+  },
+  {
+    "id": "C03-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C03-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C03-en-filled.png"
+  },
+  {
+    "id": "C04-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C04-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C04-ar-empty.png"
+  },
+  {
+    "id": "C04-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C04-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C04-ar-filled.png"
+  },
+  {
+    "id": "C04-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C04-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C04-en-empty.png"
+  },
+  {
+    "id": "C04-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C04-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C04-en-filled.png"
+  },
+  {
+    "id": "C05-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C05-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C05-ar-empty.png"
+  },
+  {
+    "id": "C05-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C05-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C05-ar-filled.png"
+  },
+  {
+    "id": "C05-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C05-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C05-en-empty.png"
+  },
+  {
+    "id": "C05-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C05-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C05-en-filled.png"
+  },
+  {
+    "id": "C06-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C06-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C06-ar-empty.png"
+  },
+  {
+    "id": "C06-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/C06-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C06-en-empty.png"
+  },
+  {
+    "id": "C06-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C06-ar.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C06-ar-filled.png"
+  },
+  {
+    "id": "C06-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/C06-en.html?clean=1",
+    "width": 1080,
+    "height": 1350,
+    "out": "04_SOCIAL_KIT/exports/C06-en-filled.png"
+  },
+  {
+    "id": "T01-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T01-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T01-ar-empty.png"
+  },
+  {
+    "id": "T01-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T01-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T01-ar-filled.png"
+  },
+  {
+    "id": "T01-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T01-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T01-en-empty.png"
+  },
+  {
+    "id": "T01-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T01-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T01-en-filled.png"
+  },
+  {
+    "id": "T02-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T02-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T02-ar-empty.png"
+  },
+  {
+    "id": "T02-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T02-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T02-ar-filled.png"
+  },
+  {
+    "id": "T02-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T02-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T02-en-empty.png"
+  },
+  {
+    "id": "T02-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T02-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T02-en-filled.png"
+  },
+  {
+    "id": "T03-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T03-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T03-ar-empty.png"
+  },
+  {
+    "id": "T03-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T03-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T03-ar-filled.png"
+  },
+  {
+    "id": "T03-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T03-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T03-en-empty.png"
+  },
+  {
+    "id": "T03-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T03-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T03-en-filled.png"
+  },
+  {
+    "id": "T04-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T04-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T04-ar-empty.png"
+  },
+  {
+    "id": "T04-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T04-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T04-en-empty.png"
+  },
+  {
+    "id": "T04-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T04-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T04-ar-filled.png"
+  },
+  {
+    "id": "T04-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T04-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T04-en-filled.png"
+  },
+  {
+    "id": "T05-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T05-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T05-ar-empty.png"
+  },
+  {
+    "id": "T05-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T05-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T05-ar-filled.png"
+  },
+  {
+    "id": "T05-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T05-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T05-en-empty.png"
+  },
+  {
+    "id": "T05-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T05-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T05-en-filled.png"
+  },
+  {
+    "id": "T06-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T06-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T06-ar-empty.png"
+  },
+  {
+    "id": "T06-ar-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T06-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T06-ar-filled.png"
+  },
+  {
+    "id": "T06-en-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/T06-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T06-en-empty.png"
+  },
+  {
+    "id": "T06-en-filled",
+    "url": "04_SOCIAL_KIT/examples-populated/T06-en.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/T06-en-filled.png"
+  },
+  {
+    "id": "V01-ar-empty",
+    "url": "04_SOCIAL_KIT/templates-empty/V01-ar.html?clean=1",
+    "width": 1080,
+    "height": 1920,
+    "out": "04_SOCIAL_KIT/exports/V01-ar-empty.png"
+  }
+]

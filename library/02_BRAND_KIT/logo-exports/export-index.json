@@ -1,0 +1,266 @@
+[
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-16-transparent.png",
+    "width": 16,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-16-ivory.png",
+    "width": 16,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-24-transparent.png",
+    "width": 24,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-24-ivory.png",
+    "width": 24,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-32-transparent.png",
+    "width": 32,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-32-ivory.png",
+    "width": 32,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-48-transparent.png",
+    "width": 48,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-48-ivory.png",
+    "width": 48,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-64-transparent.png",
+    "width": 64,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-64-ivory.png",
+    "width": 64,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-128-transparent.png",
+    "width": 128,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-128-ivory.png",
+    "width": 128,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-256-transparent.png",
+    "width": 256,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-256-ivory.png",
+    "width": 256,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-512-transparent.png",
+    "width": 512,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "path": "02_BRAND_KIT/logo-exports/ring-master-512-ivory.png",
+    "width": 512,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-80-transparent.png",
+    "width": 80,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-80-ivory.png",
+    "width": 80,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-120-transparent.png",
+    "width": 120,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-120-ivory.png",
+    "width": 120,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-180-transparent.png",
+    "width": 180,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-180-ivory.png",
+    "width": 180,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-512-transparent.png",
+    "width": 512,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-512-ivory.png",
+    "width": 512,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-1024-transparent.png",
+    "width": 1024,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-1024-ivory.png",
+    "width": 1024,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-80-transparent.png",
+    "width": 80,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-80-ivory.png",
+    "width": 80,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-120-transparent.png",
+    "width": 120,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-120-ivory.png",
+    "width": 120,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-180-transparent.png",
+    "width": 180,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-180-ivory.png",
+    "width": 180,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-512-transparent.png",
+    "width": 512,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-512-ivory.png",
+    "width": 512,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-1024-transparent.png",
+    "width": 1024,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "path": "02_BRAND_KIT/logo-exports/logo-lockup-1024-ivory.png",
+    "width": 1024,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/tagline-one.svg",
+    "path": "02_BRAND_KIT/logo-exports/tagline-one-720-transparent.png",
+    "width": 720,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/tagline-one.svg",
+    "path": "02_BRAND_KIT/logo-exports/tagline-one-720-ivory.png",
+    "width": 720,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/tagline-one.svg",
+    "path": "02_BRAND_KIT/logo-exports/tagline-one-1440-transparent.png",
+    "width": 1440,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/tagline-one.svg",
+    "path": "02_BRAND_KIT/logo-exports/tagline-one-1440-ivory.png",
+    "width": 1440,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/tagline-two.svg",
+    "path": "02_BRAND_KIT/logo-exports/tagline-two-720-transparent.png",
+    "width": 720,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/tagline-two.svg",
+    "path": "02_BRAND_KIT/logo-exports/tagline-two-720-ivory.png",
+    "width": 720,
+    "background": "ivory"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/tagline-two.svg",
+    "path": "02_BRAND_KIT/logo-exports/tagline-two-1440-transparent.png",
+    "width": 1440,
+    "background": "transparent"
+  },
+  {
+    "source": "01_SHARED_FOUNDATIONS/canonical-logo/tagline-two.svg",
+    "path": "02_BRAND_KIT/logo-exports/tagline-two-1440-ivory.png",
+    "width": 1440,
+    "background": "ivory"
+  }
+]

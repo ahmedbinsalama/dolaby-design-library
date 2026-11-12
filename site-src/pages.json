@@ -1,0 +1,62 @@
+[
+  {
+    "file": "index.html",
+    "title": "الرئيسية",
+    "key": "home"
+  },
+  {
+    "file": "brand.html",
+    "title": "الهوية البصرية",
+    "key": "brand"
+  },
+  {
+    "file": "assets.html",
+    "title": "الأصول المنفردة",
+    "key": "assets"
+  },
+  {
+    "file": "ui.html",
+    "title": "الواجهات والمكونات",
+    "key": "ui"
+  },
+  {
+    "file": "social.html",
+    "title": "قوالب المحتوى",
+    "key": "social"
+  },
+  {
+    "file": "engines.html",
+    "title": "المحركات والمصادر",
+    "key": "engines"
+  },
+  {
+    "file": "docs.html",
+    "title": "الأدلة والفحوص",
+    "key": "docs"
+  },
+  {
+    "file": "downloads.html",
+    "title": "التنزيلات",
+    "key": "downloads"
+  },
+  {
+    "file": "files.html",
+    "title": "كل الملفات",
+    "key": "files"
+  },
+  {
+    "file": "asset.html",
+    "title": "تفاصيل الملف",
+    "key": "asset"
+  },
+  {
+    "file": "viewer.html",
+    "title": "المعاينة التفاعلية",
+    "key": "viewer"
+  },
+  {
+    "file": "document.html",
+    "title": "قراءة الدليل",
+    "key": "document"
+  }
+]

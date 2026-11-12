@@ -1,0 +1,15 @@
+{
+  "source": "Supplied execution pack fonts",
+  "files": {
+    "font-06.woff2": "Cairo Arabic variable200–1000",
+    "font-07.woff2": "Cairo Latin extended variable",
+    "font-08.woff2": "Cairo Latin variable",
+    "font-09.woff2": "Cormorant Cyrillic extended variable300–700",
+    "font-10.woff2": "Cormorant Cyrillic",
+    "font-11.woff2": "Cormorant Vietnamese",
+    "font-12.woff2": "Cormorant Latin extended",
+    "font-13.woff2": "Cormorant Latin"
+  },
+  "derived": "CormorantGaramond600-Latin-derived.ttf: instantiated subset for reproducible outlines; not a full multilingual desktop font. OFL copied. No reserved font name specified in supplied copyright notices.",
+  "limits": "Native Figma/Canva import not tested; browser CSS handles subset selection."
+}

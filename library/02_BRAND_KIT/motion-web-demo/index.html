@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ar" dir="rtl"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DoLaby · توقيع الحركة</title>
+<link rel="stylesheet" href="../../01_SHARED_FOUNDATIONS/tokens.css">
+<link rel="stylesheet" href="../../01_SHARED_FOUNDATIONS/fonts-and-licenses/fonts.css">
+<link rel="stylesheet" href="motion.css">
+<main>
+<header><a href="../../00_START_HERE/index.html" aria-label="DoLaby — البداية"><img src="../../01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg" alt="DoLaby"></a><button id="language" type="button">English / العربية</button></header>
+<p class="eyebrow">B12 · مشهد تعريفي اختياري</p>
+<h1>من الحلقة إلى لابي.</h1>
+<p>الهوية الكاملة متاحة فورًا. الحركة تحكي قصة العلامة، ولا تمثل انتظارًا أو معالجة أو استماعًا.</p>
+<div class="stage" id="stage">
+<svg id="motion-scene" viewBox="0 0 720 260" role="img" aria-label="DoLaby" direction="ltr" data-phase="static" data-time="1.6">
+<defs><clipPath id="reveal"><rect id="reveal-rect" x="0" y="0" width="720" height="260"/></clipPath><clipPath id="retrieve"><rect id="retrieve-rect" x="0" y="0" width="720" height="260"/></clipPath></defs>
+<g id="word-layer" clip-path="url(#reveal)" fill="#1C1917" font-family="Cormorant Garamond, serif" font-weight="600" font-size="104">
+<text id="prefix" x="150" y="163">Do</text><g clip-path="url(#retrieve)"><text id="suffix" x="270" y="163">Laby</text></g>
+</g>
+<g id="mascot-layer" opacity="0"><image id="mascot" href="../../01_SHARED_FOUNDATIONS/canonical-laby/laby-seated.svg" x="-150" y="-233" width="300" height="400"/></g>
+<g id="ring-layer" transform="translate(102 128)"><path id="moving-ring" fill="#000000" fill-rule="evenodd" d="M0-24a24 24 0 1 1 0 48a24 24 0 1 1 0-48zM0-16a16 16 0 1 1 0 32a16 16 0 1 1 0-32z"/></g>
+</svg>
+<noscript><img class="fallback" src="../../01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg" alt="DoLaby"></noscript>
+</div>
+<div class="controls"><button id="play" type="button">تشغيل / إعادة</button><button id="pause" type="button">إيقاف مؤقت</button><button id="skip" type="button">تخطي إلى الهوية الثابتة</button></div>
+<label for="seek">فحص التوقيت <bdi id="time">1.60 / 4.80 s</bdi></label><input id="seek" type="range" min="0" max="4.8" value="1.6" step="0.01">
+<p id="status" role="status">هوية ثابتة. اضغط تشغيل لمشاهدة المشهد.</p>
+<div class="notes"><h2>مصدر قابل للتحرير</h2><p>طبقتا Do وLaby نص حي يقاس بعد تحميل الخط. الحلقة مسار أصلي مسطح؛ حدود القص والظهور والموقع تتبع ساعة واحدة. موضع الهيدر يتغير مع اللغة، والحروف لا تنعكس.</p><a href="../../01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg">فتح الهوية الثابتة</a> · <a href="motion-spec.json">فتح مواصفة التوقيت</a></div>
+</main><script src="motion.js"></script></html>

@@ -1,0 +1,13 @@
+﻿id,value,status,source,reason,affected_assets,verification
+DX01,Exact ring120/80/t20 black and exact tagline,LOCKED,Current task incorporates supplied master,Preserve non-negotiable identity,Allkits,SourceSVG+textchecks
+DX02,"CormorantGaramond600; optical pairs Do−8,La−12,by−4 fontunits; canvasheight144",DESIGN_RESOLVED,Suppliedfont + actualoutlines,Legible editorial identity; preserve descender,B02/B03/B05/B12,geometry.json; PNGsamples
+DX03,"VectorLaby with measured2Dmaster, sixviews, elevenstates, sixposes",DESIGN_RESOLVED,Visualreferences usedfor direction only,Oneeditablemaster; avoidimaginary3D,B08–B11;social,canonical-laby/geometry.json
+DX04,82sharedtypedtokens; controls8/cards16/dialog24; darktext lightbuttons,DESIGN_RESOLVED,Current productiondelegation,Cross-kitconsistency andreadabledefault,UI/social/brand,tokens.json;contrast.csv
+DX05,Ivory text on green onlycandidateexception; unusedasdefault,WORKING,SourceQ46,No inventedhistoricalapproval,Colorroles,usage-map.md
+DX06,ARfirst;Englishpaired;noArabictracking;LTRbranding/prices/email,DESIGN_RESOLVED,Sourcebrief + renderedoutputs,Readablemixedscript,104compositions/48variants,capturemetadata;localespec
+DX07,LocalHTML/CSS/SVGeditable route; nativeformatsnotproduced,DESIGN_RESOLVED,Userallowsavailabletoolroute,Genuineopenablesourceswithgapdisclosure,Allkits,migrationmaps
+DX08,Merchantqualificationonly;adminsamplepermittedactionsdocumented,DESIGN_RESOLVED,MVPscope + reversiblechoice,Avoidunrequestedmerchantportal,P4/P5,state-table/devhandoff
+DX09,Originalvectorgarments;referencerastersexcluded,DESIGN_RESOLVED,Rightsunknownforreferences,Reusableillustrationswithoutclaimedphotoauthority,Allvisuals,sources-and-rights.md
+DX10,"Imagepermissions,partnerdata,resourcesandlivelegalpolicies",EXTERNAL_UNKNOWN,No verifiedcommitmentsprovided,Keepactualunknowns,Publicliveuse,known-limitations.md
+DX11,3D/nativeapp/voice/weather/video/productionbackend,DEFERRED,Explicitlaunchscope,Preserveboundeddesignscope,Futurevision,Allcapabilitylabels
+DX12,Social1080×1350/1920;IGprovisional;TikToklimitedsurfacecheck,WORKING,Officialaccessresults,No unsupportedcurrentplatformcertification,Socialexports,platform-verification.md

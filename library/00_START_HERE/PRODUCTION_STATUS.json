@@ -1,0 +1,238 @@
+{
+  "record_id": "DOLABY-PRODUCTION-STATUS-001",
+  "project": "DoLaby",
+  "release_version": "1.0.0",
+  "date": "2026-11-12",
+  "record_type": "Portable implementation progress and resumption record",
+  "stage": "COMPLETED_LOCAL_FILES_WITH_DECLARED_LIMITS",
+  "authority": {
+    "current_user_request": "Execute and deliver the three full kits from execution pack v1.1; resolve reversible design decisions",
+    "source_constraints": "LOCKED items are attributed to the supplied brief; historical approval dates and receipts remain unknown",
+    "acceptance": "Implementation QA only; no founder acceptance, public release or evidence-stage passage is asserted"
+  },
+  "canonical_assets": [
+    {
+      "asset": "ring",
+      "source": "01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+      "version": "Kit release 1.0.0; SVG has no internal version field",
+      "sha256_at_snapshot": "d796b11504d41b5aa33d1b73f2b3edd47a9156987a01905c00b2e65586f9a392",
+      "change_rule": "Preserve this master for all kits; intentional edits require a version/change record and dependent export/QA refresh"
+    },
+    {
+      "asset": "wordmark_and_lockup_geometry",
+      "source": "01_SHARED_FOUNDATIONS/canonical-logo/geometry.json",
+      "version": "1.0.0",
+      "sha256_at_snapshot": "0c9d22c88168e714659fe51df3c2ac33da9d5261dd4321c9a86c0b75e25b7e58",
+      "change_rule": "Preserve this master for all kits; intentional edits require a version/change record and dependent export/QA refresh"
+    },
+    {
+      "asset": "shared_tokens",
+      "source": "01_SHARED_FOUNDATIONS/tokens.json",
+      "version": "Kit release 1.0.0; token file has no separate version field",
+      "sha256_at_snapshot": "d332e4b30c7c047e9a09651361c29b2144c61f4f8f95c4389fe948024888d4ac",
+      "change_rule": "Preserve this master for all kits; intentional edits require a version/change record and dependent export/QA refresh"
+    },
+    {
+      "asset": "laby_geometry",
+      "source": "01_SHARED_FOUNDATIONS/canonical-laby/geometry.json",
+      "version": "1.0.0",
+      "sha256_at_snapshot": "c87ef0f2827c4b38e819668f769f084eb2a40914871323bc5003caa9df7bb4f6",
+      "change_rule": "Preserve this master for all kits; intentional edits require a version/change record and dependent export/QA refresh"
+    },
+    {
+      "asset": "laby_states",
+      "source": "01_SHARED_FOUNDATIONS/canonical-laby/states.json",
+      "version": "Kit release 1.0.0; state list has no separate version field",
+      "sha256_at_snapshot": "6920c76dd1d3316bbbc36a9362b7bbe2b285eceb796ca7f7786e1e235ad9cb37",
+      "change_rule": "Preserve this master for all kits; intentional edits require a version/change record and dependent export/QA refresh"
+    },
+    {
+      "asset": "motion",
+      "source": "02_BRAND_KIT/motion-web-demo/motion-spec.json",
+      "version": "1.0.0",
+      "sha256_at_snapshot": "90a4772c235a2da529958b9c5b4a09845cca104ab6f760451bbce2da1f2468c9",
+      "change_rule": "Preserve this master for all kits; intentional edits require a version/change record and dependent export/QA refresh"
+    }
+  ],
+  "completed_source_inventory": {
+    "brand": {
+      "families": 16,
+      "ids": "brand:B01–B16",
+      "index": "02_BRAND_KIT/asset-index.json",
+      "book_pdf_pages": 17,
+      "laby_svg_sources": 24
+    },
+    "uiux": {
+      "component_families": 30,
+      "component_ids": "ui:U01–U30",
+      "screen_types": 22,
+      "screen_ids": "screen:S01–S22",
+      "responsive_compositions": 104,
+      "composition_index": "03_UIUX_KIT/responsive-screens/compositions.json",
+      "prototype": "03_UIUX_KIT/prototype/index.html"
+    },
+    "social": {
+      "concepts": 24,
+      "ids": "social:P01–P08, C01–C06, T01–T06, V01–V04",
+      "blank_language_sources": 48,
+      "base_filled_language_sources": 48,
+      "extra_carousel_slide_sources": 24,
+      "source_total_in_export_matrix": 120,
+      "caption_alt_records": 72,
+      "index": "04_SOCIAL_KIT/export-index.json",
+      "editor_roundtrip_example": "04_SOCIAL_KIT/P02-ar-edited-example.html"
+    },
+    "editable_source_formats": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SVG",
+      "JSON",
+      "Markdown",
+      "CSV"
+    ],
+    "actual_export_formats": [
+      "PDF",
+      "PNG",
+      "JPG",
+      "ICO"
+    ],
+    "fonts": "Eight supplied variable WOFF2 subsets with OFL notices; one explicitly labeled derived Latin TTF subset",
+    "engine_handoff": {
+      "map": "06_ENGINE_HANDOFF/engine-map.json",
+      "guide": "06_ENGINE_HANDOFF/README_ENGINE_AR.md",
+      "tools": [
+        "export-local.cjs",
+        "verify-package.py",
+        "sync-catalog.cjs"
+      ],
+      "status": "CREATED_WITH_OBSERVED_EXPORT_TESTS"
+    }
+  },
+  "qa_evidence": [
+    {
+      "scope": "Source requirements and scoped checks",
+      "paths": [
+        "00_START_HERE/requirement-completion.csv",
+        "05_QA/acceptance.csv"
+      ]
+    },
+    {
+      "scope": "Eleven recorded prototype success/failure/recovery checks",
+      "paths": [
+        "05_QA/functional-results.json"
+      ]
+    },
+    {
+      "scope": "Nine motion sample points and bounded control checks",
+      "paths": [
+        "05_QA/motion-results.json"
+      ]
+    },
+    {
+      "scope": "104 reference layouts and 24 boundary cases",
+      "paths": [
+        "05_QA/visual-review/ui-captures.json",
+        "05_QA/visual-review/boundary-tests.json",
+        "05_QA/responsive-tests.md"
+      ]
+    },
+    {
+      "scope": "120 social source render checks",
+      "paths": [
+        "05_QA/visual-review/social-captures.json"
+      ]
+    },
+    {
+      "scope": "One Arabic P02 edit/save/reopen round trip",
+      "paths": [
+        "05_QA/editor-roundtrip.json",
+        "05_QA/visual-review/test-social-edited.png"
+      ]
+    },
+    {
+      "scope": "Pre-final static reference audit",
+      "paths": [
+        "05_QA/local-reference-audit.json"
+      ]
+    },
+    {
+      "scope": "Final actual dimensions, references, token resolution and PDF readback",
+      "paths": [
+        "05_QA/release-verification.json",
+        "05_QA/final-local-reference-audit.json",
+        "05_QA/visual-review/mobile-exact-renders.json",
+        "05_QA/contrast-recalculation.json",
+        "05_QA/javascript-syntax.json"
+      ]
+    },
+    {
+      "scope": "Final contact sheets visually inspected, with representative individual pages/screens/posters",
+      "paths": [
+        "05_QA/visual-review/report.md",
+        "00_START_HERE/contact-sheet.jpg"
+      ]
+    },
+    {
+      "scope": "Engine mixed export smoke, full brand export and catalog data check",
+      "paths": [
+        "05_QA/engine-export-smoke.json",
+        "05_QA/engine-brand-export.json",
+        "05_QA/input-integrity-recheck.json"
+      ]
+    },
+    {
+      "scope": "Final post-engine source/readback and document checks",
+      "paths": [
+        "05_QA/final-file-verification.json",
+        "05_QA/engine-tools-verification.md",
+        "05_QA/engine-document-layout.json"
+      ]
+    }
+  ],
+  "remaining_release_steps": [],
+  "not_created": [
+    "Native Figma file",
+    "Native Canva template",
+    "True 3D mesh, rig or camera render",
+    "Production backend, AI styling engine, authentication or live merchant integration"
+  ],
+  "not_tested": [
+    "Native reduced-motion preference runtime",
+    "Screen reader use",
+    "Native text zoom and 200%/400% zoom matrix",
+    "Cross-browser matrix",
+    "Physical-device matrix",
+    "Native Figma/Canva font import"
+  ],
+  "external_unknowns": [
+    "Historical locked-decision approval receipts and dates",
+    "Rights or trademark clearance beyond documented asset provenance",
+    "Instagram current official crop specifications: help page returned 429",
+    "Live partners, products, policies, demand and production service performance"
+  ],
+  "platform_scope": "TikTok verification is limited to a specific in-feed advertising surface; Instagram sizes remain provisional",
+  "publication": {
+    "published": false,
+    "third_party_messages_sent": false,
+    "accounts_changed": false,
+    "note": "Local files and preview only"
+  },
+  "resumption": [
+    "Read this record, the declared limitations and actual manifest if available",
+    "Verify saved canonical files and evidence paths before changing any completed asset",
+    "Resume only the remaining release steps; do not restart a critique cycle or replace completed masters without a recorded reason"
+  ],
+  "review_scope": "Implementation traceability only; not a new critique cycle or acceptance decision",
+  "archive": {
+    "filename": "DoLaby-Complete-Kits-v1.0.0.zip",
+    "sha256": null,
+    "hash_location": "Adjacent archive-verification.json and .zip.sha256 outside the ZIP; avoids self-hash circularity",
+    "verification": "Final packaging operation checks ZIP CRC and every member SHA256; observed outcome is in the adjacent receipt"
+  },
+  "remaining_external_work": [
+    "Founder review and acceptance remain separate",
+    "Native-tool reconstruction, true3D and production backend are not part of the created sources",
+    "Unperformed accessibility/platform checks remain explicitly listed"
+  ]
+}

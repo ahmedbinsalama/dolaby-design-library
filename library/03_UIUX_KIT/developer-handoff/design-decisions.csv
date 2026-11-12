@@ -1,0 +1,7 @@
+id,value,status,rationale,affected_assets,verification
+UI-D01,Local HTML/CSS/JS source with shared component renderer,DESIGN_RESOLVED,Honest editability and runnable prototype without native tools,S01-S22;U01-U30,Node syntax and browser evidence under05_QA
+UI-D02,Merchant surface is qualification only,DESIGN_RESOLVED,Avoid inventing a merchant self-service portal before agreements,S18-S19;P4,IA and state transition inspection
+UI-D03,No default ivory text on green,DESIGN_RESOLVED,Preserve strict TYPE roles and readable controls,All screens,Shared contrast evidence
+UI-D04,Unconfirmed trousers and shoes stay suggestions,DESIGN_RESOLVED,One known garment does not establish ownership of a whole outfit,S07-S09,Visible source labels
+UI-D05,48px controls and44px icon targets,DESIGN_RESOLVED,Project comfort target for touch,All controls,DOM measurements in overall QA
+UI-D06,In-memory local state only,DESIGN_RESOLVED,Do not imply live account or server persistence,P1-P5,Source inspection and explicit prototype boundary

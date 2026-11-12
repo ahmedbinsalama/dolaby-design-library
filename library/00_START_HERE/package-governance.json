@@ -1,0 +1,32 @@
+{
+  "venture_id": "DOLABY",
+  "package_id": "PK-DOLABY-KITS-001",
+  "artifact_id": "AR-DOLABY-0301",
+  "version": "1.0.0",
+  "artifact_lifecycle_status": "DRAFT",
+  "delivery_status": "LOCAL_READY_FOR_REVIEW_WITH_DECLARED_LIMITS",
+  "owner_id": "OW-DOLABY-0301",
+  "owners": [
+    {
+      "id": "OW-DOLABY-0301",
+      "name": "Requesting founder / project owner",
+      "role": "Delivery recipient and acceptance owner",
+      "source": "Current user request",
+      "capacity_hours_by_week": null,
+      "capacity_reason": "No measured capacity supplied for this design-delivery handoff"
+    }
+  ],
+  "source_refs": [
+    "Supplied execution pack v1.1; preserved extracted manifest and files",
+    "Current explicit production request and request for engine details"
+  ],
+  "predecessor_artifact_ids": [
+    "AR-DOLABY-0204"
+  ],
+  "classification": "Local working design sources and QA records",
+  "verification_limits": [
+    "No founder acceptance inferred",
+    "No business evidence-stage change",
+    "No production AI/backend/native3D/nativeFigma/Canva created"
+  ]
+}

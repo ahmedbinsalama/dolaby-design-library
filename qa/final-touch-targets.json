@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "method": "CUA browser DOM measurement after the final CSS adjustment",
+  "viewport_width": 320,
+  "assets_page": {
+    "document_scroll_width": 320,
+    "visible_download_controls_checked": 24,
+    "each_download_width": 44,
+    "each_download_height": 44
+  },
+  "template_viewer": {
+    "template": "P01-ar-filled",
+    "document_scroll_width": 320,
+    "save_visible": true,
+    "save_width": 126.875,
+    "save_height": 44
+  },
+  "limits": "Targeted final regression check; does not extend the browser/device or assistive-technology coverage."
+}

@@ -1,0 +1,123 @@
+﻿id,type,specification,status,deliverable_contract,target_family,production_status,acceptance_evidence
+B01,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B02,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B03,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B04,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B05,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B06,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B07,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B08,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B09,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B10,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B11,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B12,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B13,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B14,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B15,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+B16,Brand asset family,briefs/01-brand.md,REQUIRED_TO_PRODUCE,source + preview + documentation,02_BRAND_KIT/asset-index.json,CREATED_WITH_SCOPED_QA,02_BRAND_KIT/booklet/brand-book.pdf; canonical SVGs;05_QA/acceptance.csv
+U01,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U02,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U03,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U04,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U05,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U06,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U07,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U08,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U09,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U10,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U11,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U12,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U13,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U14,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U15,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U16,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U17,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U18,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U19,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U20,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U21,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U22,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U23,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U24,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U25,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U26,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U27,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U28,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U29,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+U30,UI component family,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/components/component-catalog.json,CREATED,components/index.html;component-library.md
+S01,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S01-ar-390.png
+S02,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S02-ar-390.png
+S03,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S03-ar-390.png
+S04,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S04-ar-390.png
+S05,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S05-ar-390.png
+S06,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S06-ar-390.png
+S07,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S07-ar-390.png
+S08,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S08-ar-390.png
+S09,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S09-ar-390.png
+S10,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S10-ar-390.png
+S11,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S11-ar-390.png
+S12,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S12-ar-390.png
+S13,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S13-ar-390.png
+S14,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S14-ar-390.png
+S15,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S15-ar-390.png
+S16,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S16-ar-390.png
+S17,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S17-ar-390.png
+S18,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S18-ar-390.png
+S19,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S19-ar-390.png
+S20,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S20-ar-390.png
+S21,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S21-ar-390.png
+S22,UI screen type,briefs/02-uiux.md,REQUIRED_TO_PRODUCE,source + preview + documentation,03_UIUX_KIT/responsive-screens/compositions.json,CREATED,03_UIUX_KIT/previews/S22-ar-390.png
+P01,Social post template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/P01-ar.html,CREATED,04_SOCIAL_KIT/exports/P01-ar-filled.png
+P02,Social post template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/P02-ar.html,CREATED,04_SOCIAL_KIT/exports/P02-ar-filled.png
+P03,Social post template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/P03-ar.html,CREATED,04_SOCIAL_KIT/exports/P03-ar-filled.png
+P04,Social post template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/P04-ar.html,CREATED,04_SOCIAL_KIT/exports/P04-ar-filled.png
+P05,Social post template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/P05-ar.html,CREATED,04_SOCIAL_KIT/exports/P05-ar-filled.png
+P06,Social post template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/P06-ar.html,CREATED,04_SOCIAL_KIT/exports/P06-ar-filled.png
+P07,Social post template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/P07-ar.html,CREATED,04_SOCIAL_KIT/exports/P07-ar-filled.png
+P08,Social post template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/P08-ar.html,CREATED,04_SOCIAL_KIT/exports/P08-ar-filled.png
+C01,Social carousel module,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/C01-ar.html,CREATED,04_SOCIAL_KIT/exports/C01-ar-filled.png
+C02,Social carousel module,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/C02-ar.html,CREATED,04_SOCIAL_KIT/exports/C02-ar-filled.png
+C03,Social carousel module,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/C03-ar.html,CREATED,04_SOCIAL_KIT/exports/C03-ar-filled.png
+C04,Social carousel module,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/C04-ar.html,CREATED,04_SOCIAL_KIT/exports/C04-ar-filled.png
+C05,Social carousel module,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/C05-ar.html,CREATED,04_SOCIAL_KIT/exports/C05-ar-filled.png
+C06,Social carousel module,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/C06-ar.html,CREATED,04_SOCIAL_KIT/exports/C06-ar-filled.png
+T01,Social story template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/T01-ar.html,CREATED,04_SOCIAL_KIT/exports/T01-ar-filled.png
+T02,Social story template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/T02-ar.html,CREATED,04_SOCIAL_KIT/exports/T02-ar-filled.png
+T03,Social story template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/T03-ar.html,CREATED,04_SOCIAL_KIT/exports/T03-ar-filled.png
+T04,Social story template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/T04-ar.html,CREATED,04_SOCIAL_KIT/exports/T04-ar-filled.png
+T05,Social story template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/T05-ar.html,CREATED,04_SOCIAL_KIT/exports/T05-ar-filled.png
+T06,Social story template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/T06-ar.html,CREATED,04_SOCIAL_KIT/exports/T06-ar-filled.png
+V01,Social vertical video template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/V01-ar.html,CREATED,04_SOCIAL_KIT/exports/V01-ar-filled.png
+V02,Social vertical video template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/V02-ar.html,CREATED,04_SOCIAL_KIT/exports/V02-ar-filled.png
+V03,Social vertical video template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/V03-ar.html,CREATED,04_SOCIAL_KIT/exports/V03-ar-filled.png
+V04,Social vertical video template,briefs/03-social.md,REQUIRED_TO_PRODUCE,source + preview + documentation,04_SOCIAL_KIT/templates-empty/V04-ar.html,CREATED,04_SOCIAL_KIT/exports/V04-ar-filled.png
+Q01,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,canonical-logo/ring-master.svg; ratio120:80 and black source preserved
+Q02,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Outlined logo and AR/EN captures; Latin sequence fixed
+Q03,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,canonical-logo/geometry.json; real glyph outlines; canvas descender correction
+Q04,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Book page07 light carrier on green; no white/gold logo variant
+Q05,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Canonical one/two-line exact tagline SVG paths and source text
+Q06,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,24 canonical vector files; model/state sheets; flat nucleus
+Q07,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Editable SVG source; no true3D asset claim
+Q08,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,canonical-laby/states.json links11states to events; input=textnotmicrophone
+Q09,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,"motion-results.json nine timestamps; suffix-only clip, prefixDo retained; emergence3.2beforefinalcapture"
+Q10,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,SameinternalLTRtimeline; AR/EN placement control/source
+Q11,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Scene accessible nameDoLaby; independent brandhome and assistantcontrols
+Q12,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,NOT_TESTED,"Play/pause/skip runtimePASS; reduced-motion code/staticfallback inspected, nativepreference runtime not yet verified"
+Q13,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Shared tokens and conservativebutton; lighttextongreen exception remainscandidate
+Q14,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Contrast calculations for actualdeclaredsolidtextpairs; final font/raster review scoped; no fullWCAGcertification
+Q15,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Shared inkfocus andgreenfunctionalboundaries; sanddecorative
+Q16,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,NOT_TESTED,"Core keyboard/modal/error/label cases checked; fullscreenreader,200/400%zoom/cross-browser matrix notrun"
+Q17,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Standalonecontrols44/48projecttargets; inline/smalllinks assessedseparately; no blanketAAminimum44claim
+Q18,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Feedbacktext+symbol; consentanderrors do notdependonlyoncolor
+Q19,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,30componentfamilies/catalog+livegallery andvariant/state metadata
+Q20,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,22screen types/104sourcecompositions with PNGindex; exactdimensionschecked atfinalpackaging
+Q21,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,"functional-results.json: P1/P2/P3failure-recovery, accountatsave, externalreferralpreview"
+Q22,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,No voice/tryon/video/weatherlaunchcontrols; futureiconsdocumented
+Q23,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,"Synthetic prices/merchantlabels, originalvectorart, separatepermissions; nofictitiouspartners"
+Q24,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Designsources/sessiondemo only; no internalcheckoutorproductionbackendclaim
+Q25,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,24concepts×AR/EN×blank/example=96sources;24extracarouselslides
+Q26,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,NOT_TESTED,Instagramofficial429=>provisional; TikTokonlyscopedin-feedadscheck; no universalcropcertification
+Q27,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,"Socialcontactsheet+mobile-scale review, caption/altlibrary; noUGC/testimonials"
+Q28,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,ActualeditableHTML/CSS/JS/SVG/JSON; realPDF/PNGs/JPGs; nofake.fig
+Q29,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Originalvectorregister +includedOFLnotices; externalreferencePNGsexcluded
+Q30,Acceptance check,qa/acceptance.md,REQUIRED_TO_VERIFY,status + evidence + context,05_QA/acceptance.csv,PASS,Relative-sourcechecks andfinalchecksummanifest/archiveverification; manifestexcludesitself

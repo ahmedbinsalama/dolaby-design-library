@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "scope": "Static local links, generated file index, original kit integrity and indexed export targets; browser interaction is separate",
+  "local_references_checked": 2003,
+  "missing": [],
+  "catalog_files": 976,
+  "frozen_library_files": 924,
+  "screen_compositions": 104,
+  "social_export_sets": 120,
+  "site_pages": 12,
+  "library_sha256": "PASS"
+}

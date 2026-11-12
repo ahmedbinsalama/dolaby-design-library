@@ -1,0 +1,113 @@
+{
+  "id": "LABY-MASTER-001",
+  "version": "1.0.0",
+  "status": "DESIGN_RESOLVED",
+  "representation": "Original editable 2D vector, not a 3D rig",
+  "viewBox": [
+    0,
+    0,
+    300,
+    400
+  ],
+  "standing": {
+    "visible_bounds": [
+      37,
+      20,
+      263,
+      382
+    ],
+    "body_center_x": 150,
+    "body_path_top": 20,
+    "torso_extrema_x": [
+      66,
+      234
+    ],
+    "integrated_head_width": 116,
+    "head_top": 20,
+    "eye_centers": [
+      [
+        131,
+        91
+      ],
+      [
+        169,
+        91
+      ]
+    ],
+    "eye_radii": [
+      5,
+      6
+    ],
+    "nucleus": {
+      "center": [
+        150,
+        220
+      ],
+      "outer_radius": 18,
+      "inner_radius": 12,
+      "thickness": 6
+    },
+    "feet_bottom": 379
+  },
+  "seated": {
+    "head_top": 57,
+    "body_bottom": 323,
+    "eye_y": 125,
+    "nucleus_center": [
+      150,
+      233
+    ],
+    "nucleus_radii": [
+      18,
+      12
+    ],
+    "feet_ellipses": [
+      [
+        117,
+        326,
+        35,
+        31,
+        -25
+      ],
+      [
+        183,
+        326,
+        35,
+        31,
+        25
+      ]
+    ]
+  },
+  "small": {
+    "use_sizes_css_px": [
+      32,
+      48,
+      64
+    ],
+    "eyes_radius": 9,
+    "nucleus_radii": [
+      25,
+      16.666666667
+    ],
+    "body": "flat linen with sand boundary; fewer limbs/details"
+  },
+  "materials": {
+    "vector_body_stops": [
+      "#FCF8F0",
+      "#F3E9D8",
+      "#DDCDB5"
+    ],
+    "nucleus": "Unlit flat #000000 annulus; no gradient or shadow",
+    "3D": "DEFERRED; roughness/metallic/camera rendering values are not implemented"
+  },
+  "projection": {
+    "front": "2D orthographic construction",
+    "side": "Authored 2D profile with projected planar annulus",
+    "three-quarter": "Authored 2D oblique illustration; not a 3D camera export"
+  },
+  "limits": [
+    "No guarantee of pixel-identical reproduction of raster reference",
+    "3D mesh, skeleton, lighting rig and animation rig are not created",
+    "Small-size expressions must also use interface status text"
+  ]
+}

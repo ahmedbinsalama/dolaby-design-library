@@ -1,0 +1,130 @@
+{
+  "classification": "SYNTHETIC_DEMO_DATA",
+  "garments": [
+    {
+      "id": "G01",
+      "name_ar": "قميص كتان عاجي",
+      "name_en": "Ivory linen shirt",
+      "ownership": "USER_ASSERTED_OWNED",
+      "source": "DEMO_USER_INPUT",
+      "color": "ivory",
+      "fabric": "linen — sample assertion",
+      "size": null,
+      "image": "original vector illustration",
+      "observed_at": null
+    },
+    {
+      "id": "G02",
+      "name_ar": "بنطلون زيتوني",
+      "name_en": "Olive trousers",
+      "ownership": "UNCONFIRMED_SUGGESTION",
+      "source": "ILLUSTRATIVE_DESIGN",
+      "size": null
+    },
+    {
+      "id": "G03",
+      "name_ar": "حذاء محايد",
+      "name_en": "Neutral shoe",
+      "ownership": "UNCONFIRMED_SUGGESTION",
+      "source": "ILLUSTRATIVE_DESIGN",
+      "size": null
+    }
+  ],
+  "outfits": [
+    {
+      "id": "O01",
+      "garment_ids": [
+        "G01",
+        "G02",
+        "G03"
+      ],
+      "context": "workday",
+      "status": "ILLUSTRATIVE_EXAMPLE",
+      "requires_purchase": false,
+      "ownership_confirmed": false
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "R01",
+      "outfit_id": "O01",
+      "reason_ar": "ألوان هادئة وقصة مريحة ليوم عمل.",
+      "reason_en": "Quiet colors and an easy silhouette for a workday.",
+      "claim_role": "DESIGN_EXAMPLE_NOT_AI_OUTPUT",
+      "confidence": null,
+      "editable": true
+    }
+  ],
+  "merchants": [
+    {
+      "id": "M01",
+      "name": "Example Atelier / متجر المثال",
+      "status": "FICTIONAL",
+      "verified": false,
+      "checkout_url": null
+    }
+  ],
+  "products": [
+    {
+      "id": "P-DEMO-01",
+      "merchant_id": "M01",
+      "name": "Neutral everyday shoe",
+      "price": 1250,
+      "currency": "EGP",
+      "price_status": "SYNTHETIC_EXAMPLE",
+      "available": null,
+      "price_observed_at": null,
+      "image_rights": "Original SVG illustration",
+      "source_url": null
+    }
+  ],
+  "consent_choices": [
+    {
+      "purpose": "availability",
+      "selected": false,
+      "recorded_at": null,
+      "withdrawn_at": null,
+      "status": "LOCAL_DEMO_ONLY"
+    },
+    {
+      "purpose": "offers",
+      "selected": false,
+      "recorded_at": null,
+      "withdrawn_at": null,
+      "status": "LOCAL_DEMO_ONLY"
+    },
+    {
+      "purpose": "research",
+      "selected": false,
+      "recorded_at": null,
+      "withdrawn_at": null,
+      "status": "LOCAL_DEMO_ONLY"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "SUB-001",
+      "name": "Example Atelier",
+      "email": "demo@example.test",
+      "source": "merchant_interest",
+      "status": "new",
+      "classification": "SYNTHETIC"
+    },
+    {
+      "id": "SUB-002",
+      "name": "Nour — example",
+      "email": "nour@example.test",
+      "source": "consumer_interest",
+      "status": "reviewed",
+      "classification": "SYNTHETIC"
+    },
+    {
+      "id": "SUB-003",
+      "name": "Salma — example",
+      "email": "salma@example.test",
+      "source": "research",
+      "status": "new",
+      "classification": "SYNTHETIC"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CA01",
+    "lang": "ar",
+    "title": "يوم عمل من قطعة مملوكة",
+    "slides": [
+      "examples-populated/carousels/CA01-ar-01.html",
+      "examples-populated/carousels/CA01-ar-02.html",
+      "examples-populated/carousels/CA01-ar-03.html",
+      "examples-populated/carousels/CA01-ar-04.html",
+      "examples-populated/carousels/CA01-ar-05.html",
+      "examples-populated/carousels/CA01-ar-06.html"
+    ],
+    "count": 6
+  },
+  {
+    "id": "CA01",
+    "lang": "en",
+    "title": "A workday from one owned piece",
+    "slides": [
+      "examples-populated/carousels/CA01-en-01.html",
+      "examples-populated/carousels/CA01-en-02.html",
+      "examples-populated/carousels/CA01-en-03.html",
+      "examples-populated/carousels/CA01-en-04.html",
+      "examples-populated/carousels/CA01-en-05.html",
+      "examples-populated/carousels/CA01-en-06.html"
+    ],
+    "count": 6
+  },
+  {
+    "id": "CA02",
+    "lang": "ar",
+    "title": "تغيير صغير للمشوار",
+    "slides": [
+      "examples-populated/carousels/CA02-ar-01.html",
+      "examples-populated/carousels/CA02-ar-02.html",
+      "examples-populated/carousels/CA02-ar-03.html",
+      "examples-populated/carousels/CA02-ar-04.html",
+      "examples-populated/carousels/CA02-ar-05.html",
+      "examples-populated/carousels/CA02-ar-06.html"
+    ],
+    "count": 6
+  },
+  {
+    "id": "CA02",
+    "lang": "en",
+    "title": "A small change for an errand",
+    "slides": [
+      "examples-populated/carousels/CA02-en-01.html",
+      "examples-populated/carousels/CA02-en-02.html",
+      "examples-populated/carousels/CA02-en-03.html",
+      "examples-populated/carousels/CA02-en-04.html",
+      "examples-populated/carousels/CA02-en-05.html",
+      "examples-populated/carousels/CA02-en-06.html"
+    ],
+    "count": 6
+  }
+]

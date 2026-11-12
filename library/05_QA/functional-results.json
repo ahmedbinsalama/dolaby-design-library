@@ -1,0 +1,50 @@
+[
+  {
+    "test": "P1 empty description",
+    "passed": true
+  },
+  {
+    "test": "P1 simulated failure",
+    "screen": "S17"
+  },
+  {
+    "test": "P1 recovery preserves text",
+    "value": "description",
+    "passed": true
+  },
+  {
+    "test": "P1 account only at save",
+    "screen": "S12"
+  },
+  {
+    "test": "P1 demo save",
+    "screen": "S11"
+  },
+  {
+    "test": "P2 failure",
+    "screen": "S17"
+  },
+  {
+    "test": "P2 recovery dialog",
+    "passed": true
+  },
+  {
+    "test": "P2 no-buy return",
+    "screen": "S16"
+  },
+  {
+    "test": "P3 purpose-specific consent",
+    "checked": "true",
+    "availability": "false"
+  },
+  {
+    "test": "P3 deletion failure",
+    "screen": "S14",
+    "visibleError": "The simulated deletion failed.\nYour piece is still present. Retry or return without changing it."
+  },
+  {
+    "test": "P3 deletion recovery",
+    "screen": "S10",
+    "passed": true
+  }
+]

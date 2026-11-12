@@ -1,0 +1,20 @@
+[
+  {
+    "target": 320,
+    "save": true,
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "target": 768,
+    "save": true,
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "target": 1440,
+    "save": true,
+    "scrollWidth": 1440,
+    "width": 1440
+  }
+]

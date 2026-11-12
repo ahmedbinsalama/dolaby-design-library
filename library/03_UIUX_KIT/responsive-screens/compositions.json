@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "S01-ar-390",
+    "screen": "S01",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S01-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S01-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S01-ar-768",
+    "screen": "S01",
+    "lang": "ar",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S01-ar-768.html",
+    "preview": "03_UIUX_KIT/previews/S01-ar-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S01-ar-1440",
+    "screen": "S01",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S01-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S01-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S01-en-390",
+    "screen": "S01",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S01-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S01-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S01-en-768",
+    "screen": "S01",
+    "lang": "en",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S01-en-768.html",
+    "preview": "03_UIUX_KIT/previews/S01-en-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S01-en-1440",
+    "screen": "S01",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S01&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S01-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S01-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S02-ar-390",
+    "screen": "S02",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S02-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S02-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S02-ar-768",
+    "screen": "S02",
+    "lang": "ar",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S02-ar-768.html",
+    "preview": "03_UIUX_KIT/previews/S02-ar-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S02-ar-1440",
+    "screen": "S02",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S02-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S02-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S02-en-390",
+    "screen": "S02",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S02-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S02-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S02-en-768",
+    "screen": "S02",
+    "lang": "en",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S02-en-768.html",
+    "preview": "03_UIUX_KIT/previews/S02-en-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S02-en-1440",
+    "screen": "S02",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S02&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S02-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S02-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S03-ar-390",
+    "screen": "S03",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S03-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S03-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S03-ar-768",
+    "screen": "S03",
+    "lang": "ar",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S03-ar-768.html",
+    "preview": "03_UIUX_KIT/previews/S03-ar-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S03-ar-1440",
+    "screen": "S03",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S03-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S03-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S03-en-390",
+    "screen": "S03",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S03-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S03-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S03-en-768",
+    "screen": "S03",
+    "lang": "en",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S03-en-768.html",
+    "preview": "03_UIUX_KIT/previews/S03-en-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S03-en-1440",
+    "screen": "S03",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S03&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S03-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S03-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S04-ar-390",
+    "screen": "S04",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S04&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S04-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S04-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S04-ar-1440",
+    "screen": "S04",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S04&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S04-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S04-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S04-en-390",
+    "screen": "S04",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S04&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S04-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S04-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S04-en-1440",
+    "screen": "S04",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S04&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S04-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S04-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S05-ar-390",
+    "screen": "S05",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S05&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S05-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S05-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S05-ar-1440",
+    "screen": "S05",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S05&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S05-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S05-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S05-en-390",
+    "screen": "S05",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S05&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S05-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S05-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S05-en-1440",
+    "screen": "S05",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S05&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S05-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S05-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S06-ar-390",
+    "screen": "S06",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S06&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S06-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S06-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S06-ar-1440",
+    "screen": "S06",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S06&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S06-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S06-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S06-en-390",
+    "screen": "S06",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S06&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S06-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S06-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S06-en-1440",
+    "screen": "S06",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S06&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S06-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S06-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S07-ar-390",
+    "screen": "S07",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S07-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S07-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S07-ar-768",
+    "screen": "S07",
+    "lang": "ar",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S07-ar-768.html",
+    "preview": "03_UIUX_KIT/previews/S07-ar-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S07-ar-1440",
+    "screen": "S07",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S07-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S07-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S07-en-390",
+    "screen": "S07",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S07-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S07-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S07-en-768",
+    "screen": "S07",
+    "lang": "en",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S07-en-768.html",
+    "preview": "03_UIUX_KIT/previews/S07-en-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S07-en-1440",
+    "screen": "S07",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S07&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S07-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S07-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S08-ar-390",
+    "screen": "S08",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S08&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S08-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S08-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S08-ar-1440",
+    "screen": "S08",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S08&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S08-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S08-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S08-en-390",
+    "screen": "S08",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S08&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S08-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S08-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S08-en-1440",
+    "screen": "S08",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S08&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S08-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S08-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S09-ar-390",
+    "screen": "S09",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S09&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S09-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S09-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S09-ar-1440",
+    "screen": "S09",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S09&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S09-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S09-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S09-en-390",
+    "screen": "S09",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S09&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S09-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S09-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S09-en-1440",
+    "screen": "S09",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S09&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S09-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S09-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S10-ar-390",
+    "screen": "S10",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S10-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S10-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S10-ar-768",
+    "screen": "S10",
+    "lang": "ar",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S10-ar-768.html",
+    "preview": "03_UIUX_KIT/previews/S10-ar-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S10-ar-1440",
+    "screen": "S10",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S10-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S10-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S10-en-390",
+    "screen": "S10",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S10-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S10-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S10-en-768",
+    "screen": "S10",
+    "lang": "en",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S10-en-768.html",
+    "preview": "03_UIUX_KIT/previews/S10-en-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S10-en-1440",
+    "screen": "S10",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S10&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S10-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S10-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S11-ar-390",
+    "screen": "S11",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S11&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S11-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S11-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S11-ar-1440",
+    "screen": "S11",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S11&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S11-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S11-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S11-en-390",
+    "screen": "S11",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S11&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S11-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S11-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S11-en-1440",
+    "screen": "S11",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S11&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S11-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S11-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S12-ar-390",
+    "screen": "S12",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S12&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S12-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S12-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S12-ar-1440",
+    "screen": "S12",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S12&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S12-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S12-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S12-en-390",
+    "screen": "S12",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S12&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S12-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S12-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S12-en-1440",
+    "screen": "S12",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S12&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S12-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S12-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S13-ar-390",
+    "screen": "S13",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S13&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S13-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S13-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S13-ar-1440",
+    "screen": "S13",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S13&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S13-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S13-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S13-en-390",
+    "screen": "S13",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S13&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S13-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S13-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S13-en-1440",
+    "screen": "S13",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S13&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S13-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S13-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S14-ar-390",
+    "screen": "S14",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S14-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S14-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S14-ar-768",
+    "screen": "S14",
+    "lang": "ar",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S14-ar-768.html",
+    "preview": "03_UIUX_KIT/previews/S14-ar-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S14-ar-1440",
+    "screen": "S14",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S14-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S14-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S14-en-390",
+    "screen": "S14",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S14-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S14-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S14-en-768",
+    "screen": "S14",
+    "lang": "en",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S14-en-768.html",
+    "preview": "03_UIUX_KIT/previews/S14-en-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S14-en-1440",
+    "screen": "S14",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S14&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S14-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S14-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S15-ar-390",
+    "screen": "S15",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S15&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S15-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S15-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S15-ar-1440",
+    "screen": "S15",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S15&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S15-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S15-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S15-en-390",
+    "screen": "S15",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S15&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S15-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S15-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S15-en-1440",
+    "screen": "S15",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S15&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S15-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S15-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S16-ar-390",
+    "screen": "S16",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S16&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S16-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S16-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S16-ar-1440",
+    "screen": "S16",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S16&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S16-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S16-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S16-en-390",
+    "screen": "S16",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S16&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S16-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S16-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S16-en-1440",
+    "screen": "S16",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S16&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S16-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S16-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S17-ar-390",
+    "screen": "S17",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S17&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S17-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S17-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S17-ar-1440",
+    "screen": "S17",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S17&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S17-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S17-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S17-en-390",
+    "screen": "S17",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S17&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S17-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S17-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S17-en-1440",
+    "screen": "S17",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S17&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S17-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S17-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S18-ar-390",
+    "screen": "S18",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S18-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S18-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S18-ar-768",
+    "screen": "S18",
+    "lang": "ar",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S18-ar-768.html",
+    "preview": "03_UIUX_KIT/previews/S18-ar-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S18-ar-1440",
+    "screen": "S18",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S18-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S18-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S18-en-390",
+    "screen": "S18",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S18-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S18-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S18-en-768",
+    "screen": "S18",
+    "lang": "en",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S18-en-768.html",
+    "preview": "03_UIUX_KIT/previews/S18-en-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S18-en-1440",
+    "screen": "S18",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S18&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S18-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S18-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S19-ar-390",
+    "screen": "S19",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S19&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S19-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S19-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S19-ar-1440",
+    "screen": "S19",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S19&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S19-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S19-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S19-en-390",
+    "screen": "S19",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S19&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S19-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S19-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S19-en-1440",
+    "screen": "S19",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S19&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S19-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S19-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S20-ar-390",
+    "screen": "S20",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S20&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S20-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S20-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S20-ar-1440",
+    "screen": "S20",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S20&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S20-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S20-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S20-en-390",
+    "screen": "S20",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S20&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S20-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S20-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S20-en-1440",
+    "screen": "S20",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S20&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S20-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S20-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S21-ar-390",
+    "screen": "S21",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S21-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S21-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S21-ar-768",
+    "screen": "S21",
+    "lang": "ar",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S21-ar-768.html",
+    "preview": "03_UIUX_KIT/previews/S21-ar-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S21-ar-1440",
+    "screen": "S21",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S21-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S21-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S21-en-390",
+    "screen": "S21",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S21-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S21-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S21-en-768",
+    "screen": "S21",
+    "lang": "en",
+    "width": 768,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S21-en-768.html",
+    "preview": "03_UIUX_KIT/previews/S21-en-768.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S21-en-1440",
+    "screen": "S21",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S21&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S21-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S21-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S22-ar-390",
+    "screen": "S22",
+    "lang": "ar",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S22&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S22-ar-390.html",
+    "preview": "03_UIUX_KIT/previews/S22-ar-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S22-ar-1440",
+    "screen": "S22",
+    "lang": "ar",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S22&lang=ar&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S22-ar-1440.html",
+    "preview": "03_UIUX_KIT/previews/S22-ar-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S22-en-390",
+    "screen": "S22",
+    "lang": "en",
+    "width": 390,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S22&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S22-en-390.html",
+    "preview": "03_UIUX_KIT/previews/S22-en-390.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  },
+  {
+    "id": "S22-en-1440",
+    "screen": "S22",
+    "lang": "en",
+    "width": 1440,
+    "url": "03_UIUX_KIT/prototype/index.html?screen=S22&lang=en&capture=1",
+    "source": "03_UIUX_KIT/responsive-screens/S22-en-1440.html",
+    "preview": "03_UIUX_KIT/previews/S22-en-1440.png",
+    "height_mode": "content-driven; capture document scrollHeight at exact CSS width"
+  }
+]

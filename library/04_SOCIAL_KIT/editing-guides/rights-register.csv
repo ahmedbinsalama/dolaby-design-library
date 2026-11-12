@@ -1,0 +1,7 @@
+﻿asset,source,creator,permission,limit
+Original garment illustrations,../artwork/*.svg;../master/render.js,Created in this production task,Original vector source supplied for DoLaby editing/use;no external stock photo incorporated,No trademark or ownership legal clearance is asserted
+DoLaby logo,../../01_SHARED_FOUNDATIONS/canonical-logo,Supplied ring + task-created wordmark source,Project design asset,No registration/distinctiveness claim
+Laby poses,../../01_SHARED_FOUNDATIONS/canonical-laby,Task-created vector master,Referenced canonical source;not copied raster reference,No true3D rig
+Cairo / Cormorant Garamond,../../01_SHARED_FOUNDATIONS/fonts-and-licenses,See included OFL notices,Bundled license texts and source subset files,Native Canva availability untested
+Input raster references,Input package only,UNKNOWN,Not reused in social exports,Reference rights unknown
+Audio,None,Not applicable,No audio used,Add licensed audio only for an actual future use

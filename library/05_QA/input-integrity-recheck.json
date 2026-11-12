@@ -1,0 +1,203 @@
+{
+  "version": "1.1",
+  "entrypoint": "01-EXECUTE-ALL-KITS-PROMPT-v1.1.txt",
+  "status": "PASS",
+  "files_checked": 32,
+  "supplied_manifest_sha256": "f043ee1b9c4517a93b166a2257cbb538bacca07c683ec8845013bf7e43543b28",
+  "original_archive_available_at_packaging": false,
+  "note": "Original desktop archive no longer exists at the supplied path. Preserved extracted files were revalidated against the supplied manifest. No original archive checksum is invented.",
+  "files": [
+    {
+      "path": "00-MASTER-BRIEF.md",
+      "matches": true,
+      "sha256": "6d9072743f5e4a853ae4d9ed452139480cd07a8b7ea8a3cfcb765b53eee031a8",
+      "bytes": 24952
+    },
+    {
+      "path": "01-EXECUTE-ALL-KITS-PROMPT-v1.1.txt",
+      "matches": true,
+      "sha256": "340aaf71ae68a459e5dcb15196ef2f295bd145596e9bd3633f105d86a3fca82f",
+      "bytes": 64898
+    },
+    {
+      "path": "DoLaby-MASTER-FOR-AI.txt",
+      "matches": true,
+      "sha256": "f39427f4239b17c257d1fad74f9ccb9f6907072838043074ad31817759984c78",
+      "bytes": 44182
+    },
+    {
+      "path": "README.md",
+      "matches": true,
+      "sha256": "12f25fc9f8c8e24441d1214d30785277d84082cf56abe6faef1f6618480330a8",
+      "bytes": 1940
+    },
+    {
+      "path": "assets/fonts/cairo-OFL.txt",
+      "matches": true,
+      "sha256": "a4554e1799d42e1405924b61eb0e0722ae1623b1f1f07f995348f96c496362a9",
+      "bytes": 4473
+    },
+    {
+      "path": "assets/fonts/cormorantgaramond-OFL.txt",
+      "matches": true,
+      "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956",
+      "bytes": 4387
+    },
+    {
+      "path": "assets/fonts/font-06.woff2",
+      "matches": true,
+      "sha256": "748022f50c427456ad66031e855349be3448ee1f05a5f1eb59574ebe0c686749",
+      "bytes": 30896
+    },
+    {
+      "path": "assets/fonts/font-07.woff2",
+      "matches": true,
+      "sha256": "da6ada83c3a87c2f0211325dc0a123702e1d4a940958b3e943ac4f37b31d5371",
+      "bytes": 16648
+    },
+    {
+      "path": "assets/fonts/font-08.woff2",
+      "matches": true,
+      "sha256": "82c13cbd1352d76e97c3d335caa912ae68fecdc3949a43cf8d149eb892384c1b",
+      "bytes": 33820
+    },
+    {
+      "path": "assets/fonts/font-09.woff2",
+      "matches": true,
+      "sha256": "a4d7cf345b8091e1d2c8c5c8fa3bd0f9bb9d00bc8988185471db398ddb5ae4c4",
+      "bytes": 23416
+    },
+    {
+      "path": "assets/fonts/font-10.woff2",
+      "matches": true,
+      "sha256": "017fab69b4be8ffc08ca312823327989ade6dc3d948f0afa125e12ec2e5e7ca1",
+      "bytes": 21168
+    },
+    {
+      "path": "assets/fonts/font-11.woff2",
+      "matches": true,
+      "sha256": "6252e819a7665ae512c2d046308a9016ada63c06d0d8f96984c4b29f6c9e1bd2",
+      "bytes": 11220
+    },
+    {
+      "path": "assets/fonts/font-12.woff2",
+      "matches": true,
+      "sha256": "cfa9a397d86f66c5c51775a2500a712d5f632a04f0c5eca6930dfaf612d4566d",
+      "bytes": 33736
+    },
+    {
+      "path": "assets/fonts/font-13.woff2",
+      "matches": true,
+      "sha256": "d80df8ff5aecd299a61549f9e29ab1ed0b9b05f4ea71d50fe978e07d5240b235",
+      "bytes": 37640
+    },
+    {
+      "path": "assets/fonts/fonts.css",
+      "matches": true,
+      "sha256": "40a7f9f9e57ecc6ea415be927c0390cab3e1e3fa5ec02344778230dc4815c13d",
+      "bytes": 10637
+    },
+    {
+      "path": "assets/logo/ring-master.svg",
+      "matches": true,
+      "sha256": "d796b11504d41b5aa33d1b73f2b3edd47a9156987a01905c00b2e65586f9a392",
+      "bytes": 198
+    },
+    {
+      "path": "briefs/01-brand.md",
+      "matches": true,
+      "sha256": "74a0577e6d3b7465f58152b571dd4e7bba42dcd1be7d91c7a5dfc00e4898cf11",
+      "bytes": 4226
+    },
+    {
+      "path": "briefs/02-uiux.md",
+      "matches": true,
+      "sha256": "e4c4e14151509351f4d7efc9baa8e455b0dd4664a33599ac18936b6dc421e2a5",
+      "bytes": 4584
+    },
+    {
+      "path": "briefs/03-social.md",
+      "matches": true,
+      "sha256": "fd4e509526b335739d29686b57988492ff4dc6d6a27a54d7f62c32755cdd56ab",
+      "bytes": 4195
+    },
+    {
+      "path": "data/answers-index.json",
+      "matches": true,
+      "sha256": "d5261eb1ae309a5dee64448adbf9093d21ca3cf0e8cb3eae8e096a13aec6aa56",
+      "bytes": 83122
+    },
+    {
+      "path": "data/decisions.csv",
+      "matches": true,
+      "sha256": "cf3d95e6ea983534ed912872248b7c352300d9cc54adb4aa182a7402c4a44bdd",
+      "bytes": 1038
+    },
+    {
+      "path": "data/geometry.json",
+      "matches": true,
+      "sha256": "d9ef91a88aab7a803580163f6af3a2b44f60688df98eff3f03d67f96a9dae1db",
+      "bytes": 936
+    },
+    {
+      "path": "data/requirements.csv",
+      "matches": true,
+      "sha256": "9a6c52082ce4a20e7df2072ed43cb0d95b5372e5fef19f5224968cd2287ed3a3",
+      "bytes": 11486
+    },
+    {
+      "path": "data/tokens.json",
+      "matches": true,
+      "sha256": "c34275cf9d17b4c5cbb61abd198b8c401f3cf30ba98991483fb172907383dfb3",
+      "bytes": 5572
+    },
+    {
+      "path": "qa/acceptance.md",
+      "matches": true,
+      "sha256": "e00f71dfe39b6f61abe04b74ba27811f117a29fef5c656636e4f1c929a9c8995",
+      "bytes": 3507
+    },
+    {
+      "path": "qa/contrast.csv",
+      "matches": true,
+      "sha256": "24c287d87ca7dedf5f5b5fe3c9393774f07f363056244562aedee62a887ded89",
+      "bytes": 2682
+    },
+    {
+      "path": "qa/handoff-verification.md",
+      "matches": true,
+      "sha256": "c6004cccfc8d80d62d5dc096a3d0ecf6df1009806fb12ff5099582862e9edfdc",
+      "bytes": 707
+    },
+    {
+      "path": "references/brand-direction-v1.png",
+      "matches": true,
+      "sha256": "596cd4bba9b565f8b04bc708c77c90540f840e0e1f121ebed6df1425af2651e8",
+      "bytes": 2220769
+    },
+    {
+      "path": "references/laby-transformation-reference.png",
+      "matches": true,
+      "sha256": "268b7a3ea6cb615c38b34580ff47e79812f3b0a9109a9da12f8307c61f8af624",
+      "bytes": 1541481
+    },
+    {
+      "path": "references/logo-motion-storyboard.png",
+      "matches": true,
+      "sha256": "a054fb09157667e8525ae1085f3529fe80e48616601c19f94c3cafe25c872915",
+      "bytes": 1656112
+    },
+    {
+      "path": "references/motion-timeline-proposal.json",
+      "matches": true,
+      "sha256": "e69a3e0b1c7819934ddb8926ab968ec954cd77f6f6a8844e52602b8eabb09563",
+      "bytes": 2119
+    },
+    {
+      "path": "sources/founder-answers-v0.2.txt",
+      "matches": true,
+      "sha256": "e8ec416ac5910c83227670d65b3043b47d6c83348c10a66be74046fe4ee9fd8b",
+      "bytes": 55654
+    }
+  ]
+}

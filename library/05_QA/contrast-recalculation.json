@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "method": "WCAG sRGB relative luminance; solid background pairs only",
+  "pairs": [
+    {
+      "foreground": "#382019",
+      "background": "#F3E9D8",
+      "recalculated_ratio": 12.570684871280964,
+      "listed_ratio": 12.571,
+      "matches": true
+    },
+    {
+      "foreground": "#382019",
+      "background": "#FCF8F0",
+      "recalculated_ratio": 14.27448687607533,
+      "listed_ratio": 14.274,
+      "matches": true
+    },
+    {
+      "foreground": "#382019",
+      "background": "#DDCDB5",
+      "recalculated_ratio": 9.702094179364604,
+      "listed_ratio": 9.702,
+      "matches": true
+    },
+    {
+      "foreground": "#382019",
+      "background": "#123B32",
+      "recalculated_ratio": 1.2221862081537966,
+      "listed_ratio": 1.222,
+      "matches": true
+    },
+    {
+      "foreground": "#382019",
+      "background": "#B69A62",
+      "recalculated_ratio": 5.607478469877239,
+      "listed_ratio": 5.607,
+      "matches": true
+    },
+    {
+      "foreground": "#151D2B",
+      "background": "#F3E9D8",
+      "recalculated_ratio": 14.050591050592772,
+      "listed_ratio": 14.051,
+      "matches": true
+    },
+    {
+      "foreground": "#151D2B",
+      "background": "#FCF8F0",
+      "recalculated_ratio": 15.954976169277739,
+      "listed_ratio": 15.955,
+      "matches": true
+    },
+    {
+      "foreground": "#151D2B",
+      "background": "#DDCDB5",
+      "recalculated_ratio": 10.844290430032663,
+      "listed_ratio": 10.844,
+      "matches": true
+    },
+    {
+      "foreground": "#151D2B",
+      "background": "#123B32",
+      "recalculated_ratio": 1.3660702479047797,
+      "listed_ratio": 1.366,
+      "matches": true
+    },
+    {
+      "foreground": "#151D2B",
+      "background": "#B69A62",
+      "recalculated_ratio": 6.2676288215011295,
+      "listed_ratio": 6.268,
+      "matches": true
+    },
+    {
+      "foreground": "#591C2B",
+      "background": "#F3E9D8",
+      "recalculated_ratio": 10.738445141461327,
+      "listed_ratio": 10.738,
+      "matches": true
+    },
+    {
+      "foreground": "#591C2B",
+      "background": "#FCF8F0",
+      "recalculated_ratio": 12.1939095451706,
+      "listed_ratio": 12.194,
+      "matches": true
+    },
+    {
+      "foreground": "#591C2B",
+      "background": "#DDCDB5",
+      "recalculated_ratio": 8.287965784618502,
+      "listed_ratio": 8.288,
+      "matches": true
+    },
+    {
+      "foreground": "#591C2B",
+      "background": "#123B32",
+      "recalculated_ratio": 1.0440465005128075,
+      "listed_ratio": 1.044,
+      "matches": true
+    },
+    {
+      "foreground": "#591C2B",
+      "background": "#B69A62",
+      "recalculated_ratio": 4.790160643376801,
+      "listed_ratio": 4.79,
+      "matches": true
+    },
+    {
+      "foreground": "#000000",
+      "background": "#F3E9D8",
+      "recalculated_ratio": 17.458076250683085,
+      "listed_ratio": 17.458,
+      "matches": true
+    },
+    {
+      "foreground": "#000000",
+      "background": "#FCF8F0",
+      "recalculated_ratio": 19.824304154758742,
+      "listed_ratio": 19.824,
+      "matches": true
+    },
+    {
+      "foreground": "#000000",
+      "background": "#DDCDB5",
+      "recalculated_ratio": 13.474198240512875,
+      "listed_ratio": 13.474,
+      "matches": true
+    },
+    {
+      "foreground": "#000000",
+      "background": "#123B32",
+      "recalculated_ratio": 1.697363368262365,
+      "listed_ratio": 1.697,
+      "matches": true
+    },
+    {
+      "foreground": "#000000",
+      "background": "#B69A62",
+      "recalculated_ratio": 7.787625551320092,
+      "listed_ratio": 7.788,
+      "matches": true
+    },
+    {
+      "foreground": "#1C1917",
+      "background": "#F3E9D8",
+      "recalculated_ratio": 14.538705223883113,
+      "listed_ratio": 14.539,
+      "matches": true
+    },
+    {
+      "foreground": "#1C1917",
+      "background": "#FCF8F0",
+      "recalculated_ratio": 16.509248226210573,
+      "listed_ratio": 16.509,
+      "matches": true
+    },
+    {
+      "foreground": "#1C1917",
+      "background": "#DDCDB5",
+      "recalculated_ratio": 11.221018486462178,
+      "listed_ratio": 11.221,
+      "matches": true
+    },
+    {
+      "foreground": "#1C1917",
+      "background": "#123B32",
+      "recalculated_ratio": 1.4135272016593652,
+      "listed_ratio": 1.414,
+      "matches": true
+    },
+    {
+      "foreground": "#1C1917",
+      "background": "#B69A62",
+      "recalculated_ratio": 6.485364748031329,
+      "listed_ratio": 6.485,
+      "matches": true
+    },
+    {
+      "foreground": "#FCF8F0",
+      "background": "#123B32",
+      "recalculated_ratio": 11.679469773790037,
+      "listed_ratio": 11.679,
+      "matches": true
+    }
+  ],
+  "limits": "Does not evaluate every rendered combination, font rasterization, image background or UI state"
+}

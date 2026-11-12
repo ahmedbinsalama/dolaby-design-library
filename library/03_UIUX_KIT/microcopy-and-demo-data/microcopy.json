@@ -1,0 +1,162 @@
+[
+  {
+    "id": "COPY-start",
+    "ar": "نبدأ بقطعة تحبّها؟",
+    "en": "Start with a piece you love."
+  },
+  {
+    "id": "COPY-context",
+    "ar": "إيه المناسبة؟",
+    "en": "What are you dressing for?"
+  },
+  {
+    "id": "COPY-describe",
+    "ar": "أو صف القطعة",
+    "en": "Or describe the piece"
+  },
+  {
+    "id": "COPY-no-photo",
+    "ar": "الصورة اختيارية؛ الوصف يكفي.",
+    "en": "A photo is optional. A description is enough."
+  },
+  {
+    "id": "COPY-clarify",
+    "ar": "تفصيلة صغيرة تفرق.",
+    "en": "One detail makes a difference."
+  },
+  {
+    "id": "COPY-why",
+    "ar": "ليه الاختيار ده؟",
+    "en": "Why this combination?"
+  },
+  {
+    "id": "COPY-swap",
+    "ar": "نبدّل قطعة ولا نشوف بديل؟",
+    "en": "Swap a piece or explore an alternative?"
+  },
+  {
+    "id": "COPY-no-buy",
+    "ar": "أكمل بالمملوك فقط",
+    "en": "Continue with owned clothes"
+  },
+  {
+    "id": "COPY-more",
+    "ar": "شوف بديل",
+    "en": "Explore an alternative"
+  },
+  {
+    "id": "COPY-save",
+    "ar": "احفظ الإطلالة",
+    "en": "Save outfit"
+  },
+  {
+    "id": "COPY-account",
+    "ar": "احتفظ بالفكرة لوقت تاني.",
+    "en": "Keep this idea for another day."
+  },
+  {
+    "id": "COPY-owned",
+    "ar": "من ملابسك",
+    "en": "From your wardrobe"
+  },
+  {
+    "id": "COPY-unconfirmed",
+    "ar": "اقتراح غير مؤكد الملكية",
+    "en": "Suggested; ownership unconfirmed"
+  },
+  {
+    "id": "COPY-merchant",
+    "ar": "السعر والتوفر النهائيان لدى المتجر.",
+    "en": "Final price and availability belong to the merchant."
+  },
+  {
+    "id": "COPY-purchase",
+    "ar": "الدفع والشحن والإرجاع لدى المتجر.",
+    "en": "Payment, shipping and returns belong to the merchant."
+  },
+  {
+    "id": "COPY-failure",
+    "ar": "لم تكتمل الخطوة. أعد المحاولة أو صحّح المدخل.",
+    "en": "This step did not complete. Retry or correct the input."
+  },
+  {
+    "id": "COPY-delete",
+    "ar": "تحذف قطعة المثال؟",
+    "en": "Delete the sample piece?"
+  },
+  {
+    "id": "COPY-delete-failed",
+    "ar": "لم يتم الحذف. قطعتك ما زالت موجودة.",
+    "en": "Deletion failed. Your piece is still present."
+  },
+  {
+    "id": "COPY-cancel",
+    "ar": "احتفظ بها",
+    "en": "Keep it"
+  },
+  {
+    "id": "COPY-retry",
+    "ar": "أعد المحاولة",
+    "en": "Try again"
+  },
+  {
+    "id": "COPY-availability",
+    "ar": "أخبار الإتاحة",
+    "en": "Availability news"
+  },
+  {
+    "id": "COPY-offers",
+    "ar": "العروض",
+    "en": "Offers"
+  },
+  {
+    "id": "COPY-research",
+    "ar": "المشاركة في البحث",
+    "en": "Research invitations"
+  },
+  {
+    "id": "COPY-privacy",
+    "ar": "بياناتك، وقرارك.",
+    "en": "Your data. Your decision."
+  },
+  {
+    "id": "COPY-honest-stage",
+    "ar": "نطوّر التجربة حاليًا.",
+    "en": "The experience is in development."
+  },
+  {
+    "id": "COPY-demo",
+    "ar": "بروتوتايب تصميم محلي؛ لا إرسال بيانات.",
+    "en": "Local design prototype; no data transmission."
+  },
+  {
+    "id": "COPY-empty",
+    "ar": "لا توجد قطع بعد. ابدأ بقطعة واحدة.",
+    "en": "No pieces yet. Start with one."
+  },
+  {
+    "id": "COPY-upload-error",
+    "ar": "اختر JPG أو PNG حتى 5MB، أو أكمل بالوصف.",
+    "en": "Choose JPG or PNG up to 5MB, or continue with a description."
+  },
+  {
+    "id": "COPY-no-live-ai",
+    "ar": "هذا مثال توضيحي، لا تنسيق آلي حي.",
+    "en": "This is an illustrative example, not live AI styling."
+  },
+  {
+    "id": "COPY-saved-local",
+    "ar": "حُفظت الفكرة في العرض.",
+    "en": "Idea saved in this demo."
+  },
+  {
+    "id": "COPY-merchant-example",
+    "ar": "متجر المثال؛ بيانات مصطنعة.",
+    "en": "Example Atelier; synthetic data."
+  },
+  {
+    "id": "COPY-text-only",
+    "ar": "مساعدك النصي",
+    "en": "Your text assistant"
+  }
+]

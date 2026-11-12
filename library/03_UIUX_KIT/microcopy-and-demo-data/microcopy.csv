@@ -1,0 +1,33 @@
+﻿id,ar,en,status,context,verification
+COPY-start,نبدأ بقطعة تحبّها؟,Start with a piece you love.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-context,إيه المناسبة؟,What are you dressing for?,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-describe,أو صف القطعة,Or describe the piece,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-no-photo,الصورة اختيارية؛ الوصف يكفي.,A photo is optional. A description is enough.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-clarify,تفصيلة صغيرة تفرق.,One detail makes a difference.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-why,ليه الاختيار ده؟,Why this combination?,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-swap,نبدّل قطعة ولا نشوف بديل؟,Swap a piece or explore an alternative?,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-no-buy,أكمل بالمملوك فقط,Continue with owned clothes,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-more,شوف بديل,Explore an alternative,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-save,احفظ الإطلالة,Save outfit,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-account,احتفظ بالفكرة لوقت تاني.,Keep this idea for another day.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-owned,من ملابسك,From your wardrobe,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-unconfirmed,اقتراح غير مؤكد الملكية,Suggested; ownership unconfirmed,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-merchant,السعر والتوفر النهائيان لدى المتجر.,Final price and availability belong to the merchant.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-purchase,الدفع والشحن والإرجاع لدى المتجر.,"Payment, shipping and returns belong to the merchant.",DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-failure,لم تكتمل الخطوة. أعد المحاولة أو صحّح المدخل.,This step did not complete. Retry or correct the input.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-delete,تحذف قطعة المثال؟,Delete the sample piece?,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-delete-failed,لم يتم الحذف. قطعتك ما زالت موجودة.,Deletion failed. Your piece is still present.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-cancel,احتفظ بها,Keep it,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-retry,أعد المحاولة,Try again,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-availability,أخبار الإتاحة,Availability news,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-offers,العروض,Offers,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-research,المشاركة في البحث,Research invitations,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-privacy,بياناتك، وقرارك.,Your data. Your decision.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-honest-stage,نطوّر التجربة حاليًا.,The experience is in development.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-demo,بروتوتايب تصميم محلي؛ لا إرسال بيانات.,Local design prototype; no data transmission.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-empty,لا توجد قطع بعد. ابدأ بقطعة واحدة.,No pieces yet. Start with one.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-upload-error,اختر JPG أو PNG حتى 5MB، أو أكمل بالوصف.,"Choose JPG or PNG up to 5MB, or continue with a description.",DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-no-live-ai,هذا مثال توضيحي، لا تنسيق آلي حي.,"This is an illustrative example, not live AI styling.",DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-saved-local,حُفظت الفكرة في العرض.,Idea saved in this demo.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-merchant-example,متجر المثال؛ بيانات مصطنعة.,Example Atelier; synthetic data.,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study
+COPY-text-only,مساعدك النصي,Your text assistant,DESIGN_RESOLVED,Local prototype and editable UI source,Editorial review by producing assistant; no independent translation/user study

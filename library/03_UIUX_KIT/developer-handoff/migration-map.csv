@@ -1,0 +1,5 @@
+object_type,id,local_source,native_target,truthful_status
+component,U01-U30,components/component-catalog.json,Figma component+variants,LOCAL_EDITABLE_CREATED_NATIVE_NOT_CREATED
+screen,S01-S22,prototype/app.js,Figma responsive frame,LOCAL_EDITABLE_CREATED_NATIVE_NOT_CREATED
+reference,104-compositions,responsive-screens/compositions.json,Figma frame ID mapping,LOCAL_EDITABLE_CREATED_NATIVE_NOT_CREATED
+flow,P1-P5,architecture-and-flows/flow-map.svg,Editable vector+prototype links,LOCAL_EDITABLE_CREATED_NATIVE_NOT_CREATED

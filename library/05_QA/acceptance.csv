@@ -1,0 +1,31 @@
+﻿id,status,evidence_and_scope,date,review_mode,limits
+Q01,PASS,canonical-logo/ring-master.svg; ratio120:80 and black source preserved,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q02,PASS,Outlined logo and AR/EN captures; Latin sequence fixed,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q03,PASS,canonical-logo/geometry.json; real glyph outlines; canvas descender correction,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q04,PASS,Book page07 light carrier on green; no white/gold logo variant,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q05,PASS,Canonical one/two-line exact tagline SVG paths and source text,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q06,PASS,24 canonical vector files; model/state sheets; flat nucleus,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q07,PASS,Editable SVG source; no true3D asset claim,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q08,PASS,canonical-laby/states.json links11states to events; input=textnotmicrophone,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q09,PASS,"motion-results.json nine timestamps; suffix-only clip, prefixDo retained; emergence3.2beforefinalcapture",2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q10,PASS,SameinternalLTRtimeline; AR/EN placement control/source,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q11,PASS,Scene accessible nameDoLaby; independent brandhome and assistantcontrols,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q12,NOT_TESTED,"Play/pause/skip runtimePASS; reduced-motion code/staticfallback inspected, nativepreference runtime not yet verified",2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q13,PASS,Shared tokens and conservativebutton; lighttextongreen exception remainscandidate,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q14,PASS,Contrast calculations for actualdeclaredsolidtextpairs; final font/raster review scoped; no fullWCAGcertification,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q15,PASS,Shared inkfocus andgreenfunctionalboundaries; sanddecorative,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q16,NOT_TESTED,"Core keyboard/modal/error/label cases checked; fullscreenreader,200/400%zoom/cross-browser matrix notrun",2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q17,PASS,Standalonecontrols44/48projecttargets; inline/smalllinks assessedseparately; no blanketAAminimum44claim,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q18,PASS,Feedbacktext+symbol; consentanderrors do notdependonlyoncolor,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q19,PASS,30componentfamilies/catalog+livegallery andvariant/state metadata,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q20,PASS,22screen types/104sourcecompositions with PNGindex; exactdimensionschecked atfinalpackaging,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q21,PASS,"functional-results.json: P1/P2/P3failure-recovery, accountatsave, externalreferralpreview",2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q22,PASS,No voice/tryon/video/weatherlaunchcontrols; futureiconsdocumented,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q23,PASS,"Synthetic prices/merchantlabels, originalvectorart, separatepermissions; nofictitiouspartners",2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q24,PASS,Designsources/sessiondemo only; no internalcheckoutorproductionbackendclaim,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q25,PASS,24concepts×AR/EN×blank/example=96sources;24extracarouselslides,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q26,NOT_TESTED,Instagramofficial429=>provisional; TikTokonlyscopedin-feedadscheck; no universalcropcertification,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q27,PASS,"Socialcontactsheet+mobile-scale review, caption/altlibrary; noUGC/testimonials",2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q28,PASS,ActualeditableHTML/CSS/JS/SVG/JSON; realPDF/PNGs/JPGs; nofake.fig,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q29,PASS,Originalvectorregister +includedOFLnotices; externalreferencePNGsexcluded,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md
+Q30,PASS,Relative-sourcechecks andfinalchecksummanifest/archiveverification; manifestexcludesitself,2026-11-11,Implementation QA by assistant; not founder acceptance,../00_START_HERE/known-limitations.md

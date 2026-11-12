@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "scope": "Local static document layout at390/768/1440CSSpx; not a functional product/browser matrix",
+  "checks": [
+    {
+      "source": "06_ENGINE_HANDOFF/index.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "DoLaby · المحركات والمصادر",
+      "visibleBrokenImages": 0,
+      "pass": true
+    },
+    {
+      "source": "06_ENGINE_HANDOFF/index.html",
+      "width": 768,
+      "scrollWidth": 768,
+      "title": "DoLaby · المحركات والمصادر",
+      "visibleBrokenImages": 0,
+      "pass": true
+    },
+    {
+      "source": "06_ENGINE_HANDOFF/index.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "DoLaby · المحركات والمصادر",
+      "visibleBrokenImages": 0,
+      "pass": true
+    },
+    {
+      "source": "00_START_HERE/asset-library.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "DoLaby · مكتبة الأصول المنفردة",
+      "visibleBrokenImages": 0,
+      "pass": true
+    },
+    {
+      "source": "00_START_HERE/asset-library.html",
+      "width": 768,
+      "scrollWidth": 768,
+      "title": "DoLaby · مكتبة الأصول المنفردة",
+      "visibleBrokenImages": 0,
+      "pass": true
+    },
+    {
+      "source": "00_START_HERE/asset-library.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "DoLaby · مكتبة الأصول المنفردة",
+      "visibleBrokenImages": 0,
+      "pass": true
+    }
+  ]
+}

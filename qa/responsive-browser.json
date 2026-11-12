@@ -1,0 +1,407 @@
+{
+  "method": "CUA with fresh AX state; two stale viewport observations separately retested",
+  "results": [
+    {
+      "route": "index.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "brand.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "assets.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "ui.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "social.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "engines.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "docs.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "downloads.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "files.html",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "asset.html?id=f-7929e455f0c5",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "viewer.html?screen=S07-ar-390",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "document.html?path=library/00_START_HERE/README_AR.md",
+      "target": 1440,
+      "h1": 1,
+      "scrollWidth": 1440,
+      "visibleBroken": [],
+      "width": 1440,
+      "pass": true
+    },
+    {
+      "route": "index.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "brand.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "assets.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "ui.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "social.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "engines.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "docs.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "downloads.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "files.html",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "asset.html?id=f-7929e455f0c5",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "viewer.html?screen=S07-ar-390",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "document.html?path=library/00_START_HERE/README_AR.md",
+      "target": 390,
+      "h1": 1,
+      "scrollWidth": 390,
+      "visibleBroken": [],
+      "width": 390,
+      "pass": true
+    },
+    {
+      "route": "index.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "brand.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true,
+      "initialObservation": {
+        "width": 390,
+        "scrollWidth": 390,
+        "pass": false
+      },
+      "retest": "Separate fresh screenshot/readback at768px confirmed correct viewport and no overflow; no source change."
+    },
+    {
+      "route": "assets.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "ui.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "social.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "engines.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "docs.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "downloads.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "files.html",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "asset.html?id=f-7929e455f0c5",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "viewer.html?screen=S07-ar-390",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    },
+    {
+      "route": "document.html?path=library/00_START_HERE/README_AR.md",
+      "target": 768,
+      "h1": 1,
+      "scrollWidth": 768,
+      "visibleBroken": [],
+      "width": 768,
+      "pass": true
+    }
+  ],
+  "boundaries": [
+    {
+      "route": "index.html",
+      "target": 320,
+      "h1": 1,
+      "scrollWidth": 320,
+      "width": 320,
+      "pass": true
+    },
+    {
+      "route": "assets.html",
+      "target": 320,
+      "h1": 1,
+      "scrollWidth": 320,
+      "width": 320,
+      "pass": true
+    },
+    {
+      "route": "files.html",
+      "target": 320,
+      "h1": 1,
+      "scrollWidth": 320,
+      "width": 320,
+      "pass": true
+    },
+    {
+      "route": "viewer.html?template=P02&lang=ar&mode=filled",
+      "target": 320,
+      "h1": 1,
+      "scrollWidth": 320,
+      "width": 320,
+      "pass": true
+    },
+    {
+      "route": "index.html",
+      "target": 1024,
+      "h1": 1,
+      "scrollWidth": 1024,
+      "width": 1024,
+      "pass": true,
+      "initialObservation": {
+        "width": 320,
+        "scrollWidth": 320,
+        "pass": false
+      },
+      "retest": "Separate screenshot/readback at1024px confirmed correct viewport; no source change."
+    },
+    {
+      "route": "assets.html",
+      "target": 1024,
+      "h1": 1,
+      "scrollWidth": 1024,
+      "width": 1024,
+      "pass": true
+    },
+    {
+      "route": "files.html",
+      "target": 1024,
+      "h1": 1,
+      "scrollWidth": 1024,
+      "width": 1024,
+      "pass": true
+    },
+    {
+      "route": "viewer.html?template=P02&lang=ar&mode=filled",
+      "target": 1024,
+      "h1": 1,
+      "scrollWidth": 1024,
+      "width": 1024,
+      "pass": true
+    }
+  ]
+}

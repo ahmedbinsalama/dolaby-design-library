@@ -1,0 +1,90 @@
+[
+  {
+    "id": "LABY-STATE-DORMANT",
+    "name": "dormant",
+    "ar": "كامن",
+    "trigger": "Assistant closed; do not imply monitoring.",
+    "source": "states/laby-dormant.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-ATTEND",
+    "name": "attend",
+    "ar": "ينتبه",
+    "trigger": "User deliberately opens the assistant.",
+    "source": "states/laby-attend.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-READY",
+    "name": "ready",
+    "ar": "جاهز",
+    "trigger": "Task surface is available for input.",
+    "source": "states/laby-ready.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-INPUT",
+    "name": "input",
+    "ar": "إدخال نصي",
+    "trigger": "Text composer receives input; not microphone listening.",
+    "source": "states/laby-input.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-PROCESSING",
+    "name": "processing",
+    "ar": "معالجة",
+    "trigger": "A clearly labeled prototype simulation is running, or actual processing has started.",
+    "source": "states/laby-processing.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-RESULT",
+    "name": "result",
+    "ar": "اقتراح",
+    "trigger": "Recommendation data is available; point to editable result.",
+    "source": "states/laby-result.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-CLARIFY",
+    "name": "clarify",
+    "ar": "توضيح",
+    "trigger": "A required user choice or unknown property needs clarification.",
+    "source": "states/laby-clarify.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-NO-RESULT",
+    "name": "no-result",
+    "ar": "لا نتيجة",
+    "trigger": "No suitable result was returned; offer correction.",
+    "source": "states/laby-no-result.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-ERROR",
+    "name": "error",
+    "ar": "تعذر الإكمال",
+    "trigger": "A real or clearly simulated request failed; retry action available.",
+    "source": "states/laby-error.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-SUCCESS",
+    "name": "success",
+    "ar": "نجاح",
+    "trigger": "Save confirmation occurs only after actual local demo state changes.",
+    "source": "states/laby-success.svg",
+    "status": "DESIGN_RESOLVED"
+  },
+  {
+    "id": "LABY-STATE-RETURN",
+    "name": "return",
+    "ar": "عودة للسكون",
+    "trigger": "User closes task or assistant; no emotional pressure to return.",
+    "source": "states/laby-return.svg",
+    "status": "DESIGN_RESOLVED"
+  }
+]

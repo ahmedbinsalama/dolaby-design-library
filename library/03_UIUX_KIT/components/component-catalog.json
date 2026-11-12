@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "U01",
+    "name": "Header / Navigation",
+    "purpose": "Keep core task, wardrobe and saved ideas reachable.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Header max1328px; 40/24/16px interior gutters; mobile navigation wraps below brand/actions.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "default",
+      "current destination",
+      "keyboard focus"
+    ],
+    "keyboard": "Tab to links; Enter activates; visible current destination.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "logo/home link",
+      "primary navigation",
+      "language",
+      "account/privacy",
+      "assistant trigger"
+    ],
+    "properties": {
+      "language": "ar|en",
+      "currentDestination": "S01–S22",
+      "items": "label + href + current state"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U02",
+    "name": "Wordmark / AssistantTrigger",
+    "purpose": "Home identity and text-assistant action remain distinct.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Logo width145px desktop,120px mobile; separate44px assistant target.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "home link",
+      "assistant trigger",
+      "focus"
+    ],
+    "keyboard": "Both actions have independent focus targets and names.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "canonical logo SVG",
+      "home anchor",
+      "separate assistant button"
+    ],
+    "properties": {
+      "logoSrc": "canonical-logo/logo-lockup.svg",
+      "assistantLabel": "localized accessible name",
+      "homeTarget": "S01"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U03",
+    "name": "Button / IconButton",
+    "purpose": "Make the next reversible action clear; disabled/loading communicates scope.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "48px min height; padding11×22px; icon button44×44; shared control radius8px.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR"
+    ],
+    "states": [
+      "default",
+      "hover",
+      "pressed",
+      "focus",
+      "disabled",
+      "loading"
+    ],
+    "keyboard": "Enter/Space activates; disabled native button cannot activate; focus ring remains visible.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "container",
+      "text label",
+      "optional icon",
+      "busy/disabled state"
+    ],
+    "properties": {
+      "kind": "primary|default|plain|danger",
+      "disabled": "boolean",
+      "busy": "aria-busy",
+      "action": "data-action or data-go"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U04",
+    "name": "Link",
+    "purpose": "Navigate to a real destination, without acting as a false button.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Standalone link target44px where styled as action; inline text remains in readable line height.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR"
+    ],
+    "states": [
+      "default",
+      "hover",
+      "focus",
+      "visited"
+    ],
+    "keyboard": "Tab and Enter; visible underline indicates link independently of color.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "text anchor",
+      "destination",
+      "focus/visited treatment"
+    ],
+    "properties": {
+      "href": "actual URL or local route",
+      "label": "AR/EN text",
+      "external": "declare context before departure"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U05",
+    "name": "TextField / Email / URL",
+    "purpose": "Collect a short labeled value with suitable input semantics.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "48px min control; padding12×14px;8px radius; width100%; label14px.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "empty",
+      "filled",
+      "focus",
+      "error",
+      "disabled"
+    ],
+    "keyboard": "Native editing, Tab, paste and autocomplete; errors associated through IDs.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "persistent label",
+      "input",
+      "hint",
+      "error text"
+    ],
+    "properties": {
+      "type": "text|email|url",
+      "value": "editable string",
+      "required": "boolean when needed",
+      "invalid": "aria-invalid",
+      "describedBy": "hint/error ID"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U06",
+    "name": "Textarea / Composer",
+    "purpose": "Accept garment description or guided text without a photo requirement.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Textarea min130px; resizable vertically; shared control radius8px.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "empty",
+      "filled",
+      "focus",
+      "error"
+    ],
+    "keyboard": "Native multiline editing and paste; submission is a separate button.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "label",
+      "multiline field",
+      "help",
+      "submit action"
+    ],
+    "properties": {
+      "value": "string",
+      "placeholder": "localized example, not sole label",
+      "rows": "content-driven",
+      "maxLength": "only if justified"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U07",
+    "name": "Select / Combobox",
+    "purpose": "Offer a compact set of choices using native selection behavior.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "48px min field;100% available width; native popup preserved.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "closed",
+      "open native options",
+      "selected",
+      "disabled"
+    ],
+    "keyboard": "Native select keys and typeahead; no custom combobox behavior is claimed.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "label",
+      "native select",
+      "options",
+      "selection"
+    ],
+    "properties": {
+      "options": "value + localized label",
+      "value": "selected key",
+      "disabled": "boolean"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U08",
+    "name": "Checkbox",
+    "purpose": "Set an independent yes/no fact or permission choice.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Native20×20px box; label row min48px;12px gap.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR"
+    ],
+    "states": [
+      "unchecked",
+      "checked",
+      "focus",
+      "disabled"
+    ],
+    "keyboard": "Space toggles; clicking label toggles; never use a color-only selected state.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "20px native checkbox",
+      "48px label target",
+      "optional help"
+    ],
+    "properties": {
+      "checked": "boolean",
+      "name": "purpose/group key",
+      "required": "only for the stated operation"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U09",
+    "name": "Radio",
+    "purpose": "Choose exactly one option in a named group.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "20px native controls; each option row min48px.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR"
+    ],
+    "states": [
+      "unselected",
+      "selected",
+      "focus",
+      "disabled"
+    ],
+    "keyboard": "Native Arrow keys and Space select within a named fieldset.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "fieldset/legend",
+      "radio inputs",
+      "option labels"
+    ],
+    "properties": {
+      "name": "shared group key",
+      "value": "selected option",
+      "options": "localized labels"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U10",
+    "name": "Switch",
+    "purpose": "Change one explicit purpose-specific local preference.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "52px width;44px target height;20px thumb; logical translation mirrors with direction.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR"
+    ],
+    "states": [
+      "off",
+      "on",
+      "focus",
+      "disabled"
+    ],
+    "keyboard": "Space/Enter toggle; announce local state; each purpose remains independent.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "button role=switch",
+      "thumb",
+      "adjacent purpose text"
+    ],
+    "properties": {
+      "checked": "aria-checked boolean",
+      "purpose": "availability|offers|research",
+      "label": "localized aria-label"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U11",
+    "name": "Chip / Filter",
+    "purpose": "Choose context/filter without discarding current task input.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "44px min target; padding9×16px; capsule form.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "unselected",
+      "selected",
+      "focus"
+    ],
+    "keyboard": "Native buttons toggle aria-pressed; selected style includes boundary treatment.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "chip label",
+      "pressed state",
+      "optional count"
+    ],
+    "properties": {
+      "pressed": "boolean",
+      "context": "work|casual|meet",
+      "label": "localized string"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U12",
+    "name": "Tabs",
+    "purpose": "Switch a related view while preserving orientation.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "48px tab actions; one tab in sequential order; panel grows with copy.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "active",
+      "inactive",
+      "focus"
+    ],
+    "keyboard": "Roving Arrow/Home/End focus; Enter/Space/click selection; RTL arrows follow direction.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "tablist",
+      "two tabs",
+      "associated panel"
+    ],
+    "properties": {
+      "selectedId": "pieces|outfits",
+      "orientation": "horizontal",
+      "panelId": "gallery-tab-panel"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U13",
+    "name": "Dialog / Sheet",
+    "purpose": "Confirm consequential local actions with a cancel route.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Max520px; viewport inset16px each side; padding28px; shared modal radius24px.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "closed",
+      "open",
+      "confirm",
+      "cancel"
+    ],
+    "keyboard": "Native showModal containment; Escape closes; cancel restores opener focus.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "native dialog",
+      "heading",
+      "description",
+      "confirm",
+      "cancel"
+    ],
+    "properties": {
+      "open": "boolean",
+      "title": "localized string",
+      "confirmAction": "explicit operation",
+      "cancelAction": "keep state"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U14",
+    "name": "Toast / Alert",
+    "purpose": "Announce actual local success/failure and a clear next action.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Notice padding16×20px;3px logical border; body14px; shared8px radius.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "information",
+      "local success",
+      "failure with recovery"
+    ],
+    "keyboard": "Status announced after event; urgent errors use alert; recovery remains keyboard accessible.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "symbol",
+      "message",
+      "optional recovery action"
+    ],
+    "properties": {
+      "kind": "information|success|error",
+      "message": "localized observable outcome",
+      "live": "status or alert as appropriate"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U15",
+    "name": "Tooltip / Help",
+    "purpose": "Explain why a question is asked without hiding critical instructions.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Native summary target; text wraps without fixed height.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "closed",
+      "expanded",
+      "focus"
+    ],
+    "keyboard": "Enter/Space toggle details; help does not depend on hover alone.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "native details summary",
+      "help content"
+    ],
+    "properties": {
+      "expanded": "boolean",
+      "summary": "question/label",
+      "body": "explanation"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U16",
+    "name": "Stepper / Progress",
+    "purpose": "Orient the three-step task without suggesting progress from a server.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "25px numbered marker desktop22px mobile; labels reduce on narrow widths.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "upcoming",
+      "current",
+      "completed local step"
+    ],
+    "keyboard": "Read as an ordered list; aria-current=step marks actual current stage; not false background progress.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "ordered steps",
+      "number",
+      "label",
+      "current state"
+    ],
+    "properties": {
+      "current": "0|1|2",
+      "steps": "context|piece|suggestion"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U17",
+    "name": "ImageUpload / Capture",
+    "purpose": "Accept an optional local file; description remains equivalent.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Upload pad34px desktop24px mobile; shared card radius16px; native file control.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "empty",
+      "valid local selection",
+      "unsupported file",
+      "oversize"
+    ],
+    "keyboard": "Native file chooser; unsupported/oversize error text; no camera permission requested silently.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "optional image control",
+      "format/size guidance",
+      "description alternative",
+      "error"
+    ],
+    "properties": {
+      "accept": "image/jpeg,image/png",
+      "maxBytes": "5242880",
+      "image": "local ObjectURL only",
+      "description": "alternative input"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U18",
+    "name": "GarmentCard",
+    "purpose": "Show garment illustration, ownership/source and available actions.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "16px card radius; art160px mobile; content14–20px; SVG preserves garment silhouette.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "owned",
+      "suggested ownership unconfirmed",
+      "removed from demo"
+    ],
+    "keyboard": "Card controls remain separate native buttons; illustration has meaningful text alternative.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "art",
+      "ownership/source",
+      "title",
+      "metadata",
+      "actions"
+    ],
+    "properties": {
+      "kind": "shirt|trousers|shoe|bag|scarf",
+      "ownership": "asserted-owned|unconfirmed",
+      "title": "localized string",
+      "actions": "detail/delete where applicable"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U19",
+    "name": "OutfitCard",
+    "purpose": "Present an outfit idea with editable parts and no-buy path.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Shared16px radius; artwork viewBox520×470; content stacks at600px.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "example",
+      "edited",
+      "pending save",
+      "locally saved"
+    ],
+    "keyboard": "Save is an explicit action; guest save goes to account; unconfirmed pieces are identified.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "outfit illustration",
+      "context",
+      "reason",
+      "save/swap actions"
+    ],
+    "properties": {
+      "variant": "0|1|2",
+      "saved": "boolean",
+      "ownershipConfirmed": "false until user confirms"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U20",
+    "name": "MerchantProductCard",
+    "purpose": "Keep merchant provenance, sample price and external responsibility visible.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "16px card radius; full-width art with source/price separated from button.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "synthetic catalog",
+      "stale/unavailable design case",
+      "handoff failure"
+    ],
+    "keyboard": "No-buy route remains available; handoff dialog explains lack of a real merchant URL.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "catalog illustration",
+      "merchant/source",
+      "name",
+      "sample price",
+      "handoff"
+    ],
+    "properties": {
+      "price": "amount + currency + status",
+      "merchant": "fictional label in demo",
+      "availability": "unknown|stale|known",
+      "externalURL": "null in demo"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U21",
+    "name": "SuggestionReason / SourceLabel",
+    "purpose": "Explain a recommendation and distinguish fact from inference.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Logical green reason border; readable text flow; no confidence percentage invented.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "user input",
+      "catalog attribution",
+      "assistant inference",
+      "unknown"
+    ],
+    "keyboard": "Explanation is readable text; source meaning never relies on color alone.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "source badge",
+      "reason heading",
+      "editable explanation",
+      "unknown text"
+    ],
+    "properties": {
+      "origin": "user-input|catalog|inference|unknown",
+      "reason": "short localized string",
+      "unknowns": "explicit list"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U22",
+    "name": "ConversationMessage / LabyState",
+    "purpose": "Associate assistant copy with a real interaction state.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Bubble max600px; padding18×20px;16px radius; canonical Laby simplified below64px.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "dormant",
+      "attend",
+      "ready",
+      "input",
+      "processing",
+      "result",
+      "clarify",
+      "no-result",
+      "error",
+      "success",
+      "return"
+    ],
+    "keyboard": "Text input is not microphone listening; do not announce fabricated model activity.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "speaker/source",
+      "message body",
+      "event-linked Laby state"
+    ],
+    "properties": {
+      "speaker": "user|assistant",
+      "state": "one of11canonical states",
+      "message": "localized text",
+      "trigger": "real event or classified simulation"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U23",
+    "name": "Carousel / AlternativeList",
+    "purpose": "Offer alternatives in a static equivalent list; no automatic cycling.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Two alternative cards desktop/mobile;16px shared radii; no auto-advance.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "primary",
+      "alternative",
+      "expanded list"
+    ],
+    "keyboard": "Each option is a named button; static list provides equivalent reading order.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "primary option",
+      "alternative list",
+      "option actions",
+      "equivalent list"
+    ],
+    "properties": {
+      "options": "primary + two working alternatives",
+      "selected": "option key",
+      "expanded": "boolean when implemented"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U24",
+    "name": "Empty / Error / Loading",
+    "purpose": "Make empty/failure/wait states actionable and truthful.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Text-first centered or notice layout; no fixed height/clipping;44px recovery actions.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "empty",
+      "simulated wait",
+      "failure",
+      "retry",
+      "recovered"
+    ],
+    "keyboard": "Errors are announced; retry returns to the relevant input; waiting copy never implies live AI.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "status mark",
+      "title",
+      "explanation",
+      "retry/correct/back"
+    ],
+    "properties": {
+      "state": "empty|waiting|failure|recovered",
+      "recoveryTarget": "S03|S16",
+      "message": "scoped to simulated event"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U25",
+    "name": "ConsentGroup",
+    "purpose": "Keep availability, offers and research choices separate.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Purpose rows separate with24px-scale breathing room;44px switch target.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "unselected",
+      "selected",
+      "withdrawn local choice"
+    ],
+    "keyboard": "Separate labelled controls; withdrawal is reversible within session; no legal-validity claim.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "fieldset/group title",
+      "independent purposes",
+      "switch/checkbox",
+      "help"
+    ],
+    "properties": {
+      "purposes": "availability,offers,research",
+      "choices": "independent booleans",
+      "scope": "memory-only demo"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U26",
+    "name": "Account / PreferenceForm",
+    "purpose": "Request account at save and support later preference changes.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "48px input controls;8px radius; one-column form on narrow view.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "guest",
+      "demo signed in",
+      "save pending",
+      "preferences edited"
+    ],
+    "keyboard": "Native form validation and paste; account is requested at save, with a guest return.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "form labels",
+      "name/email or preferences",
+      "scope note",
+      "save/cancel"
+    ],
+    "properties": {
+      "mode": "guest|demo-account|preferences",
+      "value": "editable fields",
+      "saveState": "pending|local-saved"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U27",
+    "name": "Search / Sort",
+    "purpose": "Find and order relevant records without hidden exclusion.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "48px fields; filter items flex-wrap; min150px on mobile.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "empty search",
+      "matches",
+      "no matches",
+      "selected sort"
+    ],
+    "keyboard": "Input changes filter synthetic records; empty results include recovery copy.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "search label",
+      "query",
+      "status/sort select",
+      "results"
+    ],
+    "properties": {
+      "query": "string",
+      "status": "all|new|reviewed",
+      "sort": "design option, not implemented order in catalog"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U28",
+    "name": "Table / MobileRecordCard",
+    "purpose": "Compare records on desktop and provide readable mobile cards.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Desktop table above600px; mobile record cards at600px or below;16px card radius.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "desktop rows",
+      "mobile cards",
+      "record detail",
+      "filtered empty"
+    ],
+    "keyboard": "Use table semantics on desktop; native detail button opens dialog; row labels survive mobile stacking.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "column headings",
+      "rows",
+      "record action",
+      "mobile labelled card"
+    ],
+    "properties": {
+      "records": "synthetic list",
+      "filters": "query/status",
+      "selectedRecord": "local ID"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U29",
+    "name": "Status / Tag / VerificationLabel",
+    "purpose": "Describe status/source certainty with text, never color alone.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "Small capsule labels; readable context; decorative sand boundary is not sole meaning.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "new",
+      "reviewed",
+      "unknown",
+      "source-labeled"
+    ],
+    "keyboard": "Plain text conveys status; do not label a real merchant verified from demo selection.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "text label",
+      "optional icon",
+      "source status"
+    ],
+    "properties": {
+      "status": "new|reviewed|unknown",
+      "source": "user|catalog|inference",
+      "verified": "never inferred from record existence"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  },
+  {
+    "id": "U30",
+    "name": "Export / ContentRevisionControls",
+    "purpose": "Export synthetic records or preview local content without public publishing.",
+    "source": "prototype/app.js + prototype/app.css; gallery source catalog.js",
+    "status": "DESIGN_RESOLVED",
+    "geometry": "48px action buttons;8px radius; responsive two-column draft/preview then stack.",
+    "anchors": "Use logical inline/block alignment; content grows vertically.",
+    "tokens": [
+      "--color-ivory",
+      "--color-linen",
+      "--color-ink",
+      "--color-coffee",
+      "--color-green",
+      "--color-sand"
+    ],
+    "variants": [
+      "AR / RTL",
+      "EN / LTR",
+      "mobile",
+      "desktop"
+    ],
+    "states": [
+      "draft",
+      "local preview",
+      "locally approved",
+      "exported synthetic CSV"
+    ],
+    "keyboard": "Explicit local actions; export contains synthetic records; no public publishing endpoint.",
+    "responsive": "Content-driven; 600px stacks and 900px reduces gutters; test320/390/768/1024/1440.",
+    "localization": "Keep DoLaby/email/URL/prices in LTR isolation; Arabic has no forced letter spacing.",
+    "composition": "Compose from shared source; retain source labels, honest demo scope and a clear cancel/back path.",
+    "prohibited": "Do not introduce white/gold logo, automatic paid-ranking claims, false AI processing or color-only status.",
+    "editable_source": "HTML/CSS/JS; no flattened source frame",
+    "export": "PNG previews are evidence; edit original HTML/CSS.",
+    "license": "Original commissioned interface code/illustrations; bundled fonts retain their OFL terms.",
+    "acceptance": "Open gallery and actual screen; check keyboard, labels, responsive content and applicable contrast.",
+    "limits": "A local component source is not a production backend or native Figma file.",
+    "anatomy": [
+      "export button",
+      "draft editor",
+      "preview",
+      "local approval state"
+    ],
+    "properties": {
+      "format": "synthetic CSV",
+      "draft": "title/body strings",
+      "approval": "local-demo-only"
+    },
+    "correct_example": "Open the corresponding live family specimen and its linked product flow; keep editable elements separate.",
+    "incorrect_example": "Flattening the specimen into a screenshot source, dropping labels/focus or claiming an unimplemented service.",
+    "verification_status": "SOURCE_INSPECTED; browser/assistive-technology outcomes are recorded only where actually run under05_QA.",
+    "source_locator": "prototype/app.js; prototype/app.css; components/catalog.js"
+  }
+]

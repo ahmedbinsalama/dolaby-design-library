@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "status": "PASS",
+  "scope": "Local artifact rendering only; no accounts, AI inference or publishing",
+  "smoke": true,
+  "kit": "all",
+  "started_utc": "2026-11-12T05:22:50.519Z",
+  "files": [
+    {
+      "path": "03_UIUX_KIT/previews/S07-ar-390.png",
+      "kind": "UI PNG",
+      "bytes": 91556,
+      "width": 390,
+      "height": 1634
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S07-en-1440.png",
+      "kind": "UI PNG",
+      "bytes": 151554,
+      "width": 1440,
+      "height": 1394
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P02-ar-filled.png",
+      "kind": "Social PNG",
+      "bytes": 86220,
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P02-ar-filled.jpg",
+      "kind": "Social JPG",
+      "bytes": 131409,
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V04-en-filled.png",
+      "kind": "Social PNG",
+      "bytes": 161525,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V04-en-filled.jpg",
+      "kind": "Social JPG",
+      "bytes": 191753,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "path": "02_BRAND_KIT/booklet/brand-book.pdf",
+      "kind": "Brand book PDF",
+      "bytes": 921397
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-24-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 444,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-512-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 9511,
+      "width": 512,
+      "height": 145
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-front-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8252,
+      "width": 128,
+      "height": 171
+    }
+  ],
+  "checks": [
+    {
+      "id": "S07-ar-390",
+      "css_width": 390,
+      "scroll_width": 390,
+      "result": "PASS"
+    },
+    {
+      "id": "S07-en-1440",
+      "css_width": 1440,
+      "scroll_width": 1440,
+      "result": "PASS"
+    }
+  ],
+  "errors": [],
+  "finished_utc": "2026-11-12T05:23:01.030Z",
+  "pdf_readback": {
+    "pages": 17,
+    "text_characters": 13908,
+    "status": "PASS"
+  },
+  "dependency_scope": "Used existing local Playwright1.62.1 andSharp0.35.5 with Chromium; clean npm installation on another device NOT_TESTED",
+  "validation_output_location": "Sibling ENGINE_VALIDATION folder outside the delivery archive; sources preserved"
+}

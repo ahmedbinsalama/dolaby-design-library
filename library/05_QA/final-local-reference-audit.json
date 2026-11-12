@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "date_utc": "2026-11-12T05:32:56.424668+00:00",
+  "html_files": 245,
+  "checked_html_references": 1461,
+  "checked_css_references": 30,
+  "missing": [],
+  "scope": "Static local href/src and CSS urls after engine handoff; not a universal dynamic-route test"
+}

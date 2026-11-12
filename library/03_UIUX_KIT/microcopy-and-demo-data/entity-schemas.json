@@ -1,0 +1,59 @@
+{
+  "Garment": {
+    "id": "stable local identifier",
+    "owner_id": "nullable until real account exists",
+    "ownership": "USER_ASSERTED_OWNED | UNCONFIRMED_SUGGESTION",
+    "source": "user text/photo/catalog attribution",
+    "image_ref": "optional; retention rules separately implemented",
+    "attributes": "value + origin + certainty per attribute",
+    "deleted_at": "null until actual deletion event"
+  },
+  "Outfit": {
+    "id": "stable identifier",
+    "garment_ids": "ordered references",
+    "context": "user-chosen occasion",
+    "ownership_confirmed": "boolean; saving an idea does not assert all pieces are owned",
+    "saved_state": "guest | pending_account | local_saved | persisted only if implemented"
+  },
+  "Recommendation": {
+    "id": "stable identifier",
+    "outfit_id": "reference",
+    "facts": "source-linked values",
+    "inferences": "separately labeled explanation",
+    "unknowns": "explicit missing values",
+    "feedback": "reject/swap/correct, optional reason",
+    "result_status": "SIMULATED here, not MODEL_OBSERVED"
+  },
+  "Product": {
+    "id": "stable merchant scoped identifier",
+    "merchant_id": "reference",
+    "price": "decimal+currency+observed_at+source",
+    "availability": "KNOWN | UNKNOWN | STALE",
+    "size": "unknown unless catalog provides it",
+    "external_url": "verified URL required before real handoff",
+    "rights_ref": "image/data permission reference"
+  },
+  "Merchant": {
+    "id": "stable identifier",
+    "display_name": "human name",
+    "verification": "not inferred from record presence",
+    "allowed_catalog_scope": "agreement-dependent",
+    "operational_owner": "real accountable owner if available"
+  },
+  "Consent": {
+    "id": "stable purpose-specific event",
+    "purpose": "availability | offers | research",
+    "action": "selected | withdrawn",
+    "recorded_at": "actual event timestamp only",
+    "source": "interface/version",
+    "legal_basis": "external review; no legal conclusion in design"
+  },
+  "Submission": {
+    "id": "stable identifier",
+    "contact_ref": "normalized contact reference if backend implemented",
+    "source": "retained route/source history",
+    "purpose_choices": "separate references",
+    "status": "new | reviewed | archived",
+    "classification": "SYNTHETIC in this delivery"
+  }
+}

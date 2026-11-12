@@ -1,0 +1,104 @@
+[
+  {
+    "id": "B13-01",
+    "name": "wardrobe",
+    "ar": "فتحة الدولاب",
+    "viewBox": [
+      0,
+      0,
+      64,
+      64
+    ],
+    "stroke": 2,
+    "token": "color.surface.green",
+    "usage": "Launch identity symbol",
+    "source": "symbol-wardrobe.svg",
+    "license": "Original vector artwork created for this delivery",
+    "prohibited": "Do not present concept-only symbols as launch functions."
+  },
+  {
+    "id": "B13-02",
+    "name": "outfit-wheel",
+    "ar": "عجلة تنسيق",
+    "viewBox": [
+      0,
+      0,
+      64,
+      64
+    ],
+    "stroke": 2,
+    "token": "color.surface.green",
+    "usage": "Conceptual selection symbol",
+    "source": "symbol-outfit-wheel.svg",
+    "license": "Original vector artwork created for this delivery",
+    "prohibited": "Do not present concept-only symbols as launch functions."
+  },
+  {
+    "id": "B13-03",
+    "name": "mirror",
+    "ar": "إطار احتمالات",
+    "viewBox": [
+      0,
+      0,
+      64,
+      64
+    ],
+    "stroke": 2,
+    "token": "color.surface.green",
+    "usage": "Future/concept only; no virtual try-on",
+    "source": "symbol-mirror.svg",
+    "license": "Original vector artwork created for this delivery",
+    "prohibited": "Do not present concept-only symbols as launch functions."
+  },
+  {
+    "id": "B13-04",
+    "name": "camera",
+    "ar": "صورة قطعة",
+    "viewBox": [
+      0,
+      0,
+      64,
+      64
+    ],
+    "stroke": 2,
+    "token": "color.surface.green",
+    "usage": "Optional garment image capture; not continuous vision",
+    "source": "symbol-camera.svg",
+    "license": "Original vector artwork created for this delivery",
+    "prohibited": "Do not present concept-only symbols as launch functions."
+  },
+  {
+    "id": "B13-05",
+    "name": "color-selection",
+    "ar": "اختيار ألوان",
+    "viewBox": [
+      0,
+      0,
+      64,
+      64
+    ],
+    "stroke": 2,
+    "token": "color.surface.green",
+    "usage": "User-controlled preference",
+    "source": "symbol-color-selection.svg",
+    "license": "Original vector artwork created for this delivery",
+    "prohibited": "Do not present concept-only symbols as launch functions."
+  },
+  {
+    "id": "B13-06",
+    "name": "garment-button",
+    "ar": "زر ملابس",
+    "viewBox": [
+      0,
+      0,
+      64,
+      64
+    ],
+    "stroke": 2,
+    "token": "color.surface.green",
+    "usage": "Brand-world detail",
+    "source": "symbol-garment-button.svg",
+    "license": "Original vector artwork created for this delivery",
+    "prohibited": "Do not present concept-only symbols as launch functions."
+  }
+]

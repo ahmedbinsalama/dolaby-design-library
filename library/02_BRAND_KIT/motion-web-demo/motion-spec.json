@@ -1,0 +1,64 @@
+{
+  "id": "B12",
+  "version": "1.0.0",
+  "duration_seconds": 4.8,
+  "autoplay": false,
+  "stages": [
+    {
+      "phase": "dormant",
+      "time": [
+        0,
+        0.2
+      ]
+    },
+    {
+      "phase": "reveal_y_to_D",
+      "time": [
+        0.2,
+        1.4
+      ]
+    },
+    {
+      "phase": "hold",
+      "time": [
+        1.4,
+        2.15
+      ]
+    },
+    {
+      "phase": "retrieve_Laby_only",
+      "time": [
+        2.15,
+        3.7
+      ]
+    },
+    {
+      "phase": "emerge",
+      "time": [
+        3.05,
+        3.9
+      ]
+    },
+    {
+      "phase": "settle",
+      "time": [
+        3.7,
+        4.4
+      ]
+    },
+    {
+      "phase": "complete",
+      "time": [
+        4.4,
+        4.8
+      ]
+    }
+  ],
+  "timing_model": "One requestAnimationFrame clock; clamped cubic smoothstep positions; explicit endpoint holds",
+  "glyphs": "Do and Laby measured using supplied Cormorant Garamond600 at104 CSSpx after fonts ready",
+  "ring": "24/16 during reveal, scales uniformly to7.2/4.8 at seated completion",
+  "reduced_motion": "Full static DoLaby; no translation",
+  "skip": "Full static DoLaby",
+  "interruption": "Pause on visibility hidden or offscreen; no automatic resume",
+  "evidence": "Root runtime QA records actual observed results; this file is a source specification, not a test claim."
+}

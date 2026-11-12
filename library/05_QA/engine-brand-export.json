@@ -1,0 +1,723 @@
+{
+  "version": "1.0.0",
+  "status": "PASS",
+  "scope": "Local artifact rendering only; no accounts, AI inference or publishing",
+  "smoke": false,
+  "kit": "brand",
+  "started_utc": "2026-11-12T05:24:30.830Z",
+  "files": [
+    {
+      "path": "02_BRAND_KIT/booklet/brand-book.pdf",
+      "kind": "Brand book PDF",
+      "bytes": 921397
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-16-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 334,
+      "width": 16,
+      "height": 16
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-16-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 455,
+      "width": 16,
+      "height": 16
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-24-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 444,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-24-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 636,
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-32-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 590,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-32-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 853,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-48-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 881,
+      "width": 48,
+      "height": 48
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-48-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 1251,
+      "width": 48,
+      "height": 48
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-64-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 1148,
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-64-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 1651,
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-128-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 2417,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-128-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 3453,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-256-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 5712,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-256-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 7638,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-512-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 13500,
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/ring-master-512-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 17947,
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-80-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 1353,
+      "width": 80,
+      "height": 30
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-80-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 1545,
+      "width": 80,
+      "height": 30
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-120-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 2099,
+      "width": 120,
+      "height": 45
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-120-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 2418,
+      "width": 120,
+      "height": 45
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-180-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 3224,
+      "width": 180,
+      "height": 68
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-180-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 3741,
+      "width": 180,
+      "height": 68
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-512-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 10311,
+      "width": 512,
+      "height": 192
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-512-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 11974,
+      "width": 512,
+      "height": 192
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-1024-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 23559,
+      "width": 1024,
+      "height": 384
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/wordmark-outlined-1024-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 28762,
+      "width": 1024,
+      "height": 384
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-80-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 1268,
+      "width": 80,
+      "height": 23
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-80-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 1521,
+      "width": 80,
+      "height": 23
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-120-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 1931,
+      "width": 120,
+      "height": 34
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-120-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 2332,
+      "width": 120,
+      "height": 34
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-180-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 2980,
+      "width": 180,
+      "height": 51
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-180-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 3589,
+      "width": 180,
+      "height": 51
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-512-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 9511,
+      "width": 512,
+      "height": 145
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-512-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 11293,
+      "width": 512,
+      "height": 145
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-1024-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 21289,
+      "width": 1024,
+      "height": 290
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/logo-lockup-1024-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 26319,
+      "width": 1024,
+      "height": 290
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/tagline-one-720-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 18161,
+      "width": 720,
+      "height": 81
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/tagline-one-720-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 25048,
+      "width": 720,
+      "height": 81
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/tagline-one-1440-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 41944,
+      "width": 1440,
+      "height": 162
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/tagline-one-1440-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 57220,
+      "width": 1440,
+      "height": 162
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/tagline-two-720-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 37464,
+      "width": 720,
+      "height": 228
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/tagline-two-720-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 46406,
+      "width": 720,
+      "height": 228
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/tagline-two-1440-transparent.png",
+      "kind": "Logo PNG",
+      "bytes": 97010,
+      "width": 1440,
+      "height": 456
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/tagline-two-1440-ivory.png",
+      "kind": "Logo PNG",
+      "bytes": 121181,
+      "width": 1440,
+      "height": 456
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/avatar-180.png",
+      "kind": "Avatar PNG",
+      "bytes": 3765,
+      "width": 180,
+      "height": 180
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/avatar-192.png",
+      "kind": "Avatar PNG",
+      "bytes": 4089,
+      "width": 192,
+      "height": 192
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/avatar-512.png",
+      "kind": "Avatar PNG",
+      "bytes": 16023,
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "02_BRAND_KIT/logo-exports/favicon.ico",
+      "kind": "Multi-size ICO",
+      "bytes": 11644
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-back-128.png",
+      "kind": "Laby PNG",
+      "bytes": 7695,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-back-512.png",
+      "kind": "Laby PNG",
+      "bytes": 35156,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-front-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8252,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-front-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37650,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-seated-128.png",
+      "kind": "Laby PNG",
+      "bytes": 7129,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-seated-512.png",
+      "kind": "Laby PNG",
+      "bytes": 33186,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-side-128.png",
+      "kind": "Laby PNG",
+      "bytes": 6106,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-side-512.png",
+      "kind": "Laby PNG",
+      "bytes": 29096,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-small-128.png",
+      "kind": "Laby PNG",
+      "bytes": 5271,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-small-512.png",
+      "kind": "Laby PNG",
+      "bytes": 25504,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-standing-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8368,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-standing-512.png",
+      "kind": "Laby PNG",
+      "bytes": 38011,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-three-quarter-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8258,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/laby-three-quarter-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37680,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-attend-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8252,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-attend-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37650,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-celebrate-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8538,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-celebrate-512.png",
+      "kind": "Laby PNG",
+      "bytes": 38660,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-neutral-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8252,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-neutral-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37650,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-point-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8177,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-point-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37251,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-reflect-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8260,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-reflect-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37642,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-seated-128.png",
+      "kind": "Laby PNG",
+      "bytes": 7129,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/poses-laby-seated-512.png",
+      "kind": "Laby PNG",
+      "bytes": 33186,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-attend-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8252,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-attend-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37650,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-clarify-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8260,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-clarify-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37642,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-dormant-128.png",
+      "kind": "Laby PNG",
+      "bytes": 1221,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-dormant-512.png",
+      "kind": "Laby PNG",
+      "bytes": 5994,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-error-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8260,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-error-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37642,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-input-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8252,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-input-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37650,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-no-result-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8260,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-no-result-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37642,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-processing-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8228,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-processing-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37660,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-ready-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8252,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-ready-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37650,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-result-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8177,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-result-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37251,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-return-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8228,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-return-512.png",
+      "kind": "Laby PNG",
+      "bytes": 37660,
+      "width": 512,
+      "height": 683
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-success-128.png",
+      "kind": "Laby PNG",
+      "bytes": 8538,
+      "width": 128,
+      "height": 171
+    },
+    {
+      "path": "02_BRAND_KIT/laby-model-and-states/exports/states-laby-success-512.png",
+      "kind": "Laby PNG",
+      "bytes": 38660,
+      "width": 512,
+      "height": 683
+    }
+  ],
+  "checks": [],
+  "errors": [],
+  "finished_utc": "2026-11-12T05:24:37.567Z",
+  "readback": {
+    "pdf_pages": 17,
+    "ico_sizes": [
+      [
+        16,
+        16
+      ],
+      [
+        24,
+        24
+      ],
+      [
+        32,
+        32
+      ],
+      [
+        48,
+        48
+      ],
+      [
+        64,
+        64
+      ],
+      [
+        128,
+        128
+      ],
+      [
+        256,
+        256
+      ]
+    ],
+    "status": "PASS"
+  },
+  "scope_note": "Full brand export path: 44 indexed logo PNGs, 3 avatars, 48 Laby PNGs, 1 multi-size ICO, 1 PDF. Full UI/social batch regeneration by this new tool was not rerun; mixed smoke was executed. Original delivery has separately verified 104 UI and 120 social renders."
+}

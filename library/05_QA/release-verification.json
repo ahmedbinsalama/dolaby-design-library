@@ -1,0 +1,2734 @@
+{
+  "id": "QA-DOLABY-RELEASE-001",
+  "date": "2026-11-11T18:32:48.347600+00:00",
+  "scope": "Actual local files, document renders, bounded interactive browser checks; not full accessibility certification or user validation",
+  "status": "PASS_WITH_DECLARED_LIMITS",
+  "counts": {
+    "ui_screen_types": 22,
+    "ui_reference_compositions": 104,
+    "component_families": 30,
+    "social_template_concepts": 24,
+    "social_empty_sources": 48,
+    "social_populated_base_sources": 48,
+    "extra_carousel_slide_sources": 24,
+    "social_png_exports": 120,
+    "social_jpg_exports": 120,
+    "caption_alt_records": 72,
+    "laby_svg_sources": 24,
+    "laby_png_exports": 48,
+    "brand_pdf_pages": 17,
+    "pdf_extracted_characters": 13908
+  },
+  "checks": {
+    "final_png_dimensions": true,
+    "png_files_verified": 224,
+    "exact_css_mobile_viewport_renders": 44,
+    "social_jpg_dimensions": true,
+    "local_html_references_checked": 1189,
+    "missing_local_references": [],
+    "svg_xml_parsed": 59,
+    "json_parsed": 33,
+    "shared_tokens_resolved": 82,
+    "ring_master_byte_identical_to_input": true,
+    "pdf_opened_and_text_extracted": true
+  },
+  "acceptance_status_counts": {
+    "PASS": 27,
+    "NOT_TESTED": 3
+  },
+  "not_tested": [
+    "Native reduced-motion preference runtime",
+    "Full screen reader, 200/400 percent zoom, physical-device and cross-browser matrix",
+    "Universal social-platform crop compliance; Instagram official documentation was rate-limited"
+  ],
+  "dimensions": [
+    {
+      "path": "03_UIUX_KIT/previews/S01-ar-768.png",
+      "expected": [
+        768,
+        1008
+      ],
+      "actual": [
+        768,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S01-ar-390.png",
+      "expected": [
+        390,
+        1237
+      ],
+      "actual": [
+        390,
+        1237
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S01-ar-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S01-en-390.png",
+      "expected": [
+        390,
+        1319
+      ],
+      "actual": [
+        390,
+        1319
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S01-en-768.png",
+      "expected": [
+        768,
+        1008
+      ],
+      "actual": [
+        768,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S02-ar-390.png",
+      "expected": [
+        390,
+        1294
+      ],
+      "actual": [
+        390,
+        1294
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S02-ar-768.png",
+      "expected": [
+        768,
+        1008
+      ],
+      "actual": [
+        768,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S02-en-390.png",
+      "expected": [
+        390,
+        1398
+      ],
+      "actual": [
+        390,
+        1398
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S02-ar-1440.png",
+      "expected": [
+        1440,
+        1026
+      ],
+      "actual": [
+        1440,
+        1026
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S01-en-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S02-en-768.png",
+      "expected": [
+        768,
+        1027
+      ],
+      "actual": [
+        768,
+        1027
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S03-ar-768.png",
+      "expected": [
+        768,
+        1082
+      ],
+      "actual": [
+        768,
+        1082
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S03-ar-390.png",
+      "expected": [
+        390,
+        1529
+      ],
+      "actual": [
+        390,
+        1529
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S03-ar-1440.png",
+      "expected": [
+        1440,
+        1165
+      ],
+      "actual": [
+        1440,
+        1165
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S02-en-1440.png",
+      "expected": [
+        1440,
+        1021
+      ],
+      "actual": [
+        1440,
+        1021
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S03-en-390.png",
+      "expected": [
+        390,
+        1610
+      ],
+      "actual": [
+        390,
+        1610
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S03-en-768.png",
+      "expected": [
+        768,
+        1106
+      ],
+      "actual": [
+        768,
+        1106
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S03-en-1440.png",
+      "expected": [
+        1440,
+        1159
+      ],
+      "actual": [
+        1440,
+        1159
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S04-ar-390.png",
+      "expected": [
+        390,
+        1403
+      ],
+      "actual": [
+        390,
+        1403
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S04-en-1440.png",
+      "expected": [
+        1440,
+        1233
+      ],
+      "actual": [
+        1440,
+        1233
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S04-ar-1440.png",
+      "expected": [
+        1440,
+        1239
+      ],
+      "actual": [
+        1440,
+        1239
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S04-en-390.png",
+      "expected": [
+        390,
+        1457
+      ],
+      "actual": [
+        390,
+        1457
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S05-ar-390.png",
+      "expected": [
+        390,
+        1151
+      ],
+      "actual": [
+        390,
+        1151
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S06-ar-390.png",
+      "expected": [
+        390,
+        924
+      ],
+      "actual": [
+        390,
+        924
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S05-en-1440.png",
+      "expected": [
+        1440,
+        1054
+      ],
+      "actual": [
+        1440,
+        1054
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S05-ar-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S05-en-390.png",
+      "expected": [
+        390,
+        1259
+      ],
+      "actual": [
+        390,
+        1259
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S06-ar-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S06-en-1440.png",
+      "expected": [
+        1440,
+        1071
+      ],
+      "actual": [
+        1440,
+        1071
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S06-en-390.png",
+      "expected": [
+        390,
+        1005
+      ],
+      "actual": [
+        390,
+        1005
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S07-ar-390.png",
+      "expected": [
+        390,
+        1634
+      ],
+      "actual": [
+        390,
+        1634
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S07-ar-1440.png",
+      "expected": [
+        1440,
+        1301
+      ],
+      "actual": [
+        1440,
+        1301
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S07-ar-768.png",
+      "expected": [
+        768,
+        1357
+      ],
+      "actual": [
+        768,
+        1357
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S07-en-768.png",
+      "expected": [
+        768,
+        1487
+      ],
+      "actual": [
+        768,
+        1487
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S07-en-390.png",
+      "expected": [
+        390,
+        1767
+      ],
+      "actual": [
+        390,
+        1767
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S08-ar-1440.png",
+      "expected": [
+        1440,
+        1080
+      ],
+      "actual": [
+        1440,
+        1080
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S08-ar-390.png",
+      "expected": [
+        390,
+        1323
+      ],
+      "actual": [
+        390,
+        1323
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S07-en-1440.png",
+      "expected": [
+        1440,
+        1394
+      ],
+      "actual": [
+        1440,
+        1394
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S08-en-390.png",
+      "expected": [
+        390,
+        1403
+      ],
+      "actual": [
+        390,
+        1403
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S09-ar-390.png",
+      "expected": [
+        390,
+        1380
+      ],
+      "actual": [
+        390,
+        1380
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S08-en-1440.png",
+      "expected": [
+        1440,
+        1075
+      ],
+      "actual": [
+        1440,
+        1075
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S09-ar-1440.png",
+      "expected": [
+        1440,
+        1037
+      ],
+      "actual": [
+        1440,
+        1037
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S09-en-390.png",
+      "expected": [
+        390,
+        1434
+      ],
+      "actual": [
+        390,
+        1434
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S09-en-1440.png",
+      "expected": [
+        1440,
+        1032
+      ],
+      "actual": [
+        1440,
+        1032
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S10-ar-768.png",
+      "expected": [
+        768,
+        1373
+      ],
+      "actual": [
+        768,
+        1373
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S10-ar-390.png",
+      "expected": [
+        390,
+        1301
+      ],
+      "actual": [
+        390,
+        1301
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S10-ar-1440.png",
+      "expected": [
+        1440,
+        1042
+      ],
+      "actual": [
+        1440,
+        1042
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S10-en-390.png",
+      "expected": [
+        390,
+        1356
+      ],
+      "actual": [
+        390,
+        1356
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S10-en-1440.png",
+      "expected": [
+        1440,
+        1036
+      ],
+      "actual": [
+        1440,
+        1036
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S11-ar-390.png",
+      "expected": [
+        390,
+        1368
+      ],
+      "actual": [
+        390,
+        1368
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S10-en-768.png",
+      "expected": [
+        768,
+        1377
+      ],
+      "actual": [
+        768,
+        1377
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S11-ar-1440.png",
+      "expected": [
+        1440,
+        1237
+      ],
+      "actual": [
+        1440,
+        1237
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S12-ar-390.png",
+      "expected": [
+        390,
+        1271
+      ],
+      "actual": [
+        390,
+        1271
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S11-en-390.png",
+      "expected": [
+        390,
+        1448
+      ],
+      "actual": [
+        390,
+        1448
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S11-en-1440.png",
+      "expected": [
+        1440,
+        1307
+      ],
+      "actual": [
+        1440,
+        1307
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S13-ar-390.png",
+      "expected": [
+        390,
+        908
+      ],
+      "actual": [
+        390,
+        908
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S12-ar-1440.png",
+      "expected": [
+        1440,
+        1042
+      ],
+      "actual": [
+        1440,
+        1042
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S12-en-1440.png",
+      "expected": [
+        1440,
+        1112
+      ],
+      "actual": [
+        1440,
+        1112
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S12-en-390.png",
+      "expected": [
+        390,
+        1351
+      ],
+      "actual": [
+        390,
+        1351
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S13-ar-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S13-en-390.png",
+      "expected": [
+        390,
+        932
+      ],
+      "actual": [
+        390,
+        932
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S13-en-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S14-ar-390.png",
+      "expected": [
+        390,
+        1119
+      ],
+      "actual": [
+        390,
+        1119
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S14-ar-768.png",
+      "expected": [
+        768,
+        1065
+      ],
+      "actual": [
+        768,
+        1065
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S14-ar-1440.png",
+      "expected": [
+        1440,
+        1148
+      ],
+      "actual": [
+        1440,
+        1148
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S14-en-390.png",
+      "expected": [
+        390,
+        1220
+      ],
+      "actual": [
+        390,
+        1220
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S14-en-768.png",
+      "expected": [
+        768,
+        1093
+      ],
+      "actual": [
+        768,
+        1093
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S14-en-1440.png",
+      "expected": [
+        1440,
+        1166
+      ],
+      "actual": [
+        1440,
+        1166
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S15-ar-390.png",
+      "expected": [
+        390,
+        1409
+      ],
+      "actual": [
+        390,
+        1409
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S15-ar-1440.png",
+      "expected": [
+        1440,
+        1150
+      ],
+      "actual": [
+        1440,
+        1150
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S15-en-390.png",
+      "expected": [
+        390,
+        1538
+      ],
+      "actual": [
+        390,
+        1538
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S15-en-1440.png",
+      "expected": [
+        1440,
+        1220
+      ],
+      "actual": [
+        1440,
+        1220
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S16-ar-390.png",
+      "expected": [
+        390,
+        1302
+      ],
+      "actual": [
+        390,
+        1302
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S16-ar-1440.png",
+      "expected": [
+        1440,
+        1178
+      ],
+      "actual": [
+        1440,
+        1178
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S16-en-390.png",
+      "expected": [
+        390,
+        1380
+      ],
+      "actual": [
+        390,
+        1380
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S16-en-1440.png",
+      "expected": [
+        1440,
+        1172
+      ],
+      "actual": [
+        1440,
+        1172
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S17-ar-390.png",
+      "expected": [
+        390,
+        908
+      ],
+      "actual": [
+        390,
+        908
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S17-ar-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S17-en-390.png",
+      "expected": [
+        390,
+        908
+      ],
+      "actual": [
+        390,
+        908
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S17-en-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S18-ar-390.png",
+      "expected": [
+        390,
+        1333
+      ],
+      "actual": [
+        390,
+        1333
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S18-ar-768.png",
+      "expected": [
+        768,
+        1096
+      ],
+      "actual": [
+        768,
+        1096
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S18-ar-1440.png",
+      "expected": [
+        1440,
+        1179
+      ],
+      "actual": [
+        1440,
+        1179
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S18-en-390.png",
+      "expected": [
+        390,
+        1500
+      ],
+      "actual": [
+        390,
+        1500
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S18-en-768.png",
+      "expected": [
+        768,
+        1100
+      ],
+      "actual": [
+        768,
+        1100
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S18-en-1440.png",
+      "expected": [
+        1440,
+        1249
+      ],
+      "actual": [
+        1440,
+        1249
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S19-ar-390.png",
+      "expected": [
+        390,
+        908
+      ],
+      "actual": [
+        390,
+        908
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S19-ar-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S19-en-390.png",
+      "expected": [
+        390,
+        908
+      ],
+      "actual": [
+        390,
+        908
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S19-en-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S20-ar-390.png",
+      "expected": [
+        390,
+        1257
+      ],
+      "actual": [
+        390,
+        1257
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S20-ar-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S20-en-390.png",
+      "expected": [
+        390,
+        1364
+      ],
+      "actual": [
+        390,
+        1364
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S20-en-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S21-ar-390.png",
+      "expected": [
+        390,
+        1312
+      ],
+      "actual": [
+        390,
+        1312
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S21-ar-768.png",
+      "expected": [
+        768,
+        1008
+      ],
+      "actual": [
+        768,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S21-ar-1440.png",
+      "expected": [
+        1440,
+        1011
+      ],
+      "actual": [
+        1440,
+        1011
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S21-en-390.png",
+      "expected": [
+        390,
+        1316
+      ],
+      "actual": [
+        390,
+        1316
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S21-en-768.png",
+      "expected": [
+        768,
+        1008
+      ],
+      "actual": [
+        768,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S21-en-1440.png",
+      "expected": [
+        1440,
+        1008
+      ],
+      "actual": [
+        1440,
+        1008
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S22-ar-390.png",
+      "expected": [
+        390,
+        1469
+      ],
+      "actual": [
+        390,
+        1469
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S22-ar-1440.png",
+      "expected": [
+        1440,
+        1314
+      ],
+      "actual": [
+        1440,
+        1314
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S22-en-390.png",
+      "expected": [
+        390,
+        1576
+      ],
+      "actual": [
+        390,
+        1576
+      ],
+      "pass": true
+    },
+    {
+      "path": "03_UIUX_KIT/previews/S22-en-1440.png",
+      "expected": [
+        1440,
+        1335
+      ],
+      "actual": [
+        1440,
+        1335
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P01-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P01-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P01-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P01-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P02-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P02-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P02-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P02-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P03-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P03-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P03-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P03-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P04-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P04-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P04-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P04-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P05-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P05-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P05-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P05-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P06-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P06-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P06-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P06-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P07-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P07-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P07-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P07-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P08-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P08-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P08-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/P08-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C01-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C01-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C01-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C01-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C02-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C02-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C02-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C02-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C03-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C03-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C03-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C03-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C04-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C04-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C04-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C04-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C05-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C05-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C05-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C05-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C06-ar-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C06-en-empty.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C06-ar-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/C06-en-filled.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T01-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T01-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T01-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T01-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T02-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T02-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T02-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T02-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T03-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T03-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T03-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T03-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T04-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T04-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T04-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T04-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T05-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T05-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T05-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T05-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T06-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T06-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T06-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/T06-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V01-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V02-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V01-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V01-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V01-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V02-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V03-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V03-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V02-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V02-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V03-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V04-ar-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V04-en-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V04-ar-empty.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V03-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-ar-01.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/V04-en-filled.png",
+      "expected": [
+        1080,
+        1920
+      ],
+      "actual": [
+        1080,
+        1920
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-ar-02.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-ar-04.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-ar-03.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-en-01.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-ar-05.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-en-03.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-ar-06.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-en-02.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-en-04.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-en-05.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-ar-03.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-ar-01.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA01-en-06.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-ar-02.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-ar-04.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-en-02.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-en-01.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-ar-05.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-en-03.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-ar-06.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-en-06.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-en-05.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    },
+    {
+      "path": "04_SOCIAL_KIT/exports/CA02-en-04.png",
+      "expected": [
+        1080,
+        1350
+      ],
+      "actual": [
+        1080,
+        1350
+      ],
+      "pass": true
+    }
+  ]
+}

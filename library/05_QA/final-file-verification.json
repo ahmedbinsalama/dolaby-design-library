@@ -1,0 +1,49 @@
+{
+  "id": "QA-DOLABY-FINAL-FILES-001",
+  "date_utc": "2026-11-12T05:32:56.424668+00:00",
+  "release_date_local": "2026-11-12",
+  "status": "PASS_WITH_DECLARED_LIMITS",
+  "scope": "Final file/readback/source integrity after adding engine handoff; earlier interactive checks retain their original scope and dates",
+  "counts": {
+    "html_files": 245,
+    "html_local_references": 1461,
+    "css_local_references": 30,
+    "svg_sources": 59,
+    "json_files_parsed": 45,
+    "image_files_verified": {
+      ".jpg": 131,
+      ".png": 356,
+      ".ico": 1
+    },
+    "javascript_files_parsed": 8,
+    "engine_source_hashes_matched": 28,
+    "core_png_dimensions_verified": 224,
+    "social_jpg_dimensions_verified": 120,
+    "pdf_pages": 17,
+    "asset_library_entries": 159
+  },
+  "missing_references": [],
+  "engine_checks": {
+    "engine-export-smoke.json": "PASS",
+    "engine-brand-export.json": "PASS",
+    "engine-document-layout.json": "PASS"
+  },
+  "component_catalog_companion": {
+    "status": "PASS",
+    "action": "READ_ONLY_CHECK",
+    "records": 30,
+    "identical_data": true
+  },
+  "not_tested": [
+    "Native reduced-motion preference runtime",
+    "Full screen-reader/zoom/cross-browser/physical-device matrix",
+    "Clean dependency installation on another device",
+    "Full104UI/120social batch regeneration using the new portable exporter (original outputs separately verified)",
+    "Universal current social platform crop compliance"
+  ],
+  "native_or_production_not_created": [
+    "NativeFigma/Canva",
+    "True3D",
+    "ProductionAI/backend/authentication/merchantservice"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "status": "DESIGN_RESOLVED",
+  "font": "Supplied Cormorant Garamond variable Latin at600",
+  "font_units_per_em": 1000,
+  "wordmark_font_size": 120,
+  "wordmark_advance": 368.04,
+  "ring_diameter": 80,
+  "ring_origin": [
+    20,
+    23
+  ],
+  "wordmark_origin": [
+    120,
+    100
+  ],
+  "canvas_height": 144,
+  "optical_pairs_font_units": {
+    "Do": -8,
+    "oL": 0,
+    "La": -12,
+    "ab": 0,
+    "by": -4
+  },
+  "clearspace": 13.3333,
+  "source": "Supplied font-13.woff2 converted using fontTools4.68; derived font remains OFL",
+  "minimum_size": "See actual QA exports; no market recognition claimed"
+}

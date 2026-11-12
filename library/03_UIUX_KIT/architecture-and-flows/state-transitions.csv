@@ -1,0 +1,10 @@
+﻿flow,transition,action,invariant,failure,recovery
+P1,S02 → S03,Choose occasion; enter image or description,No account required,S03 validates type/size or nonempty text,Input remains in this session; retry from S17
+P1,S03 → S04 → S05,"Review/correct piece, choose optional fit","Ownership is asserted, not image-inferred",Toolbar simulation can fail next input step,S17 → S03 restores text
+P1,S06 → S07 → S08/S09,Open prepared example; swap/explain/reject,No AI request occurs,Unconfirmed pieces remain labeled,Back or new task preserves user agency
+P1,Save → S12 → S11,Save after useful output; demo account only,Guest may continue without account,No email/auth server is claimed,Actual client state records demo signedIn/saved
+P2,S09 → S15 → S16,Optional complementary piece; review source,No-buy route visible,Toolbar next-failure → S17,Retry → S16; preview handoff dialog; no real merchant opened
+P3,S14 → local switches,Independent availability/offers/research control,Selections retained in JS memory during navigation,No legal or server persistence guarantee,Reset clears temporary state
+P3,S14/S10 → delete dialog,Confirm or cancel local garment deletion,Cancel leaves record unchanged,Toolbar next-failure → error on S14,Retry deletion succeeds; S10 omits sample garment
+P4,S18 → S19,Fill merchant interest and acknowledge demo,No live submission,Native email/required checkbox validation,Return to form; no sent-email success claim
+P5,S20 → S21/S22,Filter/review synthetic records; edit local draft,"Role scope is design intent, not security",Empty filter returns no-results text,Clear filter; close dialog; local preview never publishes

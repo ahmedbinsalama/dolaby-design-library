@@ -1,0 +1,96 @@
+{
+  "status": "PASS_WITH_SCOPED_LIMITS",
+  "method": "Observed CUA interactions with actual locally served site under/dolaby-design-library/",
+  "checks": [
+    {
+      "test": "Mobile menu",
+      "status": "PASS",
+      "observed": "Opened/collapsed menu; Escape restored collapsed state and correct accessible label."
+    },
+    {
+      "test": "Global search",
+      "status": "PASS",
+      "observed": "ring-master produced17 matching records with real file detail links."
+    },
+    {
+      "test": "Asset filtering",
+      "status": "PASS",
+      "observed": "laby+SVG returned25 records; pagination exposed25cards; empty state and reset observed."
+    },
+    {
+      "test": "Individual download",
+      "status": "PASS",
+      "observed": "Native ring-master.svg download read back andSHA256 matched canonical198-byte SVG."
+    },
+    {
+      "test": "Screen filters",
+      "status": "PASS",
+      "observed": "S07+English+1440 returned one matching composition."
+    },
+    {
+      "test": "Interactive source frame",
+      "status": "PASS",
+      "observed": "Save outfit inside source frame navigated to demo account/save screen."
+    },
+    {
+      "test": "Social filters",
+      "status": "PASS",
+      "observed": "Post+English+blank produced8templates."
+    },
+    {
+      "test": "Editable preview",
+      "status": "PASS",
+      "observed": "Changed actual contenteditable heading inside template frame."
+    },
+    {
+      "test": "Parent HTML save",
+      "status": "PASS",
+      "observed": "NativeP01-en-edited.html download read back with edited title, relative CSS and removed scripts/toolbar."
+    },
+    {
+      "test": "Carousel navigation",
+      "status": "PASS",
+      "observed": "CA01slide6 switched source URL andPNG download target toactual sixth slide."
+    },
+    {
+      "test": "Document reader",
+      "status": "PASS",
+      "observed": "EngineMarkdown rendered headings, tables and code blocks from actual source."
+    },
+    {
+      "test": "Type and character specimens",
+      "status": "PASS",
+      "observed": "Custom Arabic sample updated; seatedLaby selection changed SVG download target."
+    },
+    {
+      "test": "Search dialog keyboard",
+      "status": "PASS",
+      "observed": "Escape closed native dialog and returned focus to search trigger."
+    },
+    {
+      "test": "Source preview",
+      "status": "PASS",
+      "observed": "SVG displayed as escaped source text in code panel."
+    },
+    {
+      "test": "File explorer",
+      "status": "PASS",
+      "observed": "Site+CSS+site.css produced exactly one actual source row."
+    },
+    {
+      "test": "Unknown file",
+      "status": "PASS",
+      "observed": "Invalid ID displayed a bounded missing-file state; no arbitrary URL opened."
+    }
+  ],
+  "repairs": [
+    "Mobile menu specificity fixed; exact lowercase tagline restored",
+    "Detail/document heading hierarchy corrected",
+    "Nested iframe download was not observed; parent viewer save control added and native download verified"
+  ],
+  "not_tested": [
+    "Native Meta+K keyboard automation did not complete; source registers shortcut, and click/Escape behavior was tested",
+    "Full screen-reader, cross-browser,physical-device and200/400%zoom matrix",
+    "Original kit limitations remain as documented"
+  ]
+}

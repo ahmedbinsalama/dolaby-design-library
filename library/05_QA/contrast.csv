@@ -1,0 +1,27 @@
+﻿foreground,fg_hex,background,bg_hex,ratio,normal_text_4.5,note
+coffee,#382019,linen,#F3E9D8,12.571,PASS,normal-text ratio only; contextual restrictions still apply
+coffee,#382019,ivory,#FCF8F0,14.274,PASS,normal-text ratio only; contextual restrictions still apply
+coffee,#382019,sand,#DDCDB5,9.702,PASS,normal-text ratio only; contextual restrictions still apply
+coffee,#382019,green,#123B32,1.222,FAIL,normal-text ratio only; contextual restrictions still apply
+coffee,#382019,gold,#B69A62,5.607,PASS,normal-text ratio only; contextual restrictions still apply
+ink,#151D2B,linen,#F3E9D8,14.051,PASS,normal-text ratio only; contextual restrictions still apply
+ink,#151D2B,ivory,#FCF8F0,15.955,PASS,normal-text ratio only; contextual restrictions still apply
+ink,#151D2B,sand,#DDCDB5,10.844,PASS,normal-text ratio only; contextual restrictions still apply
+ink,#151D2B,green,#123B32,1.366,FAIL,normal-text ratio only; contextual restrictions still apply
+ink,#151D2B,gold,#B69A62,6.268,PASS,normal-text ratio only; contextual restrictions still apply
+oxblood,#591C2B,linen,#F3E9D8,10.738,PASS,normal-text ratio only; contextual restrictions still apply
+oxblood,#591C2B,ivory,#FCF8F0,12.194,PASS,normal-text ratio only; contextual restrictions still apply
+oxblood,#591C2B,sand,#DDCDB5,8.288,PASS,normal-text ratio only; contextual restrictions still apply
+oxblood,#591C2B,green,#123B32,1.044,FAIL,normal-text ratio only; contextual restrictions still apply
+oxblood,#591C2B,gold,#B69A62,4.79,PASS,normal-text ratio only; contextual restrictions still apply
+black,#000000,linen,#F3E9D8,17.458,PASS,normal-text ratio only; contextual restrictions still apply
+black,#000000,ivory,#FCF8F0,19.824,PASS,normal-text ratio only; contextual restrictions still apply
+black,#000000,sand,#DDCDB5,13.474,PASS,normal-text ratio only; contextual restrictions still apply
+black,#000000,green,#123B32,1.697,FAIL,normal-text ratio only; contextual restrictions still apply
+black,#000000,gold,#B69A62,7.788,PASS,normal-text ratio only; contextual restrictions still apply
+antique,#1C1917,linen,#F3E9D8,14.539,PASS,normal-text ratio only; contextual restrictions still apply
+antique,#1C1917,ivory,#FCF8F0,16.509,PASS,normal-text ratio only; contextual restrictions still apply
+antique,#1C1917,sand,#DDCDB5,11.221,PASS,normal-text ratio only; contextual restrictions still apply
+antique,#1C1917,green,#123B32,1.414,FAIL,normal-text ratio only; contextual restrictions still apply
+antique,#1C1917,gold,#B69A62,6.485,PASS,normal-text ratio only; contextual restrictions still apply
+ivory,#FCF8F0,green,#123B32,11.679,PASS,candidate text-color exception; not old founder approval

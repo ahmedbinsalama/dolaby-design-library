@@ -1,0 +1,7 @@
+﻿id,role,source,relationship,permission
+SOC-LABY-01,neutral,../../01_SHARED_FOUNDATIONS/canonical-laby/poses/laby-neutral.svg,Reference canonical editable master;no independent redraw,Task-created source;no external photo used
+SOC-LABY-02,attend,../../01_SHARED_FOUNDATIONS/canonical-laby/poses/laby-attend.svg,Reference canonical editable master;no independent redraw,Task-created source;no external photo used
+SOC-LABY-03,point,../../01_SHARED_FOUNDATIONS/canonical-laby/poses/laby-point.svg,Reference canonical editable master;no independent redraw,Task-created source;no external photo used
+SOC-LABY-04,celebrate,../../01_SHARED_FOUNDATIONS/canonical-laby/poses/laby-celebrate.svg,Reference canonical editable master;no independent redraw,Task-created source;no external photo used
+SOC-LABY-05,seated,../../01_SHARED_FOUNDATIONS/canonical-laby/poses/laby-seated.svg,Reference canonical editable master;no independent redraw,Task-created source;no external photo used
+SOC-LABY-06,reflect,../../01_SHARED_FOUNDATIONS/canonical-laby/poses/laby-reflect.svg,Reference canonical editable master;no independent redraw,Task-created source;no external photo used

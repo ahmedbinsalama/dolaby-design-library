@@ -1,0 +1,14 @@
+{
+  "package_id": "PK-DOLABY-KITS-001",
+  "artifact_id": "AR-DOLABY-0301",
+  "version": "1.0.0",
+  "archive": "DoLaby-Complete-Kits-v1.0.0.zip",
+  "bytes": 35652330,
+  "sha256": "e70d57b2e29a2c5eeb44d746f49bfd2a75645bc708399b1421deaaced516ac57",
+  "zip_crc": "PASS",
+  "manifest_members_sha256": "PASS",
+  "members_verified": 924,
+  "manifest_self_hash_excluded": true,
+  "verified_utc": "2026-11-12T05:36:18.267637+00:00",
+  "scope": "File integrity and archive opening; does not assert product validation or unperformed tests."
+}

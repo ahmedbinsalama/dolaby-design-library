@@ -1,0 +1,7 @@
+# Visual evidence and final exports
+
+The four UI and four social contact sheets were regenerated from the exact-size final PNGs. The delivery overview is00_START_HERE/contact-sheet.jpg. The book contact sheet shows all17PDF pages; individual page PNGs are under02_BRAND_KIT/previews.
+
+Earlier sample-social.png records the internal failed sample before the footer/content repair; sample-social-fixed.png records the repair. capture-clip-test.png and capture-final-test.png are capture-provider diagnostics, not final exports. Motion and functional screenshots are bounded test evidence. Use the indexed previews/exports as final design assets.
+
+ui-captures.json and social-captures.json retain DOM measurement observations from the initial capture pass. render-progress.json records the final output sizes. cli-exports-partial.json retains the command-line pass before a render timeout; social-remaining-exact-renders.json records its completed remainder.44phone images were replaced using explicit390CSS-pixel viewports in an isolated local document renderer because the command-line renderer applied a minimum layout width. mobile-exact-renders.json records those actual corrected widths/heights and has precedence. release-verification.json verifies actual final PNG dimensions and JPGs. Contact-sheet inspection is visual QA at overview scale, not proof of readable text at every physical device size.

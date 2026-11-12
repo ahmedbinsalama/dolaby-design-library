@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-11",
+  "scope": "One local P02 Arabic editor save/reopen round trip; not a complete editor compatibility matrix",
+  "runtime_observer": "Root assistant using CUA browser tools",
+  "source": "04_SOCIAL_KIT/editor.html?id=P02&lang=ar&mode=filled",
+  "steps_observed": [
+    "Replaced illustration with the project-owned laby-front-512 PNG",
+    "Changed the title to فكرتك، بأسلوبك.",
+    "Activated Save HTML",
+    "Found the actual downloaded P02-ar-edited.html and copied it into the package Social root",
+    "Opened the saved file through localhost and inspected its rendered document"
+  ],
+  "observations": {
+    "title_retained": true,
+    "images_loaded": 2,
+    "embedded_png_loaded": true,
+    "document_fonts_status": "loaded",
+    "editor_toolbar_present": false,
+    "script_elements": 0
+  },
+  "automation_note": "The download-event listener timed out; the real downloaded file was found and reopened. No claim of a successful listener event is made.",
+  "artifact": "04_SOCIAL_KIT/P02-ar-edited-example.html",
+  "artifact_sha256": "1f575eac4a51338f9099e3822b2403f84007069831cfc8be100c036e830d4ce3",
+  "screenshot": "05_QA/visual-review/test-social-edited.png",
+  "static_crosscheck": {
+    "title_text_present": true,
+    "embedded_png_data_urls": 1,
+    "script_elements": 0
+  },
+  "result": "PASS_SCOPED",
+  "limits": [
+    "One template and one language tested",
+    "Saved HTML relies on sibling master CSS and shared assets in the preserved package structure",
+    "Saved source is a static editable HTML artifact; saving does not generate a new PNG/JPG",
+    "No cross-browser, screen reader or physical-device matrix was performed"
+  ]
+}

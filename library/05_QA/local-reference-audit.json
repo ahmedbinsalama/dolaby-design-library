@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-11",
+  "scope": "Static local reference audit only; not browser behavior or final archive verification",
+  "html_files": 242,
+  "local_html_references": 1184,
+  "missing_html_targets": [
+    {
+      "source": "00_START_HERE/index.html",
+      "target": "contact-sheet.jpg"
+    }
+  ],
+  "local_css_references": 30,
+  "missing_css_targets": [],
+  "expected_pending_artifacts": [
+    "00_START_HERE/contact-sheet.jpg"
+  ],
+  "repairs": [
+    "Created00_START_HERE/screens.html with104source/preview links",
+    "Updated launcher screen index target"
+  ],
+  "limits": [
+    "Export rendering and archive integrity verified separately at release",
+    "No inference of runtime behavior from reference existence"
+  ],
+  "stage": "PRE_FINAL_EXPORT_SNAPSHOT"
+}

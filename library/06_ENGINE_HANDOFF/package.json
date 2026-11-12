@@ -1,0 +1,20 @@
+{
+  "name": "dolaby-local-design-exporter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local document export tools for the actual DoLaby design sources; no production AI service",
+  "scripts": {
+    "export": "node tools/export-local.cjs",
+    "smoke": "node tools/export-local.cjs --smoke",
+    "verify": "python3 tools/verify-package.py",
+    "sync:catalog": "node tools/sync-catalog.cjs --write",
+    "check:catalog": "node tools/sync-catalog.cjs"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "playwright": "1.62.1",
+    "sharp": "0.35.5"
+  }
+}

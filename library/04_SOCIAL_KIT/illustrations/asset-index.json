@@ -1,0 +1,23 @@
+[
+  {
+    "id": "illustration:shirt",
+    "source": "shirt.svg",
+    "derived_from": "../master/render.js",
+    "status": "Original project vector; standalone extraction of the same editable paths",
+    "license": "Project asset; no legal clearance opinion"
+  },
+  {
+    "id": "illustration:trousers",
+    "source": "trousers.svg",
+    "derived_from": "../master/render.js",
+    "status": "Original project vector; standalone extraction of the same editable paths",
+    "license": "Project asset; no legal clearance opinion"
+  },
+  {
+    "id": "illustration:shoes",
+    "source": "shoes.svg",
+    "derived_from": "../master/render.js",
+    "status": "Original project vector; standalone extraction of the same editable paths",
+    "license": "Project asset; no legal clearance opinion"
+  }
+]

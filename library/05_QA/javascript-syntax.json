@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "source": "02_BRAND_KIT/motion-web-demo/motion.js",
+      "syntax": "PASS"
+    },
+    {
+      "source": "03_UIUX_KIT/components/catalog-data.js",
+      "syntax": "PASS"
+    },
+    {
+      "source": "03_UIUX_KIT/components/catalog.js",
+      "syntax": "PASS"
+    },
+    {
+      "source": "03_UIUX_KIT/prototype/app.js",
+      "syntax": "PASS"
+    },
+    {
+      "source": "04_SOCIAL_KIT/master/render.js",
+      "syntax": "PASS"
+    },
+    {
+      "source": "04_SOCIAL_KIT/master/templates.js",
+      "syntax": "PASS"
+    },
+    {
+      "source": "06_ENGINE_HANDOFF/tools/export-local.cjs",
+      "syntax": "PASS"
+    },
+    {
+      "source": "06_ENGINE_HANDOFF/tools/sync-catalog.cjs",
+      "syntax": "PASS"
+    }
+  ],
+  "scope": "Parser only; bounded runtime behaviors recorded separately"
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "B01",
+    "purpose": "Exact ring",
+    "source": "../01_SHARED_FOUNDATIONS/canonical-logo/ring-master.svg",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B02",
+    "purpose": "Live/outlined wordmark",
+    "source": "../01_SHARED_FOUNDATIONS/canonical-logo/wordmark-outlined.svg",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B03",
+    "purpose": "Horizontal lockup",
+    "source": "../01_SHARED_FOUNDATIONS/canonical-logo/logo-lockup.svg",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B04",
+    "purpose": "Icons/avatar",
+    "source": "logo-exports/",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B05",
+    "purpose": "Tagline one/two lines",
+    "source": "../01_SHARED_FOUNDATIONS/canonical-logo/tagline-two.svg",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B06",
+    "purpose": "Palette/roles",
+    "source": "colors/palette.html",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B07",
+    "purpose": "Type specimens",
+    "source": "typography/specimen.html",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B08",
+    "purpose": "Editable character/views",
+    "source": "laby-model-and-states/model-sheet.html",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B09",
+    "purpose": "Measured vector geometry",
+    "source": "../01_SHARED_FOUNDATIONS/canonical-laby/geometry.json",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B10",
+    "purpose": "Eleven event states",
+    "source": "laby-model-and-states/state-sheet.html",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B11",
+    "purpose": "Editable transformation layers",
+    "source": "motion-web-demo/index.html",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B12",
+    "purpose": "Runnable signature motion",
+    "source": "motion-web-demo/index.html",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B13",
+    "purpose": "Six symbol families",
+    "source": "visual-language/symbol-register.json",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B14",
+    "purpose": "Photography/rights rules",
+    "source": "booklet/brand-book.html#chapter-14",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B15",
+    "purpose": "Three original applications",
+    "source": "applications/",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  },
+  {
+    "id": "B16",
+    "purpose": "Misuse examples",
+    "source": "visual-language/misuse.html",
+    "status": "CREATED",
+    "license": "Original vector/layout work or supplied font under included OFL; source identities documented",
+    "known_limits": "Native Figma/Canva, true3D, legal clearance and user validation not asserted",
+    "acceptance": "See actual root05_QA evidence; file existence is not a behavior test"
+  }
+]

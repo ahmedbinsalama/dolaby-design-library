@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "individual_svg": {
+    "bytes": 198,
+    "sha256_matches_source": true
+  },
+  "parent_viewer_html_save": {
+    "file": "P01-en-edited.html",
+    "bytes": 1517,
+    "edited_title_retained": true,
+    "scripts_and_toolbar_removed": true,
+    "relative_source_css_retained": true
+  },
+  "repair": "Nested iframe download was not observed; added a parent viewer save control, then observed native download and read back actual file."
+}

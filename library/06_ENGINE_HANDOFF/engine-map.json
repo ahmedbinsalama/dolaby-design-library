@@ -1,0 +1,174 @@
+{
+  "artifact_id": "AR-DOLABY-0301",
+  "venture_id": "DOLABY",
+  "version": "1.0.0",
+  "release_date_local": "2026-11-12",
+  "status": "DRAFT_LOCAL_HANDOFF",
+  "owner_id": "OW-DOLABY-0301",
+  "engines": [
+    {
+      "id": "engine:foundations",
+      "status": "IMPLEMENTED_LOCAL",
+      "purpose": "Shared design values, font loading and canonical SVG geometry",
+      "masters": [
+        "01_SHARED_FOUNDATIONS/tokens.json",
+        "01_SHARED_FOUNDATIONS/tokens.css",
+        "01_SHARED_FOUNDATIONS/fonts-and-licenses/fonts.css",
+        "01_SHARED_FOUNDATIONS/canonical-logo/geometry.json",
+        "01_SHARED_FOUNDATIONS/canonical-laby/geometry.json"
+      ],
+      "mechanism": "82 typed tokens, CSS custom properties, local variable fonts and editable SVG paths; CSS is a delivered companion, not generated at browser runtime",
+      "limits": "Changes to JSON do not automatically rewrite CSS, motion geometry or exports",
+      "source_hashes": {
+        "01_SHARED_FOUNDATIONS/tokens.json": "d332e4b30c7c047e9a09651361c29b2144c61f4f8f95c4389fe948024888d4ac",
+        "01_SHARED_FOUNDATIONS/tokens.css": "c639928847c527dcbf5c1a896c47eade97509a860abe31b02d2e7a9867b97e99",
+        "01_SHARED_FOUNDATIONS/fonts-and-licenses/fonts.css": "40a7f9f9e57ecc6ea415be927c0390cab3e1e3fa5ec02344778230dc4815c13d",
+        "01_SHARED_FOUNDATIONS/canonical-logo/geometry.json": "0c9d22c88168e714659fe51df3c2ac33da9d5261dd4321c9a86c0b75e25b7e58",
+        "01_SHARED_FOUNDATIONS/canonical-laby/geometry.json": "c87ef0f2827c4b38e819668f769f084eb2a40914871323bc5003caa9df7bb4f6"
+      }
+    },
+    {
+      "id": "engine:interface",
+      "status": "IMPLEMENTED_LOCAL_DEMO",
+      "purpose": "22 screen types and bounded P1–P5 prototype flows",
+      "masters": [
+        "03_UIUX_KIT/prototype/index.html",
+        "03_UIUX_KIT/prototype/app.js",
+        "03_UIUX_KIT/prototype/app.css"
+      ],
+      "mechanism": "Query screen/lang -> bodyFor() -> HTML; delegated data-go/data-action/data-form events; History API routing; in-memory demonstration state",
+      "limits": "No recommendation model, server, real account, live catalog or backend persistence. Recommendations are fixed authored examples; changing description/context does not calculate a new outfit",
+      "source_hashes": {
+        "03_UIUX_KIT/prototype/index.html": "347135a27ee295d6cc5a3fee57351bca27034cd83d1ca6b63607d0a16474643b",
+        "03_UIUX_KIT/prototype/app.js": "0d8ec34f4bf3474208efb821580259460d8742515aef4106368a192b1a7299af",
+        "03_UIUX_KIT/prototype/app.css": "f1fadf2ce2d6ddbf9dbd5d1a873f4eebccb9dfae50f30291720317bf0654bb19"
+      }
+    },
+    {
+      "id": "engine:components",
+      "status": "IMPLEMENTED_LOCAL_GALLERY",
+      "purpose": "30 component families and state/property documentation",
+      "masters": [
+        "03_UIUX_KIT/components/component-catalog.json",
+        "03_UIUX_KIT/components/catalog-data.js",
+        "03_UIUX_KIT/components/catalog.js",
+        "03_UIUX_KIT/components/index.html",
+        "06_ENGINE_HANDOFF/tools/sync-catalog.cjs"
+      ],
+      "mechanism": "Local data script and gallery renderer; source catalog carries anatomy/properties/states/keyboard/localization references; optional synchronization tool regenerates the local JavaScript data companion from canonical JSON",
+      "limits": "Gallery and prototype share foundations but are separate source renderers; a gallery edit does not automatically update app.js",
+      "source_hashes": {
+        "03_UIUX_KIT/components/component-catalog.json": "2763193bc0734813cd3c26701d34dd023345bbc7c51ce9793ed16b5cfa171080",
+        "03_UIUX_KIT/components/catalog-data.js": "835c76ff10c7353e7f044b3adfcdc03eaa8bd0a98d3691dd413f452f9d1b5605",
+        "03_UIUX_KIT/components/catalog.js": "42972bbb30f3617c514e144325b502b6cdbd2407ede5c6dca7596a12edcfc5e6",
+        "03_UIUX_KIT/components/index.html": "d122b7fc0941318ee630dbbe340bbe1177d294e478f1a3138e5f7bd6d8f8982c",
+        "06_ENGINE_HANDOFF/tools/sync-catalog.cjs": "adca245142527ca250f3d8d3f9e7baa058f5618a7d84b62cc5b3837a69c75ae0"
+      }
+    },
+    {
+      "id": "engine:motion",
+      "status": "IMPLEMENTED_LOCAL",
+      "purpose": "4.8-second brand scene, fixed full identity fallback and controls",
+      "masters": [
+        "02_BRAND_KIT/motion-web-demo/index.html",
+        "02_BRAND_KIT/motion-web-demo/motion.js",
+        "02_BRAND_KIT/motion-web-demo/motion.css",
+        "02_BRAND_KIT/motion-web-demo/motion-spec.json"
+      ],
+      "mechanism": "Measure Do/Laby after fonts load, one requestAnimationFrame clock, clamped smoothstep positions, reveal and retrieval masks; optional ?t=seconds deterministic preview",
+      "limits": "No autoplay; browser visibility/offscreen pauses; no automatic resume. Native reduced-motion preference runtime remains untested; source and static fallback inspected",
+      "source_hashes": {
+        "02_BRAND_KIT/motion-web-demo/index.html": "66c7d0c406c01b76c51c0fd684b09ab6fc77bdbd38c1814c0fffbfde6d5c3ec6",
+        "02_BRAND_KIT/motion-web-demo/motion.js": "28e3ac7ddee65b64d9b3aad0b225214dec3f5039e0a209485131d1bcb59defa9",
+        "02_BRAND_KIT/motion-web-demo/motion.css": "a95452b021f9aa9c74dcd8533e47e437263a3c817435b3fb21e98d08b7b47726",
+        "02_BRAND_KIT/motion-web-demo/motion-spec.json": "90a4772c235a2da529958b9c5b4a09845cca104ab6f760451bbce2da1f2468c9"
+      }
+    },
+    {
+      "id": "engine:social",
+      "status": "IMPLEMENTED_LOCAL",
+      "purpose": "24 template concepts, AR/EN blank/filled versions and complete carousel examples",
+      "masters": [
+        "04_SOCIAL_KIT/editor.html",
+        "04_SOCIAL_KIT/master/templates.js",
+        "04_SOCIAL_KIT/master/render.js",
+        "04_SOCIAL_KIT/master/styles.css",
+        "04_SOCIAL_KIT/export-index.json"
+      ],
+      "mechanism": "Query/default or SOCIAL_CONFIG -> template record -> editable artboard; local FileReader image replacement; clone current HTML, remove scripts/toolbar and download snapshot",
+      "limits": "Saved HTML retains editable text, embedded selected image and relative dependencies; it has no template-switching engine. Save does not generate PNG/JPG or publish",
+      "source_hashes": {
+        "04_SOCIAL_KIT/editor.html": "fa113f2af0b16c76ce0c42b778c69180f40361b71812aad900e8fe08d82cf448",
+        "04_SOCIAL_KIT/master/templates.js": "2541cd14e877e5bd6998967cbfa605209fecf67156d375e30d1927dd1e911b0a",
+        "04_SOCIAL_KIT/master/render.js": "78273a0f5a8bc41878dc4fda66037077ace1c60b9428361dce05ebae8278af31",
+        "04_SOCIAL_KIT/master/styles.css": "57ca153e5d503a79e5320388fe54e70448933d5f751d8263010f961cfbbda16b",
+        "04_SOCIAL_KIT/export-index.json": "aaabcfa6e8b4426000a90b6d799dbc6ab08f1e537d4a40f945e94871048cbbff"
+      }
+    },
+    {
+      "id": "engine:social-motion",
+      "status": "IMPLEMENTED_LOCAL_SOURCE",
+      "purpose": "Silent intro/outro social motion graphic",
+      "masters": [
+        "04_SOCIAL_KIT/motion/index.html"
+      ],
+      "mechanism": "Inline 4-second requestAnimationFrame opacity timeline, intro/outro selector, play/replay/skip and deterministic ?t preview; fixed 1080x1920 artboard",
+      "limits": "Editable HTML/CSS/JS/SVG source; no encoded video/audio file produced. Native reduced-motion and full runtime-control matrix not separately exercised",
+      "source_hashes": {
+        "04_SOCIAL_KIT/motion/index.html": "df085ecb2558b180c01bba656d05e490ea7b226d7b38022604ada6682adf8934"
+      }
+    },
+    {
+      "id": "engine:export",
+      "status": "IMPLEMENTED_LOCAL_TOOL",
+      "purpose": "Regenerate indexed UI/social outputs, brand book PDF and core vector derivatives into a separate folder",
+      "masters": [
+        "06_ENGINE_HANDOFF/tools/export-local.cjs",
+        "06_ENGINE_HANDOFF/package.json"
+      ],
+      "mechanism": "Isolated Playwright Chromium document renderer with explicit CSS viewport and local fonts; Sharp vector/PNG/JPG processing; JSON execution report",
+      "limits": "Requires optional local tool dependencies. The existing delivered assets open without Node. Does not create native Figma/Canva/3D/video or perform a full accessibility audit",
+      "source_hashes": {
+        "06_ENGINE_HANDOFF/tools/export-local.cjs": "9def2b80954cae1daa0df686d4546229d6a7bf57b614980be0ea09840dc185c2",
+        "06_ENGINE_HANDOFF/package.json": "26dcdaf4810a6248b67195f742cf8012c8139d1f31446c9cdb2970fb296975f6"
+      }
+    },
+    {
+      "id": "engine:integrity",
+      "status": "IMPLEMENTED_LOCAL_TOOL",
+      "purpose": "Verify supplied file hashes and optional ZIP members",
+      "masters": [
+        "06_ENGINE_HANDOFF/tools/verify-package.py",
+        "delivery-manifest.json"
+      ],
+      "mechanism": "Python standard-library SHA256 and ZIP CRC/member comparison",
+      "limits": "A hash proves byte identity, not product quality, legal clearance or demand",
+      "source_hashes": {
+        "06_ENGINE_HANDOFF/tools/verify-package.py": "88af269ec3e4e9cbc0a69d4524ec28e3de23cbc1027fbc6ae7e2b60fde09eb08"
+      },
+      "hash_note": "Delivery manifest is intentionally not hashed here to avoid a circular manifest/engine-map dependency; final archive hash is in the adjacent receipt."
+    },
+    {
+      "id": "contract:entities",
+      "status": "DESIGN_CONTRACT_ONLY",
+      "purpose": "Seven entity definitions for future production implementation",
+      "masters": [
+        "03_UIUX_KIT/microcopy-and-demo-data/entity-schemas.json",
+        "03_UIUX_KIT/microcopy-and-demo-data/demo-data.json"
+      ],
+      "mechanism": "Human-readable fields and synthetic examples, not an installed database or executable schema validator",
+      "limits": "No live API endpoints, migrations, authentication policies or production storage were created",
+      "source_hashes": {
+        "03_UIUX_KIT/microcopy-and-demo-data/entity-schemas.json": "55aecbbc8d4322772b64c3a7ac7f9e7b72e850c03d38c629549cc73c8e165ddb",
+        "03_UIUX_KIT/microcopy-and-demo-data/demo-data.json": "dd99993bdad96ec00ce1c12d5484e57706d8dd2db9f8cc543ffbf25ff527e450"
+      }
+    }
+  ],
+  "not_created": [
+    "Production AI styling/inference service",
+    "Production backend/database/authentication",
+    "Live merchant/payment/email integration",
+    "True3D mesh/rig",
+    "Native Figma/Canva authoring file"
+  ]
+}

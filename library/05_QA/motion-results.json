@@ -1,0 +1,105 @@
+{
+  "frames": [
+    {
+      "mascotAlpha": "0.000",
+      "name": "DoLaby",
+      "phase": "dormant",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "527.000",
+      "suffixClip": "0.000",
+      "suffixEnd": "471.000",
+      "time": "0.000"
+    },
+    {
+      "mascotAlpha": "0.000",
+      "name": "DoLaby",
+      "phase": "reveal",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "460.594",
+      "suffixClip": "0.000",
+      "suffixEnd": "471.000",
+      "time": "0.500"
+    },
+    {
+      "mascotAlpha": "0.000",
+      "name": "DoLaby",
+      "phase": "hold",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "102.000",
+      "suffixClip": "0.000",
+      "suffixEnd": "471.000",
+      "time": "1.400"
+    },
+    {
+      "mascotAlpha": "0.000",
+      "name": "DoLaby",
+      "phase": "retrieve",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "102.000",
+      "suffixClip": "272.899",
+      "suffixEnd": "471.000",
+      "time": "2.150"
+    },
+    {
+      "mascotAlpha": "0.000",
+      "name": "DoLaby",
+      "phase": "retrieve",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "199.281",
+      "suffixClip": "272.899",
+      "suffixEnd": "471.000",
+      "time": "2.650"
+    },
+    {
+      "mascotAlpha": "0.082",
+      "name": "DoLaby",
+      "phase": "retrieve",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "401.719",
+      "suffixClip": "377.719",
+      "suffixEnd": "471.000",
+      "time": "3.200"
+    },
+    {
+      "mascotAlpha": "0.791",
+      "name": "DoLaby",
+      "phase": "retrieve",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "497.787",
+      "suffixClip": "471.000",
+      "suffixEnd": "471.000",
+      "time": "3.650"
+    },
+    {
+      "mascotAlpha": "1.000",
+      "name": "DoLaby",
+      "phase": "complete",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "344.899",
+      "suffixClip": "471.000",
+      "suffixEnd": "471.000",
+      "time": "4.400"
+    },
+    {
+      "mascotAlpha": "1.000",
+      "name": "DoLaby",
+      "phase": "complete",
+      "prefix": "Do",
+      "prefixEnd": "272.899",
+      "ringX": "344.899",
+      "suffixClip": "471.000",
+      "suffixEnd": "471.000",
+      "time": "4.800"
+    }
+  ],
+  "pauseStatus": "الحركة متوقفة مؤقتًا عند 0.42 ثانية.",
+  "skipStatus": "تم التخطي إلى الاسم الكامل الثابت."
+}

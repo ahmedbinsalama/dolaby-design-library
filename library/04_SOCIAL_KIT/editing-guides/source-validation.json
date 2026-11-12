@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-11",
+  "scope": "Static social source/index/caption/dependency validation only",
+  "base_templates": 24,
+  "base_empty_sources": 48,
+  "base_filled_sources": 48,
+  "sequence_slide_sources": 24,
+  "caption_and_alt_rows": 72,
+  "canonical_pose_links": 6,
+  "png_export_paths_indexed": 120,
+  "missing_static_html_dependencies": [],
+  "svg_xml_parse": "PASS",
+  "node_render_syntax": "PASS",
+  "runtime_crop_and_save_download": "Root browser QA; not certified by this static check",
+  "native_canva": "NOT_CREATED",
+  "platform_export_status": "INSTAGRAM_PROVISIONAL;TIKTOK_DIMENSION_SCOPED"
+}
